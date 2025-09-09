@@ -1,0 +1,151 @@
+{
+  "name": "Dori Barbafuerte",
+  "description": "En las canteras más duras de las Montañas Azules, donde el granito es más duro que el acero, Dori Barbafuerte nació para ser constructor. Su padre, un arquitecto real, le enseñó que cada piedra tiene su lugar perfecto, y que un edificio bien construido puede durar milenios. Dori no solo construye edificios, sino que los hace cantar. Sus construcciones tienen propiedades acústicas perfectas, y el viento que pasa por sus arcos crea melodías que calman el alma. A los 195 años, Dori ha construido más de noventa estructuras, desde simples casas hasta palacios que desafían la gravedad. Su obra maestra es la 'Catedral de los Siete Pilares', una estructura que se eleva hacia el cielo como si fuera tallada por los dioses. Dori puede sentir la estructura molecular de cualquier piedra con solo tocarla, y sabe exactamente cómo cortarla para que encaje perfectamente. Sus herramientas, forjadas por él mismo, nunca se desafilan y siempre encuentran el ángulo perfecto. Cuando construye, Dori canta viejas canciones de construcción que han pasado de generación en generación, y cada piedra que coloca parece resonar con la melodía. Sus edificios no solo son hermosos, sino que están imbuidos de magia que los hace prácticamente indestructibles.",
+  "image": "https://app.baeza.me/metadata/imgs/19.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4682B4",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Arquitecto y Constructor"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 220
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.21 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "89 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Construcción de Catedrales"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Diamante"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Granito de Montaña"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Edificios que Cantan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbafuerte"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas Azules"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Piedra"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Granito"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Constructor Perfeccionista"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Cantar Canciones de Construcción"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan de Centeno con Mantequilla"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza de Malta Clara"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 195,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Edificios Construidos",
+      "value": 94,
+      "max_value": 150
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Construcción",
+      "value": 55
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia de Edificios",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567909
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Constructor de los Dioses"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Terremotos"
+    }
+  ]
+}

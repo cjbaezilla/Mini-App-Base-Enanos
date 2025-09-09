@@ -1,0 +1,151 @@
+{
+  "name": "Dain Sextillaversoeterno",
+  "description": "En los laboratorios más sextillaversales de las Montañas del Sextillaverso Infinito, donde los sextillaversos contienen todos los quintillaversos posibles, Dain Sextillaversoeterno nació para dominar los secretos más profundos del sextillaverso. Su padre, un maestro del sextillaverso legendario, le enseñó que cada sextillaverso contiene todos los quintillaversos posibles, y que un verdadero maestro puede manipular todos los sextillaversos simultáneamente. Dain no solo controla el sextillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos sextillaversos, destruir sextillaversos existentes, e incluso fusionar sextillaversos. A los 278 años, Dain ha dominado más de tres millones doscientos cuarenta y cuatro mil doscientos setenta y nueve mil seiscientos doce mil ciento cincuenta y cinco mil trescientos cincuenta y dos mil hechizos sextillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Sextillaverso Eterno', un hechizo que puede crear un campo donde múltiples sextillaversos coexisten. Su laboratorio está lleno de fragmentos de sextillaversos que brillan con luz propia, cada uno conteniendo un sextillaverso diferente. Dain puede sentir la estructura de cada sextillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices sextillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de sextillaversos y los sextillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son sextillaversales, sino que pueden afectar a múltiples septillaversos y algunas incluso pueden crear nuevos octillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/154.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Sextillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 278
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.68 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "129 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Sextillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Sextillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Sextillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Sextillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Sextillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Sextillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Sextillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sextillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Sextillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Sextillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Sextillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 256,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Sextillaversales",
+      "value": 3244279612155352000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Sextillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Sextillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573489
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Sextillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Sextillaverso"
+    }
+  ]
+}

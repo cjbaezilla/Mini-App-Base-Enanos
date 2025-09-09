@@ -1,0 +1,151 @@
+{
+  "name": "Thorin Universoeterno",
+  "description": "En los laboratorios más universales de las Montañas del Universo Infinito, donde los universos se crean y se destruyen constantemente, Thorin Universoeterno nació para dominar los secretos más profundos del universo. Su padre, un maestro del universo legendario, le enseñó que cada universo es un mundo completo, y que un verdadero maestro puede crear y destruir universos libremente. Thorin no solo controla el universo, sino que lo hace su esencia. Sus poderes pueden crear nuevos universos, destruir universos existentes, e incluso fusionar universos. A los 262 años, Thorin ha dominado más de mil quinientos hechizos universales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Universo Eterno', un hechizo que puede crear un campo donde múltiples universos coexisten. Su laboratorio está lleno de fragmentos de universos que brillan con luz propia, cada uno conteniendo un universo diferente. Thorin puede sentir la estructura de cada universo con solo cerrar los ojos, y sus manos, cubiertas de cicatrices universales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de universos y los universos se superponen, moviéndose como si fueran capas de realidad. Sus poderes no solo son universales, sino que pueden afectar a múltiples multiversos y algunas incluso pueden crear nuevos omniversos.",
+  "image": "https://app.baeza.me/metadata/imgs/80.png",
+  "external_url": "https://baeza.me",
+  "background_color": "000000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Universo"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 262
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "87 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Universo"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Universo Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Universo"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Universo"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Universoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Universo Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Negro Universo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Negro Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Universo Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Universos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Universo"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Universo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 240,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Universales",
+      "value": 1534,
+      "max_value": 2200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Universo",
+      "value": 85
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Universo",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567970
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Universo Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Universo"
+    }
+  ]
+}

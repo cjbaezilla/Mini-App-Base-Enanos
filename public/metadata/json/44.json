@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Barbarayo",
+  "description": "En las cumbres más altas de las Montañas del Rayo, donde las tormentas eléctricas iluminan el cielo día y noche, Bofur Barbarayo nació con el don del rayo. Su padre, un maestro del rayo, le enseñó que cada chispa tiene su propósito, y que un verdadero maestro del rayo puede hacer que el cielo responda a su llamada. Bofur no solo controla el rayo, sino que lo hace bailar. Su técnica única combina la magia del rayo con la sabiduría de las tormentas, creando descargas eléctricas que pueden iluminar ciudades enteras o destruir fortalezas. A los 192 años, Bofur ha dominado todos los secretos del rayo, desde la chispa más pequeña hasta el rayo más devastador. Su obra maestra es la 'Torre del Rayo Eterno', una estructura que canaliza la energía del cielo para crear luz perpetua. Bofur puede sentir las tormentas eléctricas a kilómetros de distancia, y sus manos, cubiertas de chispas eléctricas, nunca pierden su toque mágico. Su observatorio está construido en la cima más alta de las montañas, y el aire siempre huele a ozono y magia eléctrica. Cuando invoca rayos, Bofur canta canciones que aprendió de los propios truenos, y el rayo responde a su voz, creando patrones que nadie más puede lograr. Sus habilidades no solo son poderosas, sino que tienen propiedades mágicas que pueden dar vida a máquinas y curar enfermedades.",
+  "image": "https://app.baeza.me/metadata/imgs/44.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Rayo"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 217
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "79 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Rayo Elemental"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Rayo"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Rayo del Cielo"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Rayos que Bailan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbarayo"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Rayo"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Amarillo Rayo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Amarillo Eléctrico"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Inventor Energético"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar Tormentas Eléctricas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne Electrificada"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua Ionizada"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 192,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Tormentas Controladas",
+      "value": 39,
+      "max_value": 50
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Rayo",
+      "value": 68
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Descargas",
+      "value": 96
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567934
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Voz del Cielo"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Tierra"
+    }
+  ]
+}

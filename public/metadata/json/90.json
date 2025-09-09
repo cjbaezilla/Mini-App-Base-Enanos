@@ -1,0 +1,151 @@
+{
+  "name": "Fili Ronaversoeterno",
+  "description": "En los laboratorios más ronaversales de las Montañas del Ronaverso Infinito, donde los ronaversos contienen todos los yottaversos posibles, Fili Ronaversoeterno nació para dominar los secretos más profundos del ronaverso. Su padre, un maestro del ronaverso legendario, le enseñó que cada ronaverso contiene todos los yottaversos posibles, y que un verdadero maestro puede manipular todos los ronaversos simultáneamente. Fili no solo controla el ronaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos ronaversos, destruir ronaversos existentes, e incluso fusionar ronaversos. A los 233 años, Fili ha dominado más de dos mil quinientos hechizos ronaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Ronaverso Eterno', un hechizo que puede crear un campo donde múltiples ronaversos coexisten. Su laboratorio está lleno de fragmentos de ronaversos que brillan con luz propia, cada uno conteniendo un ronaverso diferente. Fili puede sentir la estructura de cada ronaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices ronaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de ronaversos y los ronaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa. Sus poderes no solo son ronaversales, sino que pueden afectar a múltiples quetaversos y algunas incluso pueden crear nuevos vettaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/90.png",
+  "external_url": "https://baeza.me",
+  "background_color": "00FF00",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Ronaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 233
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Ronaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Ronaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Ronaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Ronaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Ronaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Ronaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Ronaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Ronaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Ronaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Ronaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Ronaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 211,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Ronaversales",
+      "value": 2534,
+      "max_value": 3200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Ronaverso",
+      "value": 98
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Ronaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567980
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Ronaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Ronaverso"
+    }
+  ]
+}

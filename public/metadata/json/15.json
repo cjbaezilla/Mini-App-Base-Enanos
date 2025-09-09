@@ -1,0 +1,151 @@
+{
+  "name": "Balin Barbacristal",
+  "description": "En las cuevas más profundas de las Montañas de Cristal, donde las formaciones brillan como estrellas bajo tierra, Balin Barbacristal nació con el don de la luz. Su padre, un tallador de cristales, le enseñó que cada cristal tiene su frecuencia única, y que la luz no solo ilumina, sino que puede curar y proteger. Balin no solo talla cristales, sino que los hace cantar con luz. Su técnica única combina la talla tradicional con la magia de la iluminación, creando cristales que brillan con colores imposibles. A los 201 años, Balin ha creado más de quinientos cristales mágicos, cada uno más hermoso que el anterior. Su obra maestra es el 'Cristal del Sol Eterno', una gema que brilla con la intensidad del sol y nunca se apaga. Balin puede sentir la estructura molecular de cualquier cristal con solo tocarlo, y sus manos, cubiertas de polvo de cristal, nunca pierden su toque mágico. Su taller está lleno de cristales que flotan en el aire, cada uno resonando con una frecuencia única, y el aire siempre huele a ozono y magia pura. Cuando talla, Balin canta canciones que aprendió de los propios cristales, y las gemas responden a su voz, brillando con intensidades que nadie más puede lograr. Sus creaciones no solo son hermosas, sino que tienen propiedades curativas y protectoras que pueden sanar heridas y alejar a los espíritus malignos.",
+  "image": "https://app.baeza.me/metadata/imgs/15.png",
+  "external_url": "https://baeza.me",
+  "background_color": "87CEEB",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Cristales"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 226
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "77 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Cristales de Luz Mágica"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Luz"
+    },
+    {
+      "trait_type": "Cristal Preferido",
+      "value": "Cristal de Sol"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Cristales que Cantan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbacristal"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Cristal"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Cristal"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Cielo"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Artista de la Luz"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar Refracciones de Luz"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Frutas Cítricas"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Cristal"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 201,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cristales Creados",
+      "value": 534,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tallado",
+      "value": 62
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Oscuridad",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567905
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Luz Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Criaturas de la Oscuridad"
+    }
+  ]
+}

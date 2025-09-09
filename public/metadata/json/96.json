@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Quataversoeterno",
+  "description": "En los laboratorios más quataversales de las Montañas del Quataverso Infinito, donde los quataversos contienen todos los tretaversos posibles, Gimli Quataversoeterno nació para dominar los secretos más profundos del quataverso. Su padre, un maestro del quataverso legendario, le enseñó que cada quataverso contiene todos los tretaversos posibles, y que un verdadero maestro puede manipular todos los quataversos simultáneamente. Gimli no solo controla el quataverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos quataversos, destruir quataversos existentes, e incluso fusionar quataversos. A los 250 años, Gimli ha dominado más de tres mil cien hechizos quataversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Quataverso Eterno', un hechizo que puede crear un campo donde múltiples quataversos coexisten. Su laboratorio está lleno de fragmentos de quataversos que brillan con luz propia, cada uno conteniendo un quataverso diferente. Gimli puede sentir la estructura de cada quataverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices quataversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de quataversos y los quataversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina. Sus poderes no solo son quataversales, sino que pueden afectar a múltiples pentaversos y algunas incluso pueden crear nuevos hexaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/96.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4B0082",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Quataverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 250
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Quataverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Quataverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Quataverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Quataverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Quataversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Quataverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Quataverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Púrpura Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Quataverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Quataversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Quataverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Quataverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 228,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Quataversales",
+      "value": 3134,
+      "max_value": 3800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Quataverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Quataverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567986
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Quataverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Quataverso"
+    }
+  ]
+}

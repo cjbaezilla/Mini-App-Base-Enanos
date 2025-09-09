@@ -1,0 +1,151 @@
+{
+  "name": "Dori Escudolegendario",
+  "description": "En las forjas más sagradas de las Montañas de la Transformación, donde el metal se transforma en luz pura, Dori Escudolegendario nació para crear escudos que pueden cambiar la realidad. Su padre, un forjador de escudos legendario, le enseñó que un escudo no solo protege, sino que puede transformar el ataque en defensa. Dori no solo forja escudos, sino que los hace transformadores. Sus creaciones pueden cambiar de forma, tamaño, e incluso material según la necesidad. A los 245 años, Dori ha forjado más de cuatrocientos escudos diferentes, cada uno con propiedades únicas. Su obra maestra es el 'Escudo del Fénix', que puede transformarse en cualquier forma y regenerarse automáticamente. Su taller está lleno de escudos flotantes que brillan con luz propia, cada uno esperando a su portador perfecto. Dori puede sentir la personalidad de cada metal con solo tocarlo, y sus manos, cubiertas de cicatrices de transformación, nunca pierden su toque mágico. Cuando forja, el aire se llena de chispas de luz y los escudos cobran vida, moviéndose como si tuvieran voluntad propia. Sus creaciones no solo son impenetrables, sino que pueden adaptarse a cualquier situación y algunas incluso pueden volar.",
+  "image": "https://app.baeza.me/metadata/imgs/56.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF6347",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Forjador de Escudos"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 245
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "87 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Forja de Escudos Mágicos"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo de Transformación"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Metal de Transformación"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Escudos Transformadores"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Escudolegendario"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Transformación"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Naranja Fuego"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Transformador Noble"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Probar Escudos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Transformación"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Cambio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 223,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Escudos Forjados",
+      "value": 456,
+      "max_value": 700
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Transformación",
+      "value": 67
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Transformación",
+      "value": 89
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567946
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Transformación"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Transformación"
+    }
+  ]
+}

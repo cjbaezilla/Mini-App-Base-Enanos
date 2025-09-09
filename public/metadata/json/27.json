@@ -1,0 +1,151 @@
+{
+  "name": "Dori Barbaluna",
+  "description": "En las cuevas más secretas de las Montañas de la Luna, donde la luz lunar se filtra a través de cristales de cuarzo, Dori Barbaluna nació con el don de la luna. Su padre, un maestro de la luna, le enseñó que cada fase lunar tiene su poder, y que un verdadero maestro de la luna puede hacer que la noche responda a su llamada. Dori no solo controla la luna, sino que la hace brillar. Su técnica única combina la magia lunar con la sabiduría de los ciclos, creando ilusiones que pueden confundir o proteger según su voluntad. A los 201 años, Dori ha dominado todos los secretos de la luna, desde la luna nueva hasta la luna llena. Su obra maestra es el 'Templo de la Luna Eterna', una estructura que brilla con luz lunar y nunca se oscurece. Dori puede sentir las fases lunares sin mirar al cielo, y sus manos, cubiertas de polvo lunar, nunca pierden su toque mágico. Su santuario está excavado en una caverna de cristal, y el aire siempre huele a luz de luna y magia plateada. Cuando invoca la luna, Dori canta canciones que aprendió de los propios ciclos lunares, y la luna responde a su voz, creando patrones que nadie más puede lograr. Sus habilidades no solo son hermosas, sino que tienen propiedades mágicas que pueden curar la locura y revelar verdades ocultas.",
+  "image": "https://app.baeza.me/metadata/imgs/27.png",
+  "external_url": "https://baeza.me",
+  "background_color": "C0C0C0",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Luna"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 226
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "74 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 76,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Luna Elemental"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Luna"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Luz de Luna"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Luna que Brilla"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaluna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Luna"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Plata Lunar"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Plata Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Místico Lunar"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar Fases Lunares"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Queso de Luna"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Leche de Luna"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 201,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Ciclos Lunares Dominados",
+      "value": 2847,
+      "max_value": 3000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Luna",
+      "value": 78
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Locura",
+      "value": 92
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567917
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Ojo de la Luna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Criaturas de la Oscuridad"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Balin Huesomagico",
+  "description": "En las cuevas más profundas de las Montañas de la Vida, donde los huesos de dragones antiguos brillan con luz mágica, Balin Huesomagico nació para dar nueva vida a los restos de los poderosos. Su padre, un tallador de huesos legendario, le enseñó que cada hueso contiene la esencia de su dueño original, y que un verdadero maestro puede liberar ese poder. Balin no solo talla huesos, sino que los hace vivir de nuevo. Sus creaciones pueden caminar, volar, e incluso pensar por sí mismas. A los 251 años, Balin ha tallado más de ochocientos artefactos de hueso, cada uno con habilidades únicas. Su obra maestra es el 'Dragón de Hueso', una criatura que puede volar y escupir fuego mágico. Su taller está lleno de huesos flotantes que se mueven solos, cada uno tallado con runas que brillan con luz dorada. Balin puede sentir la personalidad de cada hueso con solo tocarlo, y sus manos, cubiertas de polvo de hueso mágico, nunca pierden su precisión. Cuando talla, el aire se llena de espíritus que cantan, y los huesos cobran vida, moviéndose como si fueran criaturas vivas. Sus creaciones no solo son hermosas, sino que pueden luchar, proteger, y algunas incluso pueden hablar.",
+  "image": "https://app.baeza.me/metadata/imgs/52.png",
+  "external_url": "https://baeza.me",
+  "background_color": "F5F5DC",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Hueso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 251
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "79 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Huesos Mágicos"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Hueso de Dragón"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Hueso de Dragón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Huesos Vivientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Huesomagico"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Vida"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Hueso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Necromante Noble"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Comunicarse con Espíritus"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Vida"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Resurrección"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 229,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Huesos Tallados",
+      "value": 847,
+      "max_value": 1200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Necromancia",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Vida",
+      "value": 92
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567942
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Vida"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Vida"
+    }
+  ]
+}

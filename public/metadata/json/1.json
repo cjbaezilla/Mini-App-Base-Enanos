@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Piedrabrillante",
+  "description": "En los valles ocultos de Erebor, donde las gemas crecen como flores en primavera, Gimli Piedrabrillante nació bajo la luz de una luna de zafiro. Su padre, un tallador de gemas sin igual, le enseñó desde niño a ver la belleza oculta en cada piedra. Gimli no solo talla gemas, sino que las hace cantar. Sus creaciones emiten melodías etéreas que calman el alma y fortalecen el espíritu. A los 180 años, ya había tallado la Corona de los Siete Reinos, una obra maestra que brilla con la luz de siete estrellas diferentes. Su taller está lleno de cristales que flotan en el aire, cada uno resonando con una frecuencia única. Gimli cree que cada gema tiene un alma, y su trabajo es liberar esa alma para que pueda brillar en todo su esplendor. Sus manos, cubiertas de polvo de diamante, pueden sentir la estructura molecular de cualquier piedra preciosa. Cuando talla, el mundo se detiene, y solo existe él, la gema, y la música que surge de su trabajo. Sus gemas han curado enfermedades, protegido ciudades enteras, y algunas incluso han hablado con sus portadores en sueños.",
+  "image": "https://app.baeza.me/metadata/imgs/1.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4169E1",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Gemas"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 203
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 72,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Gemas Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Cristal de Luna"
+    },
+    {
+      "trait_type": "Gema Preferida",
+      "value": "Zafiro Estelar"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Gemas Cantantes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Piedrabrillante"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Erebor"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Azul Zafiro"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta Profundo"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Artista Perfeccionista"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar el Canto de las Piedras"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo Brillante con Miel"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Vino de Cristal"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 185,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Gemas Talladas",
+      "value": 2156,
+      "max_value": 3000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tallado",
+      "value": 60
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Visión de Gemas",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567891
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de las Piedras Cantantes"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Hielo"
+    }
+  ]
+}

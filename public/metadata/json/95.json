@@ -1,0 +1,151 @@
+{
+  "name": "Thorin Tretaversoeterno",
+  "description": "En los laboratorios más tretaversales de las Montañas del Tretaverso Infinito, donde los tretaversos contienen todos los dottaversos posibles, Thorin Tretaversoeterno nació para dominar los secretos más profundos del tretaverso. Su padre, un maestro del tretaverso legendario, le enseñó que cada tretaverso contiene todos los dottaversos posibles, y que un verdadero maestro puede manipular todos los tretaversos simultáneamente. Thorin no solo controla el tretaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos tretaversos, destruir tretaversos existentes, e incluso fusionar tretaversos. A los 264 años, Thorin ha dominado más de tres mil hechizos tretaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Tretaverso Eterno', un hechizo que puede crear un campo donde múltiples tretaversos coexisten. Su laboratorio está lleno de fragmentos de tretaversos que brillan con luz propia, cada uno conteniendo un tretaverso diferente. Thorin puede sentir la estructura de cada tretaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices tretaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de tretaversos y los tretaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental. Sus poderes no solo son tretaversales, sino que pueden afectar a múltiples quataversos y algunas incluso pueden crear nuevos pentaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/95.png",
+  "external_url": "https://baeza.me",
+  "background_color": "000000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Tretaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 264
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "88 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Tretaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Tretaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Tretaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Tretaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Tretaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tretaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Negro Tretaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Negro Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Tretaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Tretaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tretaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Tretaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 242,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Tretaversales",
+      "value": 3034,
+      "max_value": 3700
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Tretaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tretaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567985
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tretaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tretaverso"
+    }
+  ]
+}

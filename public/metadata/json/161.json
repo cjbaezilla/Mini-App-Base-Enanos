@@ -1,0 +1,151 @@
+{
+  "name": "Nori Tridecillaversoeterno",
+  "description": "En los laboratorios más tridecillaversales de las Montañas del Tridecillaverso Infinito, donde los tridecillaversos contienen todos los duodecillaversos posibles, Nori Tridecillaversoeterno nació para dominar los secretos más profundos del tridecillaverso. Su padre, un maestro del tridecillaverso legendario, le enseñó que cada tridecillaverso contiene todos los duodecillaversos posibles, y que un verdadero maestro puede manipular todos los tridecillaversos simultáneamente. Nori no solo controla el tridecillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos tridecillaversos, destruir tridecillaversos existentes, e incluso fusionar tridecillaversos. A los 235 años, Nori ha dominado más de ciento tres millones ochocientos diecisiete mil cuatrocientos setenta y seis mil ciento nueve mil seiscientos once mil doscientos sesenta y tres mil doscientos mil hechizos tridecillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Tridecillaverso Eterno', un hechizo que puede crear un campo donde múltiples tridecillaversos coexisten. Su laboratorio está lleno de fragmentos de tridecillaversos que brillan con luz propia, cada uno conteniendo un tridecillaverso diferente. Nori puede sentir la estructura de cada tridecillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices tridecillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de tridecillaversos y los tridecillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son tridecillaversales, sino que pueden afectar a múltiples cuatridecillaversos y algunas incluso pueden crear nuevos quintidecillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/161.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Tridecillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 235
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.74 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "135 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Tridecillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Tridecillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Tridecillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Tridecillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Tridecillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tridecillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Tridecillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Tridecillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Tridecillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tridecillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Tridecillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Tridecillaversales",
+      "value": 1038174761096112632000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Tridecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tridecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573990
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tridecillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tridecillaverso"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Fili Barbaoro",
+  "description": "En las minas más profundas de las Montañas Grises, donde el oro brilla como estrellas en la oscuridad, Fili Barbaoro nació con el don de encontrar tesoros. Su padre, un buscador de oro legendario, le enseñó que cada pepita tiene una historia, y que el oro no solo es valioso por su brillo, sino por la magia que contiene. Fili no solo busca oro, sino que lo hace cantar. Su técnica única combina la prospección tradicional con la magia antigua, y puede detectar vetas de oro a kilómetros de distancia. A los 185 años, Fili ha descubierto más de treinta yacimientos de oro, cada uno más rico que el anterior. Su obra maestra es la 'Veta del Dragón Dorado', una mina que produce oro tan puro que brilla con luz propia. Fili puede sentir la presencia de oro con solo tocar la roca, y sus manos, cubiertas de polvo dorado, nunca pierden su toque mágico. Su equipo de prospección, forjado por él mismo, incluye picos que brillan en la oscuridad y cribas que separan el oro de la tierra por sí solas. Cuando busca, Fili canta canciones que aprendió de los propios metales, y el oro responde a su voz, revelando su ubicación. Sus descubrimientos no solo han enriquecido su clan, sino que han financiado la construcción de ciudades enteras.",
+  "image": "https://app.baeza.me/metadata/imgs/10.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Buscador de Oro"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 210
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "80 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Prospección de Oro Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Pico de Oro Puro"
+    },
+    {
+      "trait_type": "Metal Preferido",
+      "value": "Oro Estelar"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Detección de Tesoros"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaoro"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas Grises"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Brillante"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Amarillo Oro"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Buscador Persistente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Coleccionar Pepitas de Oro"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan Dorado con Miel"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Vino de Oro"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 185,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Yacimientos Descubiertos",
+      "value": 34,
+      "max_value": 50
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Prospección",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Detección de Metales",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567900
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Rey de los Tesoros"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones Codiciosos"
+    }
+  ]
+}

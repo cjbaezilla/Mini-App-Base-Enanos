@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Septidecillaversoeterno",
+  "description": "En los laboratorios más septidecillaversales de las Montañas del Septidecillaverso Infinito, donde los septidecillaversos contienen todos los sextidecillaversos posibles, Bombur Septidecillaversoeterno nació para dominar los secretos más profundos del septidecillaverso. Su padre, un maestro del septidecillaverso legendario, le enseñó que cada septidecillaverso contiene todos los sextidecillaversos posibles, y que un verdadero maestro puede manipular todos los septidecillaversos simultáneamente. Bombur no solo controla el septidecillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos septidecillaversos, destruir septidecillaversos existentes, e incluso fusionar septidecillaversos. A los 270 años, Bombur ha dominado más de ciento tres millones ochocientos diecisiete mil cuatrocientos setenta y seis mil ciento nueve mil seiscientos once mil doscientos sesenta y tres mil doscientos mil hechizos septidecillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Septidecillaverso Eterno', un hechizo que puede crear un campo donde múltiples septidecillaversos coexisten. Su laboratorio está lleno de fragmentos de septidecillaversos que brillan con luz propia, cada uno conteniendo un septidecillaverso diferente. Bombur puede sentir la estructura de cada septidecillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices septidecillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de septidecillaversos y los septidecillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son septidecillaversales, sino que pueden afectar a múltiples octidecillaversos y algunas incluso pueden crear nuevos nonidecillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/165.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Septidecillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 270
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.78 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "139 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Septidecillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Septidecillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Septidecillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Septidecillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Septidecillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Septidecillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Septidecillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Septidecillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Septidecillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Septidecillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Septidecillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 248,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Septidecillaversales",
+      "value": 1038174761096112632000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Septidecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Septidecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573994
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Septidecillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Septidecillaverso"
+    }
+  ]
+}

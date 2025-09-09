@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Octillaversoeterno",
+  "description": "En los laboratorios más octillaversales de las Montañas del Octillaverso Infinito, donde los octillaversos contienen todos los septillaversos posibles, Gimli Octillaversoeterno nació para dominar los secretos más profundos del octillaverso. Su padre, un maestro del octillaverso legendario, le enseñó que cada octillaverso contiene todos los septillaversos posibles, y que un verdadero maestro puede manipular todos los octillaversos simultáneamente. Gimli no solo controla el octillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos octillaversos, destruir octillaversos existentes, e incluso fusionar octillaversos. A los 250 años, Gimli ha dominado más de doce millones novecientos setenta y siete mil ciento dieciocho mil cuatrocientos sesenta y dos mil seiscientos veinte mil mil cuatrocientos ocho mil hechizos octillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Octillaverso Eterno', un hechizo que puede crear un campo donde múltiples octillaversos coexisten. Su laboratorio está lleno de fragmentos de octillaversos que brillan con luz propia, cada uno conteniendo un octillaverso diferente. Gimli puede sentir la estructura de cada octillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices octillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de octillaversos y los octillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son octillaversales, sino que pueden afectar a múltiples nonillaversos y algunas incluso pueden crear nuevos decillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/156.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Octillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 250
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.70 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "131 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Octillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Octillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Octillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Octillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Octillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Octillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Octillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Octillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Octillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Octillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Octillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 228,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Octillaversales",
+      "value": 1297711844626201408000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Octillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Octillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573689
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Octillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Octillaverso"
+    }
+  ]
+}

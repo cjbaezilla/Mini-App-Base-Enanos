@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Novendecaversoeterno",
+  "description": "En los laboratorios más novendecaversales de las Montañas del Novendecaverso Infinito, donde los novendecaversos contienen todos los octodecaversos posibles, Gimli Novendecaversoeterno nació para dominar los secretos más profundos del novendecaverso. Su padre, un maestro del novendecaverso legendario, le enseñó que cada novendecaverso contiene todos los octodecaversos posibles, y que un verdadero maestro puede manipular todos los novendecaversos simultáneamente. Gimli no solo controla el novendecaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos novendecaversos, destruir novendecaversos existentes, e incluso fusionar novendecaversos. A los 248 años, Gimli ha dominado más de doscientos trece mil hechizos novendecaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Novendecaverso Eterno', un hechizo que puede crear un campo donde múltiples novendecaversos coexisten. Su laboratorio está lleno de fragmentos de novendecaversos que brillan con luz propia, cada uno conteniendo un novendecaverso diferente. Gimli puede sentir la estructura de cada novendecaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices novendecaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de novendecaversos y los novendecaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son novendecaversales, sino que pueden afectar a múltiples vigintaversos y algunas incluso pueden crear nuevos unvigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/111.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Novendecaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 248
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.25 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "86 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Novendecaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Novendecaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Novendecaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Novendecaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Novendecaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Novendecaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Novendecaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Novendecaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Novendecaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Novendecaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Novendecaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 226,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Novendecaversales",
+      "value": 213000,
+      "max_value": 300000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Novendecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Novendecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569189
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Novendecaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Novendecaverso"
+    }
+  ]
+}

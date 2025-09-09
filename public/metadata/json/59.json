@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Muerteeterna",
+  "description": "En los laboratorios más oscuros de las Montañas de la Muerte, donde las sombras cobran vida, Bombur Muerteeterna nació para dominar los secretos más profundos de la muerte. Su padre, un maestro de la muerte legendario, le enseñó que la muerte no es el final, sino el comienzo de una nueva existencia. Bombur no solo controla la muerte, sino que la hace su aliada. Sus poderes pueden causar muerte instantánea, resucitar a los muertos, e incluso comunicarse con los espíritus. A los 272 años, Bombur ha dominado más de setecientos hechizos de muerte diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de la Muerte Eterna', un hechizo que puede crear un ejército de muertos vivientes. Su laboratorio está lleno de cráneos flotantes que brillan con luz propia, cada uno conteniendo un espíritu diferente. Bombur puede sentir la presencia de la muerte con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de muerte, nunca pierden su precisión. Cuando trabaja, el aire se llena de susurros de los muertos y las sombras cobran vida, moviéndose como criaturas vivas. Sus poderes no solo son mortales, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear portales al más allá.",
+  "image": "https://app.baeza.me/metadata/imgs/59.png",
+  "external_url": "https://baeza.me",
+  "background_color": "000000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Muerte"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 272
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.22 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "91 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de la Muerte Mágica"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Muerte Eterna"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Hueso de Dragón Muerto"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de la Muerte"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Muerteeterna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Muerte"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Negro Muerte"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Negro Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Necromante Oscuro"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Comunicarse con Muertos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Muerte"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Muerte"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 250,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Muerte",
+      "value": 734,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Muerte",
+      "value": 78
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Muerte",
+      "value": 97
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567949
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Muerte Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Muerte"
+    }
+  ]
+}

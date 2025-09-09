@@ -1,0 +1,151 @@
+{
+  "name": "Ori Barbaagua",
+  "description": "En las cuevas más profundas de las Montañas de Agua, donde los ríos subterráneos fluyen como venas de cristal, Ori Barbaagua nació con el don del agua. Su padre, un maestro del agua, le enseñó que cada gota tiene su propósito, y que un verdadero maestro del agua puede hacer que los océanos respondan a su llamada. Ori no solo controla el agua, sino que la hace cantar. Su técnica única combina la magia del agua con la sabiduría de los mares, creando corrientes que pueden curar o destruir según su voluntad. A los 187 años, Ori ha dominado todos los secretos del agua, desde la gota más pequeña hasta el océano más vasto. Su obra maestra es el 'Palacio de Cristal Submarino', una estructura que flota en las profundidades y nunca se moja. Ori puede sentir las corrientes de agua a kilómetros de distancia, y sus manos, cubiertas de gotas de agua, nunca pierden su toque mágico. Su cueva está llena de estanques que brillan con luz propia, y el aire siempre huele a agua fresca y magia marina. Cuando invoca el agua, Ori canta canciones que aprendió de los propios océanos, y el agua responde a su voz, tomando formas que nadie más puede lograr. Sus habilidades no solo son hermosas, sino que tienen propiedades mágicas que pueden curar enfermedades y crear vida.",
+  "image": "https://app.baeza.me/metadata/imgs/25.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4682B4",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Agua"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 212
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.14 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "75 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Agua Elemental"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Agua"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Agua de Manantial"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Agua que Canta"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaagua"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Agua"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Azul Agua"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Océano"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sanador Fluido"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar el Canto de los Ríos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pescado Fresco"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Manantial"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 187,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Ríos Controlados",
+      "value": 34,
+      "max_value": 50
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Agua",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Inundaciones",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567915
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Corazón de los Océanos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Fuego"
+    }
+  ]
+}

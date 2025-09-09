@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Tiempoeterno",
+  "description": "En los laboratorios más antiguos de las Montañas del Tiempo, donde el tiempo fluye como un río, Bofur Tiempoeterno nació para dominar los secretos más profundos del tiempo. Su padre, un maestro del tiempo legendario, le enseñó que el tiempo no es lineal, y que un verdadero maestro puede ver todos los momentos simultáneamente. Bofur no solo controla el tiempo, sino que lo hace su aliado. Sus poderes pueden acelerar, ralentizar, e incluso detener el tiempo completamente. A los 258 años, Bofur ha dominado más de quinientos hechizos temporales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Tiempo Eterno', un hechizo que puede crear bucles temporales infinitos. Su laboratorio está lleno de relojes flotantes que brillan con luz propia, cada uno mostrando un tiempo diferente. Bofur puede sentir el flujo del tiempo con solo cerrar los ojos, y sus manos, cubiertas de cicatrices temporales, nunca pierden su precisión. Cuando trabaja, el aire se llena de ecos del pasado y visiones del futuro, y el tiempo parece detenerse. Sus poderes no solo son poderosos, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear realidades alternativas.",
+  "image": "https://app.baeza.me/metadata/imgs/58.png",
+  "external_url": "https://baeza.me",
+  "background_color": "2F4F4F",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Tiempo"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 258
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.19 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "83 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 76,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Tiempo Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Reloj de Tiempo Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Tiempo"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación Temporal"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Tiempoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tiempo"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Tiempo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Maestro Temporal"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar el Tiempo"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tiempo"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Eternidad"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 236,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Temporales",
+      "value": 567,
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tiempo",
+      "value": 75
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tiempo",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567948
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tiempo Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tiempo"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Oin Espacioeterno",
+  "description": "En los laboratorios más espaciales de las Montañas del Espacio Infinito, donde el espacio se dobla y se retuerce, Oin Espacioeterno nació para dominar los secretos más profundos del espacio. Su padre, un maestro del espacio legendario, le enseñó que el espacio no es vacío, sino lleno de posibilidades infinitas, y que un verdadero maestro puede manipular el espacio mismo. Oin no solo controla el espacio, sino que lo hace su esencia. Sus poderes pueden crear portales, doblar el espacio, e incluso crear nuevas dimensiones espaciales. A los 252 años, Oin ha dominado más de mil cien hechizos espaciales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Espacio Eterno', un hechizo que puede crear un campo donde el espacio se dobla infinitamente. Su laboratorio está lleno de portales flotantes que brillan con luz propia, cada uno conectando a diferentes lugares del espacio. Oin puede sentir la curvatura del espacio con solo cerrar los ojos, y sus manos, cubiertas de cicatrices espaciales, nunca pierden su precisión. Cuando trabaja, el aire se llena de portales y el espacio se dobla, moviéndose como si fuera líquido. Sus poderes no solo son espaciales, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos universos.",
+  "image": "https://app.baeza.me/metadata/imgs/77.png",
+  "external_url": "https://baeza.me",
+  "background_color": "000080",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Espacio"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 252
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Espacio"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Espacio Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Espacio"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Espacio"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Espacioeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Espacio Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Azul Espacio"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Profundo"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Espacial Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Portales"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Espacio"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Espacio"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 230,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Espaciales",
+      "value": 1134,
+      "max_value": 1600
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Espacio",
+      "value": 75
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Espacio",
+      "value": 93
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567967
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Espacio Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Espacio"
+    }
+  ]
+}

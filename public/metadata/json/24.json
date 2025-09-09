@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Barbatierra",
+  "description": "En las profundidades más oscuras de las Montañas de Tierra, donde la roca se mueve como un ser vivo, Dwalin Barbatierra nació con el don de la tierra. Su padre, un maestro de la tierra, le enseñó que cada piedra tiene su historia, y que un verdadero maestro de la tierra puede hacer que las montañas respondan a su llamada. Dwalin no solo controla la tierra, sino que la hace cantar. Su técnica única combina la magia de la tierra con la sabiduría de los ancestros, creando terremotos controlados que pueden construir o destruir según su voluntad. A los 205 años, Dwalin ha dominado todos los secretos de la tierra, desde la arena más fina hasta la roca más dura. Su obra maestra es la 'Fortaleza de Piedra Viva', una estructura que se mueve y cambia según las necesidades de sus habitantes. Dwalin puede sentir las vibraciones de la tierra a kilómetros de distancia, y sus manos, cubiertas de polvo de roca, nunca pierden su toque mágico. Su cueva está excavada en el corazón de una montaña viva, y el aire siempre huele a tierra fresca y magia ancestral. Cuando invoca la tierra, Dwalin canta canciones que aprendió de los propios montes, y la roca responde a su voz, tomando formas que nadie más puede lograr. Sus habilidades no solo son poderosas, sino que tienen propiedades mágicas que pueden crear o destruir montañas enteras.",
+  "image": "https://app.baeza.me/metadata/imgs/24.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8B4513",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Tierra"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 230
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.22 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "93 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Tierra Elemental"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Piedra"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Roca de Montaña"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Tierra que Canta"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbatierra"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Tierra"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Marrón Tierra"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Marrón Roca"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Guardián Estable"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar el Latido de la Tierra"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Raíces y Tubérculos"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Manantial"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 205,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Montañas Movidas",
+      "value": 23,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tierra",
+      "value": 75
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Terremotos",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567914
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Corazón de las Montañas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Aire"
+    }
+  ]
+}

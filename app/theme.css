@@ -1,0 +1,302 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* App Theme - Beige/Sepia Palette */
+  --app-background: #f5f1e8;
+  --app-background-secondary: #ede7d9;
+  --app-background-tertiary: #e6ddd0;
+  --app-foreground: #3d3526;
+  --app-foreground-muted: #6b5d47;
+  --app-foreground-dim: #8b7d6b;
+  
+  /* Brand Colors */
+  --app-accent: #8b4513;
+  --app-accent-hover: #a0522d;
+  --app-accent-active: #654321;
+  --app-accent-light: rgba(139, 69, 19, 0.1);
+  --app-accent-glow: rgba(139, 69, 19, 0.3);
+  
+  /* Secondary Colors */
+  --app-purple: #6b4c93;
+  --app-purple-hover: #5a3d7a;
+  --app-purple-light: rgba(107, 76, 147, 0.1);
+  
+  --app-cyan: #4a6741;
+  --app-cyan-hover: #3d5536;
+  --app-cyan-light: rgba(74, 103, 65, 0.1);
+  
+  --app-green: #556b2f;
+  --app-green-hover: #4a5a28;
+  --app-green-light: rgba(85, 107, 47, 0.1);
+  
+  /* Surface Colors */
+  --app-surface: rgba(139, 69, 19, 0.05);
+  --app-surface-hover: rgba(139, 69, 19, 0.08);
+  --app-surface-active: rgba(139, 69, 19, 0.12);
+  --app-surface-border: rgba(139, 69, 19, 0.15);
+  
+  /* Card Colors */
+  --app-card-bg: rgba(255, 255, 255, 0.7);
+  --app-card-border: rgba(139, 69, 19, 0.2);
+  --app-card-hover: rgba(255, 255, 255, 0.8);
+  
+  /* Paper Effect */
+  --app-paper-bg: #faf8f3;
+  --app-paper-border: rgba(139, 69, 19, 0.2);
+  --app-paper-shadow: 0 4px 8px rgba(139, 69, 19, 0.1);
+  
+  /* Gradients */
+  --app-gradient-primary: linear-gradient(135deg, #8b4513 0%, #6b4c93 100%);
+  --app-gradient-secondary: linear-gradient(135deg, #4a6741 0%, #556b2f 100%);
+  --app-gradient-surface: linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(245, 241, 232, 0.9) 100%);
+  
+  /* Shadows */
+  --app-shadow-glow: 0 0 15px rgba(139, 69, 19, 0.2);
+  --app-shadow-card: 0 4px 12px rgba(139, 69, 19, 0.15);
+  --app-shadow-nav: 0 -2px 8px rgba(139, 69, 19, 0.1);
+}
+
+.mini-app-theme {
+  --ock-font-family: "Crimson Text", serif;
+  --ock-border-radius: 0.5rem;
+  --ock-border-radius-inner: 0.25rem;
+
+  /* Text colors */
+  --ock-text-inverse: var(--app-background);
+  --ock-text-foreground: var(--app-foreground);
+  --ock-text-foreground-muted: var(--app-foreground-muted);
+  --ock-text-error: #ff4757;
+  --ock-text-primary: var(--app-accent);
+  --ock-text-success: var(--app-green);
+  --ock-text-warning: #ffa726;
+  --ock-text-disabled: var(--app-foreground-dim);
+
+  /* Background colors */
+  --ock-bg-default: var(--app-background);
+  --ock-bg-default-hover: var(--app-background-secondary);
+  --ock-bg-default-active: var(--app-background-tertiary);
+  --ock-bg-alternate: var(--app-surface);
+  --ock-bg-alternate-hover: var(--app-surface-hover);
+  --ock-bg-alternate-active: var(--app-surface-active);
+  --ock-bg-inverse: var(--app-foreground);
+  --ock-bg-inverse-hover: var(--app-foreground-muted);
+  --ock-bg-inverse-active: var(--app-foreground-dim);
+  --ock-bg-primary: var(--app-accent);
+  --ock-bg-primary-hover: var(--app-accent-hover);
+  --ock-bg-primary-active: var(--app-accent-active);
+  --ock-bg-primary-washed: var(--app-accent-light);
+  --ock-bg-primary-disabled: var(--app-foreground-dim);
+  --ock-bg-secondary: var(--app-surface);
+  --ock-bg-secondary-hover: var(--app-surface-hover);
+  --ock-bg-secondary-active: var(--app-surface-active);
+  --ock-bg-error: rgba(255, 71, 87, 0.1);
+  --ock-bg-warning: rgba(255, 167, 38, 0.1);
+  --ock-bg-success: var(--app-green-light);
+  --ock-bg-default-reverse: var(--app-foreground);
+
+  /* Icon colors */
+  --ock-icon-color-primary: var(--app-accent);
+  --ock-icon-color-foreground: var(--app-foreground);
+  --ock-icon-color-foreground-muted: var(--app-foreground-muted);
+  --ock-icon-color-inverse: var(--app-background);
+  --ock-icon-color-error: #ff4757;
+  --ock-icon-color-success: var(--app-green);
+  --ock-icon-color-warning: #ffa726;
+
+  /* Line colors */
+  --ock-line-primary: var(--app-accent);
+  --ock-line-default: var(--app-surface-border);
+  --ock-line-heavy: var(--app-foreground-muted);
+  --ock-line-inverse: var(--app-foreground);
+}
+
+* {
+  touch-action: manipulation;
+}
+
+body {
+  color: var(--app-foreground);
+  background: var(--app-background);
+  font-family: "Crimson Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  overflow-x: hidden;
+  background-image: 
+    radial-gradient(circle at 20% 80%, rgba(139, 69, 19, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(107, 76, 147, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(85, 107, 47, 0.02) 0%, transparent 50%);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* Typography */
+  .font-display {
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .font-body {
+    font-family: "Crimson Text", serif;
+  }
+  
+  .font-mono {
+    font-family: "Courier Prime", monospace;
+  }
+  
+  /* Paper Effects */
+  .paper {
+    background: var(--app-paper-bg);
+    border: 1px solid var(--app-paper-border);
+    box-shadow: var(--app-paper-shadow);
+    position: relative;
+  }
+  
+  .paper::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      linear-gradient(90deg, transparent 98%, rgba(139, 69, 19, 0.03) 100%),
+      linear-gradient(0deg, transparent 98%, rgba(139, 69, 19, 0.03) 100%);
+    background-size: 20px 20px;
+    pointer-events: none;
+  }
+  
+  .paper-card {
+    background: var(--app-card-bg);
+    border: 1px solid var(--app-card-border);
+    box-shadow: var(--app-shadow-card);
+    position: relative;
+  }
+  
+  .paper-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 20% 20%, rgba(139, 69, 19, 0.02) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(107, 76, 147, 0.02) 0%, transparent 50%);
+    pointer-events: none;
+  }
+  
+  /* Gradients */
+  .gradient-primary {
+    background: var(--app-gradient-primary);
+  }
+  
+  .gradient-secondary {
+    background: var(--app-gradient-secondary);
+  }
+  
+  .gradient-surface {
+    background: var(--app-gradient-surface);
+  }
+  
+  /* Glow Effects */
+  .glow-primary {
+    box-shadow: var(--app-shadow-glow);
+  }
+  
+  .glow-text {
+    text-shadow: 0 0 10px var(--app-accent-glow);
+  }
+  
+  /* Interactive States */
+  .vintage-button {
+    background: var(--app-surface);
+    border: 2px solid var(--app-surface-border);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .vintage-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(139, 69, 19, 0.1), transparent);
+    transition: left 0.5s;
+  }
+  
+  .vintage-button:hover::before {
+    left: 100%;
+  }
+  
+  .vintage-button:hover {
+    background: var(--app-surface-hover);
+    border-color: var(--app-accent);
+    box-shadow: var(--app-shadow-glow);
+    transform: translateY(-1px);
+  }
+  
+  .vintage-button:active {
+    background: var(--app-surface-active);
+    transform: translateY(0);
+  }
+  
+  /* Navigation */
+  .nav-paper {
+    background: var(--app-paper-bg);
+    border-top: 2px solid var(--app-paper-border);
+    box-shadow: var(--app-shadow-nav);
+    position: relative;
+  }
+  
+  .nav-paper::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--app-accent), transparent);
+  }
+  
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.animate-fade-out {
+  animation: fadeOut 3s forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

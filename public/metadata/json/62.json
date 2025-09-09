@@ -1,0 +1,151 @@
+{
+  "name": "Oin Ordeneterno",
+  "description": "En los laboratorios más perfectos de las Montañas del Orden, donde todo está en perfecta armonía, Oin Ordeneterno nació para dominar los secretos más profundos del orden. Su padre, un maestro del orden legendario, le enseñó que el orden no es rígido, sino fluido, y que un verdadero maestro puede crear caos del orden. Oin no solo controla el orden, sino que lo hace su aliado. Sus poderes pueden crear estructuras perfectas, organizar el caos, e incluso crear nuevas leyes de la física. A los 246 años, Oin ha dominado más de setecientos hechizos de orden diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Orden Eterno', un hechizo que puede crear un campo de orden puro donde todo está en perfecta armonía. Su laboratorio está lleno de objetos flotantes que brillan con luz propia, cada uno conteniendo una forma de orden diferente. Oin puede sentir la presencia del orden con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de orden, nunca pierden su precisión. Cuando trabaja, el aire se llena de patrones perfectos y la realidad se organiza, moviéndose como si fuera una danza perfecta. Sus poderes no solo son organizativos, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos universos.",
+  "image": "https://app.baeza.me/metadata/imgs/62.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFFFFF",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Orden"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 246
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "79 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Orden Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Orden Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Orden"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Orden"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Ordeneterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Orden"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Orden"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Blanco Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Organizador Perfecto"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Organizar Objetos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Orden"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Orden"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 224,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Orden",
+      "value": 756,
+      "max_value": 1100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Orden",
+      "value": 71
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Orden",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567952
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Orden Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Orden"
+    }
+  ]
+}

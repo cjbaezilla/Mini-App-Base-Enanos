@@ -1,0 +1,151 @@
+{
+  "name": "Nori Barbaviento",
+  "description": "En las cumbres más altas de las Montañas del Viento, donde las corrientes de aire susurran secretos de épocas pasadas, Nori Barbaviento nació con el don de los vientos. Su padre, un maestro del viento, le enseñó que cada brisa tiene su propósito, y que un verdadero maestro del viento puede hacer que el aire cante. Nori no solo controla el viento, sino que lo hace bailar. Su técnica única combina la magia del aire con la sabiduría ancestral, creando corrientes que pueden transportar mensajes a través de continentes. A los 201 años, Nori ha dominado todos los vientos conocidos, desde la brisa más suave hasta el huracán más devastador. Su obra maestra es la 'Torre de los Vientos', una estructura que canaliza las corrientes de aire para crear música eterna. Nori puede sentir la dirección y velocidad de cualquier viento con solo cerrar los ojos, y sus manos, cubiertas de polvo de viento, nunca pierden su toque mágico. Su observatorio está construido en la cima más alta de las montañas, y el aire siempre huele a ozono y magia pura. Cuando invoca vientos, Nori canta canciones que aprendió de los propios elementos, y el aire responde a su voz, creando patrones que nadie más puede lograr. Sus habilidades no solo son hermosas, sino que tienen propiedades mágicas que pueden transportar a las personas a través de grandes distancias.",
+  "image": "https://app.baeza.me/metadata/imgs/41.png",
+  "external_url": "https://baeza.me",
+  "background_color": "87CEEB",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Viento"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 226
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "75 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 77,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Vientos Elementales"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Viento"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Viento del Norte"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Vientos que Cantan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaviento"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Viento"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Viento"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Cielo"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Místico Tranquilo"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar el Canto del Viento"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan de Aire con Miel"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Lluvia"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 201,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Vientos Dominados",
+      "value": 45,
+      "max_value": 50
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Viento",
+      "value": 70
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Tormentas",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567931
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Voz de los Vientos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Tierra"
+    }
+  ]
+}

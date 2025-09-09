@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Undecaversoeterno",
+  "description": "En los laboratorios más undecaversales de las Montañas del Undecaverso Infinito, donde los undecaversos contienen todos los decaversos posibles, Bofur Undecaversoeterno nació para dominar los secretos más profundos del undecaverso. Su padre, un maestro del undecaverso legendario, le enseñó que cada undecaverso contiene todos los decaversos posibles, y que un verdadero maestro puede manipular todos los undecaversos simultáneamente. Bofur no solo controla el undecaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos undecaversos, destruir undecaversos existentes, e incluso fusionar undecaversos. A los 255 años, Bofur ha dominado más de catorce mil hechizos undecaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Undecaverso Eterno', un hechizo que puede crear un campo donde múltiples undecaversos coexisten. Su laboratorio está lleno de fragmentos de undecaversos que brillan con luz propia, cada uno conteniendo un undecaverso diferente. Bofur puede sentir la estructura de cada undecaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices undecaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de undecaversos y los undecaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son undecaversales, sino que pueden afectar a múltiples duodecaversos y algunas incluso pueden crear nuevos tridecaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/103.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Undecaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 255
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Undecaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Undecaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Undecaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Undecaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Undecaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Undecaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Undecaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Undecaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Undecaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Undecaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Undecaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 233,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Undecaversales",
+      "value": 14000,
+      "max_value": 15000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Undecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Undecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234568389
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Undecaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Undecaverso"
+    }
+  ]
+}

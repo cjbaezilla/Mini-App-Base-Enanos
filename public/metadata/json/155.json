@@ -1,0 +1,151 @@
+{
+  "name": "Thorin Septillaversoeterno",
+  "description": "En los laboratorios más septillaversales de las Montañas del Septillaverso Infinito, donde los septillaversos contienen todos los sextillaversos posibles, Thorin Septillaversoeterno nació para dominar los secretos más profundos del septillaverso. Su padre, un maestro del septillaverso legendario, le enseñó que cada septillaverso contiene todos los sextillaversos posibles, y que un verdadero maestro puede manipular todos los septillaversos simultáneamente. Thorin no solo controla el septillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos septillaversos, destruir septillaversos existentes, e incluso fusionar septillaversos. A los 264 años, Thorin ha dominado más de seis millones cuatrocientos ochenta y ocho mil quinientos cincuenta y nueve mil doscientos veinticuatro mil trescientos diez mil setecientos cuatro mil hechizos septillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Septillaverso Eterno', un hechizo que puede crear un campo donde múltiples septillaversos coexisten. Su laboratorio está lleno de fragmentos de septillaversos que brillan con luz propia, cada uno conteniendo un septillaverso diferente. Thorin puede sentir la estructura de cada septillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices septillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de septillaversos y los septillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son septillaversales, sino que pueden afectar a múltiples octillaversos y algunas incluso pueden crear nuevos nonillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/155.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Septillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 264
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.69 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "130 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Septillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Septillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Septillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Septillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Septillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Septillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Septillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Septillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Septillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Septillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Septillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 242,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Septillaversales",
+      "value": 6488559224310704000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Septillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Septillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573589
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Septillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Septillaverso"
+    }
+  ]
+}

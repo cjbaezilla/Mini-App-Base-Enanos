@@ -1,0 +1,151 @@
+{
+  "name": "Ori Heptaversoeterno",
+  "description": "En los laboratorios más heptaversales de las Montañas del Heptaverso Infinito, donde los heptaversos contienen todos los hexaversos posibles, Ori Heptaversoeterno nació para dominar los secretos más profundos del heptaverso. Su padre, un maestro del heptaverso legendario, le enseñó que cada heptaverso contiene todos los hexaversos posibles, y que un verdadero maestro puede manipular todos los heptaversos simultáneamente. Ori no solo controla el heptaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos heptaversos, destruir heptaversos existentes, e incluso fusionar heptaversos. A los 229 años, Ori ha dominado más de tres mil cuatrocientos hechizos heptaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Heptaverso Eterno', un hechizo que puede crear un campo donde múltiples heptaversos coexisten. Su laboratorio está lleno de fragmentos de heptaversos que brillan con luz propia, cada uno conteniendo un heptaverso diferente. Ori puede sentir la estructura de cada heptaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices heptaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de heptaversos y los heptaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son heptaversales, sino que pueden afectar a múltiples octaversos y algunas incluso pueden crear nuevos nonaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/99.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Heptaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 229
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.13 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "74 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Heptaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Heptaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Heptaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Heptaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Heptaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Heptaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Heptaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Heptaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Heptaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Heptaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Heptaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 207,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Heptaversales",
+      "value": 3434,
+      "max_value": 4100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Heptaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Heptaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567989
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Heptaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Heptaverso"
+    }
+  ]
+}

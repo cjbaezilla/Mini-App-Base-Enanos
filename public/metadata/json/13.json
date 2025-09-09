@@ -1,0 +1,151 @@
+{
+  "name": "Gloin Barbamoneda",
+  "description": "En los bancos más seguros de Bree, donde el oro se cuenta en montañas y las monedas brillan como estrellas, Gloin Barbamoneda nació con el don de las finanzas. Su padre, un banquero real, le enseñó que cada moneda tiene su historia, y que la riqueza no solo se mide en oro, sino en la sabiduría de cómo usarla. Gloin no solo cuenta monedas, sino que las hace crecer. Su técnica única combina la contabilidad tradicional con la magia de la multiplicación, y puede hacer que cualquier inversión se multiplique por diez. A los 206 años, Gloin ha administrado las finanzas de más de cincuenta reinos, cada uno más próspero que el anterior. Su obra maestra es el 'Banco de los Siete Reinos', una institución que nunca ha perdido una moneda y siempre paga intereses justos. Gloin puede detectar monedas falsas con solo tocarlas, y sus manos, cubiertas de polvo de oro, nunca pierden su toque mágico. Su oficina está llena de libros de contabilidad que se actualizan solos, y el aire siempre huele a pergamino y oro. Cuando calcula, Gloin canta canciones que aprendió de los propios números, y las monedas responden a su voz, organizándose en pilas perfectas. Sus inversiones no solo generan riqueza, sino que crean prosperidad para todos los involucrados.",
+  "image": "https://app.baeza.me/metadata/imgs/13.png",
+  "external_url": "https://baeza.me",
+  "background_color": "DAA520",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Banquero y Contador"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 231
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "81 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 73,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Finanzas Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Ábaco de Oro"
+    },
+    {
+      "trait_type": "Moneda Preferida",
+      "value": "Oro Puro"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Monedas que Crecen"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbamoneda"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Ered Luin"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Oscuro"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Marrón Oro"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Banquero Honesto"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Contar Monedas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan de Oro con Mantequilla"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Vino de Oro"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 206,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Reinos Administrados",
+      "value": 52,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Inversión",
+      "value": 80
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Detección de Monedas Falsas",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567903
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Rey de las Finanzas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Ladrones de Bancos"
+    }
+  ]
+}

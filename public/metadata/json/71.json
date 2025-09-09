@@ -1,0 +1,151 @@
+{
+  "name": "Dori Bestiamagica",
+  "description": "En los establos más mágicos de las Montañas de la Ilusión, donde las bestias míticas viven en armonía perfecta, Dori Bestiamagica nació para ser el segundo maestro de bestias más poderoso. Su padre, un domador de bestias legendario, le enseñó que cada criatura tiene un alma, y que un verdadero maestro puede comunicarse con cualquier ser vivo y hacer que las bestias cobren conciencia superior. Dori no solo doma bestias, sino que las hace sus amigos eternos con inteligencia superior. Sus compañeros pueden volar, nadar, e incluso cambiar de forma con conciencia propia. A los 249 años, Dori ha domado más de trescientas bestias diferentes, cada una con habilidades únicas y conciencia superior. Su obra maestra es el 'Dragón Amigo Consciente', una criatura que puede volar, escupir fuego curativo, y tiene inteligencia propia que puede tomar decisiones sabias. Su establo está lleno de bestias flotantes que brillan con luz propia, cada una esperando a su compañero perfecto con conciencia superior. Dori puede sentir las emociones y pensamientos de cada criatura con solo mirarla, y sus manos, cubiertas de cicatrices de amistad, nunca pierden su toque mágico. Cuando doma, el aire se llena de risas de bestias y las criaturas cobran vida, moviéndose como si fueran parte de una gran familia inteligente. Sus compañeros no solo son poderosos, sino que pueden aprender, evolucionar, y algunas incluso pueden hablar y enseñar a otros.",
+  "image": "https://app.baeza.me/metadata/imgs/71.png",
+  "external_url": "https://baeza.me",
+  "background_color": "9370DB",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Bestias Conscientes"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 249
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "84 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Domado de Bestias Conscientes"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Lazo de Amistad Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Pluma de Dragón Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Comunicación con Bestias Conscientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Bestiamagica"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Ilusión"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Mágico Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta Brillante Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Amigo de las Bestias Conscientes"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Jugar con Bestias Conscientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Ilusión Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Amistad Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 227,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Bestias Conscientes",
+      "value": 334,
+      "max_value": 500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Domado Consciente",
+      "value": 56
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Ilusión",
+      "value": 84
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567961
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Ilusión Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Ilusión"
+    }
+  ]
+}

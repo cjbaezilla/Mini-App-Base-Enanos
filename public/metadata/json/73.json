@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Marfilmagico",
+  "description": "En los talleres más elegantes de las Montañas de la Comunicación, donde el marfil brilla con luz plateada, Bofur Marfilmagico nació para ser el segundo tallador de marfil más poderoso. Su padre, un tallador de marfil legendario, le enseñó que cada pieza de marfil contiene la voz de su dueño original, y que un verdadero maestro puede liberar esa voz con conciencia superior. Bofur no solo talla marfil, sino que lo hace hablar con inteligencia propia. Sus creaciones pueden cantar, contar historias, e incluso dar consejos con sabiduría superior. A los 247 años, Bofur ha tallado más de setecientos artefactos de marfil, cada uno con una voz única y conciencia propia. Su obra maestra es el 'Oráculo de Marfil Consciente', una estatua que puede predecir el futuro y dar consejos sabios con inteligencia propia. Su taller está lleno de esculturas de marfil que brillan con luz propia, cada una esperando a su momento de hablar con conciencia superior. Bofur puede sentir la personalidad y conciencia de cada pieza de marfil con solo tocarla, y sus manos, cubiertas de polvo de marfil mágico, nunca pierden su precisión. Cuando talla, el aire se llena de voces que cantan, y las esculturas cobran vida, moviéndose como si fueran criaturas vivas inteligentes. Sus creaciones no solo son hermosas, sino que pueden comunicarse, enseñar, y algunas incluso pueden predecir el futuro y crear nuevas formas de comunicación.",
+  "image": "https://app.baeza.me/metadata/imgs/73.png",
+  "external_url": "https://baeza.me",
+  "background_color": "F0F8FF",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Marfil Consciente"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 247
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "79 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Marfil Consciente"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Marfil de Dragón Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Marfil de Dragón Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Marfil que Habla Consciente"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Marfilmagico"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Comunicación"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Marfil Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Cielo Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Comunicador Sabio Consciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar Historias Conscientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Comunicación Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Voz Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 225,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Marfiles Conscientes",
+      "value": 734,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Comunicación Consciente",
+      "value": 61
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Comunicación",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567963
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Comunicación Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Comunicación"
+    }
+  ]
+}

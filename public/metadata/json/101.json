@@ -1,0 +1,151 @@
+{
+  "name": "Dori Nonaversoeterno",
+  "description": "En los laboratorios más nonaversales de las Montañas del Nonaverso Infinito, donde los nonaversos contienen todos los octaversos posibles, Dori Nonaversoeterno nació para dominar los secretos más profundos del nonaverso. Su padre, un maestro del nonaverso legendario, le enseñó que cada nonaverso contiene todos los octaversos posibles, y que un verdadero maestro puede manipular todos los nonaversos simultáneamente. Dori no solo controla el nonaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos nonaversos, destruir nonaversos existentes, e incluso fusionar nonaversos. A los 247 años, Dori ha dominado más de siete mil hechizos nonaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Nonaverso Eterno', un hechizo que puede crear un campo donde múltiples nonaversos coexisten. Su laboratorio está lleno de fragmentos de nonaversos que brillan con luz propia, cada uno conteniendo un nonaverso diferente. Dori puede sentir la estructura de cada nonaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices nonaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de nonaversos y los nonaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son nonaversales, sino que pueden afectar a múltiples decaversos y algunas incluso pueden crear nuevos undecaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/101.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Nonaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 247
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "76 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Nonaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Nonaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Nonaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Nonaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Nonaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Nonaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Nonaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Nonaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Nonaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Nonaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Nonaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 225,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Nonaversales",
+      "value": 7000,
+      "max_value": 8000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Nonaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Nonaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234568189
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Nonaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Nonaverso"
+    }
+  ]
+}

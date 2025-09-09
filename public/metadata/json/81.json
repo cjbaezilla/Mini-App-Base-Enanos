@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Multiversoeterno",
+  "description": "En los laboratorios más multiversales de las Montañas del Multiverso Infinito, donde los multiversos se entrelazan y se superponen, Gimli Multiversoeterno nació para dominar los secretos más profundos del multiverso. Su padre, un maestro del multiverso legendario, le enseñó que cada multiverso contiene infinitos universos, y que un verdadero maestro puede manipular todos los multiversos simultáneamente. Gimli no solo controla el multiverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos multiversos, destruir multiversos existentes, e incluso fusionar multiversos. A los 248 años, Gimli ha dominado más de mil seiscientos hechizos multiversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Multiverso Eterno', un hechizo que puede crear un campo donde múltiples multiversos coexisten. Su laboratorio está lleno de fragmentos de multiversos que brillan con luz propia, cada uno conteniendo un multiverso diferente. Gimli puede sentir la estructura de cada multiverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices multiversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de multiversos y los multiversos se superponen, moviéndose como si fueran capas de realidad infinita. Sus poderes no solo son multiversales, sino que pueden afectar a múltiples omniversos y algunas incluso pueden crear nuevos megaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/81.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4B0082",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Multiverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 248
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Multiverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Multiverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Multiverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Multiverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Multiversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Multiverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Multiverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Púrpura Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Multiverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Multiversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Multiverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Multiverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 226,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Multiversales",
+      "value": 1634,
+      "max_value": 2300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Multiverso",
+      "value": 83
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Multiverso",
+      "value": 99
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567971
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Multiverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Multiverso"
+    }
+  ]
+}

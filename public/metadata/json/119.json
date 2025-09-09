@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Septenvigintaversoeterno",
+  "description": "En los laboratorios más septenvigintaversales de las Montañas del Septenvigintaverso Infinito, donde los septenvigintaversos contienen todos los sexvigintaversos posibles, Bombur Septenvigintaversoeterno nació para dominar los secretos más profundos del septenvigintaverso. Su padre, un maestro del septenvigintaverso legendario, le enseñó que cada septenvigintaverso contiene todos los sexvigintaversos posibles, y que un verdadero maestro puede manipular todos los septenvigintaversos simultáneamente. Bombur no solo controla el septenvigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos septenvigintaversos, destruir septenvigintaversos existentes, e incluso fusionar septenvigintaversos. A los 233 años, Bombur ha dominado más de tres millones ciento treinta y tres mil hechizos septenvigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Septenvigintaverso Eterno', un hechizo que puede crear un campo donde múltiples septenvigintaversos coexisten. Su laboratorio está lleno de fragmentos de septenvigintaversos que brillan con luz propia, cada uno conteniendo un septenvigintaverso diferente. Bombur puede sentir la estructura de cada septenvigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices septenvigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de septenvigintaversos y los septenvigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son septenvigintaversales, sino que pueden afectar a múltiples octovigintaversos y algunas incluso pueden crear nuevos novemvigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/119.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Septenvigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 233
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.33 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "94 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Septenvigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Septenvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Septenvigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Septenvigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Septenvigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Septenvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Septenvigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Septenvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Septenvigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Septenvigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Septenvigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 211,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Septenvigintaversales",
+      "value": 3133000,
+      "max_value": 100000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Septenvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Septenvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569989
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Septenvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Septenvigintaverso"
+    }
+  ]
+}

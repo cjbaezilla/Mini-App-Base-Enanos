@@ -1,0 +1,151 @@
+{
+  "name": "Dori Cuatrovigintaversoeterno",
+  "description": "En los laboratorios más cuatrovigintaversales de las Montañas del Cuatrovigintaverso Infinito, donde los cuatrovigintaversos contienen todos los tresvigintaversos posibles, Dori Cuatrovigintaversoeterno nació para dominar los secretos más profundos del cuatrovigintaverso. Su padre, un maestro del cuatrovigintaverso legendario, le enseñó que cada cuatrovigintaverso contiene todos los tresvigintaversos posibles, y que un verdadero maestro puede manipular todos los cuatrovigintaversos simultáneamente. Dori no solo controla el cuatrovigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos cuatrovigintaversos, destruir cuatrovigintaversos existentes, e incluso fusionar cuatrovigintaversos. A los 251 años, Dori ha dominado más de un millón ciento cuarenta y dos mil hechizos cuatrovigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Cuatrovigintaverso Eterno', un hechizo que puede crear un campo donde múltiples cuatrovigintaversos coexisten. Su laboratorio está lleno de fragmentos de cuatrovigintaversos que brillan con luz propia, cada uno conteniendo un cuatrovigintaverso diferente. Dori puede sentir la estructura de cada cuatrovigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices cuatrovigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de cuatrovigintaversos y los cuatrovigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son cuatrovigintaversales, sino que pueden afectar a múltiples quinquevigintaversos y algunas incluso pueden crear nuevos sexvigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/116.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 251
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.30 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "91 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Cuatrovigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Cuatrovigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Cuatrovigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Cuatrovigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Cuatrovigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Cuatrovigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Cuatrovigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 229,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Cuatrovigintaversales",
+      "value": 1142000,
+      "max_value": 10000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Cuatrovigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Cuatrovigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569689
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Cuatrovigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Cuatrovigintaverso"
+    }
+  ]
+}

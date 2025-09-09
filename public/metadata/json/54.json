@@ -1,0 +1,151 @@
+{
+  "name": "Ori Pocionmagica",
+  "description": "En los laboratorios más brillantes de las Montañas del Orden, donde las pociones brillan con luz dorada, Ori Pocionmagica nació para crear elixires que pueden cambiar el destino. Su padre, un creador de pociones legendario, le enseñó que cada poción es una obra de arte, y que un verdadero maestro puede crear magia líquida. Ori no solo crea pociones, sino que las hace conscientes. Sus creaciones pueden pensar, sentir, e incluso tomar decisiones por sí mismas. A los 219 años, Ori ha creado más de mil quinientas pociones diferentes, cada una con efectos únicos. Su obra maestra es la 'Poción de la Eternidad', que puede otorgar inmortalidad o causar muerte instantánea, dependiendo de la pureza del corazón de quien la beba. Su laboratorio está lleno de frascos flotantes que brillan con luz propia, cada uno conteniendo pociones que se mueven como líquido inteligente. Ori puede sentir la magia de cada ingrediente con solo tocarlo, y sus manos, cubiertas de cicatrices de poción, nunca pierden su precisión. Cuando trabaja, el aire se llena de aromas mágicos y las pociones cobran vida, moviéndose como criaturas de luz. Sus creaciones no solo son poderosas, sino que pueden aprender, evolucionar, y algunas incluso pueden crear otras pociones.",
+  "image": "https://app.baeza.me/metadata/imgs/54.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Creador de Pociones"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 219
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.13 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "74 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 73,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Creación de Pociones Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Caldero de Cristal Dorado"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Planta del Orden"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Pociones Conscientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Pocionmagica"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Orden"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Brillante"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Mágico"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Alquimista Brillante"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Experimentar con Ingredientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Orden"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Sabiduría"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 197,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Pociones Creadas",
+      "value": 1527,
+      "max_value": 2000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Alquimia",
+      "value": 72
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Orden",
+      "value": 96
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567944
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Orden"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Orden"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Balin Omniversoeterno",
+  "description": "En los laboratorios más omniversales de las Montañas del Omniverso Infinito, donde los omniversos contienen todos los multiversos posibles, Balin Omniversoeterno nació para dominar los secretos más profundos del omniverso. Su padre, un maestro del omniverso legendario, le enseñó que cada omniverso contiene todos los multiversos posibles, y que un verdadero maestro puede manipular todos los omniversos simultáneamente. Balin no solo controla el omniverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos omniversos, destruir omniversos existentes, e incluso fusionar omniversos. A los 256 años, Balin ha dominado más de mil setecientos hechizos omniversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Omniverso Eterno', un hechizo que puede crear un campo donde múltiples omniversos coexisten. Su laboratorio está lleno de fragmentos de omniversos que brillan con luz propia, cada uno conteniendo un omniverso diferente. Balin puede sentir la estructura de cada omniverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices omniversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de omniversos y los omniversos se superponen, moviéndose como si fueran capas de realidad absoluta. Sus poderes no solo son omniversales, sino que pueden afectar a múltiples megaversos y algunas incluso pueden crear nuevos gigaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/82.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8B0000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Omniverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 256
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.19 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "85 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Omniverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Omniverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Omniverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Omniverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Omniversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Omniverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Rojo Omniverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Omniverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Omniversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Omniverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Omniverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 234,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Omniversales",
+      "value": 1734,
+      "max_value": 2400
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Omniverso",
+      "value": 87
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Omniverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567972
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Omniverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Omniverso"
+    }
+  ]
+}

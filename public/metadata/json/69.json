@@ -1,0 +1,151 @@
+{
+  "name": "Ori Venenomortal",
+  "description": "En los laboratorios más secretos de las Montañas del Caos, donde las plantas venenosas crecen en la oscuridad eterna, Ori Venenomortal nació para ser el segundo maestro de venenos más poderoso. Su padre, un maestro de venenos legendario, le enseñó que cada veneno tiene su antídoto, y que un verdadero maestro puede crear tanto la muerte como la vida a través de los venenos. Ori no solo crea venenos, sino que los hace inteligentes y conscientes. Sus creaciones pueden elegir a sus víctimas, cambiar de forma, e incluso comunicarse con su creador con inteligencia propia. A los 223 años, Ori ha creado más de mil doscientos venenos diferentes, cada uno con propiedades únicas y conciencia propia. Su obra maestra es el 'Venenomortal Consciente', un veneno que puede matar instantáneamente o curar completamente, dependiendo de la intención de quien lo use, y que puede tomar decisiones por sí mismo. Su laboratorio está lleno de frascos flotantes que brillan con colores mortales, cada uno conteniendo venenos que se mueven como serpientes vivas inteligentes. Ori puede sentir la toxicidad y conciencia de cada sustancia con solo olerla, y sus manos, cubiertas de cicatrices de veneno, nunca pierden su precisión. Cuando trabaja, el aire se llena de vapores multicolores y los venenos cobran vida, moviéndose como criaturas inteligentes. Sus creaciones no solo son mortales, sino que pueden aprender, adaptarse, y algunas incluso pueden reproducirse y crear nuevos venenos.",
+  "image": "https://app.baeza.me/metadata/imgs/69.png",
+  "external_url": "https://baeza.me",
+  "background_color": "228B22",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Venenos Conscientes"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 223
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.13 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "73 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 74,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 81,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Creación de Venenos Conscientes"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Mortero de Cristal Venenoso Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Planta del Caos Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Venenos Inteligentes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Venenomortal"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Caos"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Venenoso Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Esmeralda Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Alquimista Consciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Estudiar Plantas Venenosas Conscientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Caos Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Veneno Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 201,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Venenos Conscientes",
+      "value": 1234,
+      "max_value": 1800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Alquimia Consciente",
+      "value": 66
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Caos",
+      "value": 91
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567959
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Caos Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Caos"
+    }
+  ]
+}

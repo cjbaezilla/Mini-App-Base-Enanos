@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Barbahacha",
+  "description": "En los bosques más profundos de Mirkwood, donde los árboles susurran secretos antiguos, Bofur Barbahacha nació con un hacha en la mano y una canción en el corazón. Su padre, un leñador legendario, le enseñó que cada árbol tiene un alma, y que solo aquellos que los respetan pueden cortarlos. Bofur no solo corta árboles, sino que los convierte en obras de arte. Su hacha, 'Cortavientos', está forjada con acero de meteorito y empuñadura de madera de roble milenario. Cuando corta, cada golpe es perfecto, y los árboles caen sin dolor, como si estuvieran listos para su próxima vida. A los 194 años, Bofur ha tallado más de quinientas esculturas de madera, cada una más hermosa que la anterior. Su obra maestra es el 'Árbol de la Vida', una escultura que parece crecer y cambiar con las estaciones. Bofur puede sentir la personalidad de cada árbol con solo tocarlo, y sabe exactamente qué forma oculta en su interior. Su taller está lleno de maderas de todos los colores y texturas, y el aire siempre huele a resina fresca y savia. Cuando talla, Bofur canta canciones que aprendió de los propios árboles, y la madera responde a su voz, revelando formas que nadie más puede ver. Sus creaciones no solo son hermosas, sino que tienen propiedades mágicas que las hacen prácticamente indestructibles.",
+  "image": "https://app.baeza.me/metadata/imgs/8.png",
+  "external_url": "https://baeza.me",
+  "background_color": "228B22",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Leñador y Tallador de Madera"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 219
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.19 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "84 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Esculturas de Madera"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Hacha 'Cortavientos'"
+    },
+    {
+      "trait_type": "Madera Preferida",
+      "value": "Roble Milenario"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Comunicación con los Árboles"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbahacha"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Ered Luin"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Marrón Roble"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Bosque"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Artista Natural"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Cantar con los Árboles"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Nueces y Bayas del Bosque"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Savia de Arce"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 194,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Esculturas Talladas",
+      "value": 523,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tallado",
+      "value": 55
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Naturaleza",
+      "value": 85
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567898
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Voz de los Bosques"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Fuego"
+    }
+  ]
+}

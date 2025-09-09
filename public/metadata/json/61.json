@@ -1,0 +1,151 @@
+{
+  "name": "Kili Caoseterno",
+  "description": "En los laboratorios más caóticos de las Montañas del Caos, donde la realidad se dobla y se retuerce, Kili Caoseterno nació para dominar los secretos más profundos del caos. Su padre, un maestro del caos legendario, le enseñó que el caos no es destructivo, sino creativo, y que un verdadero maestro puede crear orden del caos. Kili no solo controla el caos, sino que lo hace su aliado. Sus poderes pueden crear ilusiones, cambiar la realidad, e incluso crear nuevas dimensiones. A los 238 años, Kili ha dominado más de ochocientos hechizos de caos diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Caos Eterno', un hechizo que puede crear un campo de caos puro donde las leyes de la física no aplican. Su laboratorio está lleno de objetos flotantes que brillan con luz propia, cada uno conteniendo una forma de caos diferente. Kili puede sentir la presencia del caos con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de caos, nunca pierden su precisión. Cuando trabaja, el aire se llena de colores imposibles y la realidad se dobla, moviéndose como si fuera líquida. Sus poderes no solo son destructivos, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos universos.",
+  "image": "https://app.baeza.me/metadata/imgs/61.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF00FF",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Caos"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 238
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "80 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Caos Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Caos Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Caos"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Caos"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Caoseterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Caos"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Magenta Caos"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Magenta Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Caótico Creativo"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Ilusiones"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Caos"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Caos"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 216,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Caos",
+      "value": 847,
+      "max_value": 1200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Caos",
+      "value": 69
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Caos",
+      "value": 93
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567951
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Caos Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Caos"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Gloin Quintillaversoeterno",
+  "description": "En los laboratorios más quintillaversales de las Montañas del Quintillaverso Infinito, donde los quintillaversos contienen todos los cuatrillaversos posibles, Gloin Quintillaversoeterno nació para dominar los secretos más profundos del quintillaverso. Su padre, un maestro del quintillaverso legendario, le enseñó que cada quintillaverso contiene todos los cuatrillaversos posibles, y que un verdadero maestro puede manipular todos los quintillaversos simultáneamente. Gloin no solo controla el quintillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos quintillaversos, destruir quintillaversos existentes, e incluso fusionar quintillaversos. A los 241 años, Gloin ha dominado más de un millón seiscientos veintidós mil ciento treinta y nueve mil ochocientos seis mil setenta y siete mil ciento setenta y seis mil hechizos quintillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Quintillaverso Eterno', un hechizo que puede crear un campo donde múltiples quintillaversos coexisten. Su laboratorio está lleno de fragmentos de quintillaversos que brillan con luz propia, cada uno conteniendo un quintillaverso diferente. Gloin puede sentir la estructura de cada quintillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices quintillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de quintillaversos y los quintillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son quintillaversales, sino que pueden afectar a múltiples sextillaversos y algunas incluso pueden crear nuevos septillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/153.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Quintillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 241
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.67 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "128 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Quintillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Quintillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Quintillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Quintillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Quintillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Quintillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Quintillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Quintillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Quintillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Quintillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Quintillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 219,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Quintillaversales",
+      "value": 1622139806077176000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Quintillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Quintillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573389
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Quintillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Quintillaverso"
+    }
+  ]
+}

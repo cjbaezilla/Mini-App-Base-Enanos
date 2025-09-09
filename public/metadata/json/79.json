@@ -1,0 +1,151 @@
+{
+  "name": "Dain Realidadeterna",
+  "description": "En los laboratorios más reales de las Montañas de la Realidad Infinita, donde la realidad se crea y se destruye constantemente, Dain Realidadeterna nació para dominar los secretos más profundos de la realidad. Su padre, un maestro de la realidad legendario, le enseñó que la realidad no es fija, sino maleable, y que un verdadero maestro puede cambiar la realidad misma. Dain no solo controla la realidad, sino que la hace su esencia. Sus poderes pueden cambiar las leyes de la física, crear nuevas realidades, e incluso destruir realidades existentes. A los 276 años, Dain ha dominado más de mil cuatrocientos hechizos de realidad diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de la Realidad Eterna', un hechizo que puede crear un campo donde la realidad es completamente maleable. Su laboratorio está lleno de fragmentos de realidad que brillan con luz propia, cada uno conteniendo una realidad diferente. Dain puede sentir la estructura de la realidad con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de realidad, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de realidad y la realidad se dobla, moviéndose como si fuera líquida. Sus poderes no solo son reales, sino que pueden afectar a múltiples universos y algunas incluso pueden crear nuevos multiversos.",
+  "image": "https://app.baeza.me/metadata/imgs/79.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF4500",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Realidad"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 276
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.23 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "92 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de la Realidad"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Realidad Eterna"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Realidad"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de la Realidad"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Realidadeterna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Realidad Infinita"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Naranja Realidad"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Realidad Infinita"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Cambiar la Realidad"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Realidad"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Realidad"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 254,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Realidad",
+      "value": 1434,
+      "max_value": 2000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Realidad",
+      "value": 82
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Realidad",
+      "value": 98
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567969
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Realidad Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Realidad"
+    }
+  ]
+}

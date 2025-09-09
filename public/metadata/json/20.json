@@ -1,0 +1,151 @@
+{
+  "name": "Balin Barbaescudo",
+  "description": "En las fortalezas más altas de las Montañas Nubladas, donde el viento aúlla como lobos hambrientos, Balin Barbaescudo nació para ser guardián. Su padre, un capitán de la guardia real, le enseñó que un verdadero enano protege no solo con su escudo, sino con su corazón. Balin lleva en su espalda el escudo ancestral de su clan, forjado con fragmentos de meteorito y bendecido por los dioses antiguos. Este escudo no solo detiene golpes físicos, sino que absorbe magia oscura y la convierte en luz curativa. A los 213 años, Balin ha defendido su ciudad natal de dos asedios orcos, cada vez emergiendo victorioso sin una sola baja entre sus hombres. Su táctica favorita es formar un muro de escudos que brilla como el sol, cegando a los enemigos mientras sus compañeros atacan por los flancos. Balin no solo es un guerrero, sino un estratega que estudia cada batalla como si fuera un juego de ajedrez cósmico. Su voz, grave como el trueno, puede ser escuchada a kilómetros de distancia cuando da órdenes en el campo de batalla. Sus cicatrices cuentan historias de heroísmo, cada una ganada protegiendo a alguien más débil que él. Su escudo no solo es una herramienta de defensa, sino un símbolo de esperanza para todos los que luchan por la libertad.",
+  "image": "https://app.baeza.me/metadata/imgs/20.png",
+  "external_url": "https://baeza.me",
+  "background_color": "2F4F4F",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Guardián Defensivo"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 238
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.24 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "91 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Defensa de Fortalezas"
+    },
+    {
+      "trait_type": "Arma Favorita",
+      "value": "Escudo de Meteorito 'Barbaescudo'"
+    },
+    {
+      "trait_type": "Armadura Preferida",
+      "value": "Placas de Mithril"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Muro de Escudos Brillante"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaescudo"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas Nubladas"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Acero"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Hierro"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Protector Nacido"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Estudiar Tácticas de Batalla"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Estofado de Carne con Patatas"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Aguardiente de Centeno"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Batallas Defendidas",
+      "value": 38,
+      "max_value": 50
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Defensa",
+      "value": 52
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Magia",
+      "value": 76
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567910
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Escudo de los Siete Reinos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Hordas Orcas"
+    }
+  ]
+}

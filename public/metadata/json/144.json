@@ -1,0 +1,151 @@
+{
+  "name": "Ori Septagintaversoeterno",
+  "description": "En los laboratorios más septagintaversales de las Montañas del Septagintaverso Infinito, donde los septagintaversos contienen todos los sexagintaversos posibles, Ori Septagintaversoeterno nació para dominar los secretos más profundos del septagintaverso. Su padre, un maestro del septagintaverso legendario, le enseñó que cada septagintaverso contiene todos los sexagintaversos posibles, y que un verdadero maestro puede manipular todos los septagintaversos simultáneamente. Ori no solo controla el septagintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos septagintaversos, destruir septagintaversos existentes, e incluso fusionar septagintaversos. A los 227 años, Ori ha dominado más de tres mil ciento sesenta y ocho mil ciento noventa y nueve mil ciento sesenta y ocho mil hechizos septagintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Septagintaverso Eterno', un hechizo que puede crear un campo donde múltiples septagintaversos coexisten. Su laboratorio está lleno de fragmentos de septagintaversos que brillan con luz propia, cada uno conteniendo un septagintaverso diferente. Ori puede sentir la estructura de cada septagintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices septagintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de septagintaversos y los septagintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son septagintaversales, sino que pueden afectar a múltiples octagintaversos y algunas incluso pueden crear nuevos nonagintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/144.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Septagintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 227
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.58 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "119 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Septagintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Septagintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Septagintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Septagintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Septagintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Septagintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Septagintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Septagintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Septagintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Septagintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Septagintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 205,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Septagintaversales",
+      "value": 3168199168000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Septagintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Septagintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234572489
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Septagintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Septagintaverso"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Fili Octovigintaversoeterno",
+  "description": "En los laboratorios más octovigintaversales de las Montañas del Octovigintaverso Infinito, donde los octovigintaversos contienen todos los septenvigintaversos posibles, Fili Octovigintaversoeterno nació para dominar los secretos más profundos del octovigintaverso. Su padre, un maestro del octovigintaverso legendario, le enseñó que cada octovigintaverso contiene todos los septenvigintaversos posibles, y que un verdadero maestro puede manipular todos los octovigintaversos simultáneamente. Fili no solo controla el octovigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos octovigintaversos, destruir octovigintaversos existentes, e incluso fusionar octovigintaversos. A los 220 años, Fili ha dominado más de cuatro millones trescientos ochenta y seis mil hechizos octovigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Octovigintaverso Eterno', un hechizo que puede crear un campo donde múltiples octovigintaversos coexisten. Su laboratorio está lleno de fragmentos de octovigintaversos que brillan con luz propia, cada uno conteniendo un octovigintaverso diferente. Fili puede sentir la estructura de cada octovigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices octovigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de octovigintaversos y los octovigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son octovigintaversales, sino que pueden afectar a múltiples novemvigintaversos y algunas incluso pueden crear nuevos trigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/120.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Octovigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 220
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.34 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "95 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Octovigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Octovigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Octovigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Octovigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Octovigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Octovigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Octovigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Octovigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Octovigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Octovigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Octovigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 198,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Octovigintaversales",
+      "value": 4386000,
+      "max_value": 200000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Octovigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Octovigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234570089
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Octovigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Octovigintaverso"
+    }
+  ]
+}

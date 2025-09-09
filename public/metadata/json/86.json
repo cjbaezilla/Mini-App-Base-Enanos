@@ -1,0 +1,151 @@
+{
+  "name": "Dori Petaversoeterno",
+  "description": "En los laboratorios más petaversales de las Montañas del Petaverso Infinito, donde los petaversos contienen todos los teraversos posibles, Dori Petaversoeterno nació para dominar los secretos más profundos del petaverso. Su padre, un maestro del petaverso legendario, le enseñó que cada petaverso contiene todos los teraversos posibles, y que un verdadero maestro puede manipular todos los petaversos simultáneamente. Dori no solo controla el petaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos petaversos, destruir petaversos existentes, e incluso fusionar petaversos. A los 251 años, Dori ha dominado más de dos mil cien hechizos petaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Petaverso Eterno', un hechizo que puede crear un campo donde múltiples petaversos coexisten. Su laboratorio está lleno de fragmentos de petaversos que brillan con luz propia, cada uno conteniendo un petaverso diferente. Dori puede sentir la estructura de cada petaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices petaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de petaversos y los petaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna. Sus poderes no solo son petaversales, sino que pueden afectar a múltiples exaversos y algunas incluso pueden crear nuevos zettaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/86.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF6347",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Petaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 251
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "83 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Petaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Petaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Petaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Petaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Petaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Petaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Naranja Petaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Petaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Petaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Petaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Petaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 229,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Petaversales",
+      "value": 2134,
+      "max_value": 2800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Petaverso",
+      "value": 90
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Petaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567976
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Petaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Petaverso"
+    }
+  ]
+}

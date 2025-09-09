@@ -1,0 +1,151 @@
+{
+  "name": "Bifur Centaversoeterno",
+  "description": "En los laboratorios más centaversales de las Montañas del Centaverso Infinito, donde los centaversos contienen todos los nonagintaversos posibles, Bifur Centaversoeterno nació para dominar los secretos más profundos del centaverso. Su padre, un maestro del centaverso legendario, le enseñó que cada centaverso contiene todos los nonagintaversos posibles, y que un verdadero maestro puede manipular todos los centaversos simultáneamente. Bifur no solo controla el centaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos centaversos, destruir centaversos existentes, e incluso fusionar centaversos. A los 235 años, Bifur ha dominado más de veinticinco mil trescientos cuarenta y cinco mil novecientos noventa y tres mil cuatrocientos cuarenta y cinco mil hechizos centaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Centaverso Eterno', un hechizo que puede crear un campo donde múltiples centaversos coexisten. Su laboratorio está lleno de fragmentos de centaversos que brillan con luz propia, cada uno conteniendo un centaverso diferente. Bifur puede sentir la estructura de cada centaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices centaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de centaversos y los centaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son centaversales, sino que pueden afectar a múltiples decaversos y algunas incluso pueden crear nuevos milaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/147.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Centaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 235
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.61 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "122 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Centaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Centaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Centaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Centaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Centaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Centaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Centaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Centaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Centaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Centaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Centaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Centaversales",
+      "value": 25345993445000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Centaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Centaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234572789
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Centaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Centaverso"
+    }
+  ]
+}

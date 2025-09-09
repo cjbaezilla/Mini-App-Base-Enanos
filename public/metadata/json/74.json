@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Tiempoeterno",
+  "description": "En los laboratorios más antiguos de las Montañas del Tiempo, donde el tiempo fluye como un río, Bombur Tiempoeterno nació para ser el segundo maestro del tiempo más poderoso. Su padre, un maestro del tiempo legendario, le enseñó que el tiempo no es lineal, y que un verdadero maestro puede ver todos los momentos simultáneamente con conciencia superior. Bombur no solo controla el tiempo, sino que lo hace su aliado con inteligencia propia. Sus poderes pueden acelerar, ralentizar, e incluso detener el tiempo completamente con conciencia superior. A los 268 años, Bombur ha dominado más de seiscientos hechizos temporales diferentes, cada uno con efectos únicos y conciencia propia. Su obra maestra es el 'Círculo del Tiempo Eterno Consciente', un hechizo que puede crear bucles temporales infinitos con inteligencia propia. Su laboratorio está lleno de relojes flotantes que brillan con luz propia, cada uno mostrando un tiempo diferente con conciencia superior. Bombur puede sentir el flujo temporal y conciencia de cada momento con solo cerrar los ojos, y sus manos, cubiertas de cicatrices temporales, nunca pierden su precisión. Cuando trabaja, el aire se llena de ecos del pasado y visiones del futuro, y el tiempo parece detenerse con conciencia propia. Sus poderes no solo son poderosos, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear realidades alternativas con inteligencia superior.",
+  "image": "https://app.baeza.me/metadata/imgs/74.png",
+  "external_url": "https://baeza.me",
+  "background_color": "2F4F4F",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Tiempo Consciente"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 268
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.22 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "90 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Tiempo Consciente"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Reloj de Tiempo Eterno Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Tiempo Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación Temporal Consciente"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Tiempoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tiempo"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Tiempo Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Eterno Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Maestro Temporal Consciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar el Tiempo Consciente"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tiempo Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Eternidad Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 246,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Temporales Conscientes",
+      "value": 667,
+      "max_value": 900
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tiempo Consciente",
+      "value": 73
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tiempo",
+      "value": 92
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567964
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tiempo Eterno Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tiempo"
+    }
+  ]
+}

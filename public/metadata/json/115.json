@@ -1,0 +1,151 @@
+{
+  "name": "Nori Tresvigintaversoeterno",
+  "description": "En los laboratorios más tresvigintaversales de las Montañas del Tresvigintaverso Infinito, donde los tresvigintaversos contienen todos los duovigintaversos posibles, Nori Tresvigintaversoeterno nació para dominar los secretos más profundos del tresvigintaverso. Su padre, un maestro del tresvigintaverso legendario, le enseñó que cada tresvigintaverso contiene todos los duovigintaversos posibles, y que un verdadero maestro puede manipular todos los tresvigintaversos simultáneamente. Nori no solo controla el tresvigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos tresvigintaversos, destruir tresvigintaversos existentes, e incluso fusionar tresvigintaversos. A los 234 años, Nori ha dominado más de ochocientos dieciséis mil hechizos tresvigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Tresvigintaverso Eterno', un hechizo que puede crear un campo donde múltiples tresvigintaversos coexisten. Su laboratorio está lleno de fragmentos de tresvigintaversos que brillan con luz propia, cada uno conteniendo un tresvigintaverso diferente. Nori puede sentir la estructura de cada tresvigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices tresvigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de tresvigintaversos y los tresvigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son tresvigintaversales, sino que pueden afectar a múltiples cuatrovigintaversos y algunas incluso pueden crear nuevos quinquevigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/115.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Tresvigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 234
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.29 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "90 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Tresvigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Tresvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Tresvigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Tresvigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Tresvigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tresvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Tresvigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Tresvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Tresvigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tresvigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Tresvigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 212,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Tresvigintaversales",
+      "value": 816000,
+      "max_value": 5000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Tresvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tresvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569589
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tresvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tresvigintaverso"
+    }
+  ]
+}

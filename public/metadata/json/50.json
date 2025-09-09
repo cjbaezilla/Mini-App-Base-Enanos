@@ -1,0 +1,151 @@
+{
+  "name": "Thorin Runamagica",
+  "description": "En las profundidades más oscuras de las Montañas del Tiempo, donde las runas antiguas brillan con luz propia, Thorin Runamagica nació bajo el signo de la Estrella de la Sabiduría. Su padre, un maestro de runas legendario, le enseñó que cada símbolo tallado en piedra o metal tiene el poder de cambiar la realidad misma. Thorin no solo talla runas, sino que las hace vivir y respirar. Sus creaciones pueden detener el tiempo, curar heridas mortales, o incluso abrir portales a otros mundos. A los 267 años, Thorin ha dominado más de mil runas diferentes, cada una con su propio poder único. Su obra maestra es el 'Círculo de la Eternidad', un conjunto de runas que puede detener el envejecimiento y otorgar inmortalidad temporal. Su taller está lleno de piedras flotantes que giran lentamente, cada una tallada con runas que brillan con diferentes colores según su poder. Thorin puede sentir la energía mágica de cada runa con solo tocarla, y sus manos, cubiertas de cicatrices de magia, nunca pierden su precisión. Cuando talla, el aire se llena de chispas de luz y el tiempo parece detenerse. Sus runas han salvado reinos enteros, curado plagas mortales, y algunas incluso han hablado con los vivos desde el más allá.",
+  "image": "https://app.baeza.me/metadata/imgs/50.png",
+  "external_url": "https://baeza.me",
+  "background_color": "4B0082",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Runas"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 267
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "82 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Runas Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Cristal de Tiempo"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Piedra del Tiempo"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Runas Vivientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Runamagica"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tiempo"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Mágico"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sabio Místico"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Estudiar Runas Antiguas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tiempo con Miel"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Sabiduría"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 245,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Runas Talladas",
+      "value": 1867,
+      "max_value": 2500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Runas",
+      "value": 55
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tiempo",
+      "value": 90
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567940
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Tiempo"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tiempo"
+    }
+  ]
+}

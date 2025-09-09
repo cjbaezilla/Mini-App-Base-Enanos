@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Decillaversoeterno",
+  "description": "En los laboratorios más decillaversales de las Montañas del Decillaverso Infinito, donde los decillaversos contienen todos los nonillaversos posibles, Dwalin Decillaversoeterno nació para dominar los secretos más profundos del decillaverso. Su padre, un maestro del decillaverso legendario, le enseñó que cada decillaverso contiene todos los nonillaversos posibles, y que un verdadero maestro puede manipular todos los decillaversos simultáneamente. Dwalin no solo controla el decillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos decillaversos, destruir decillaversos existentes, e incluso fusionar decillaversos. A los 243 años, Dwalin ha dominado más de cincuenta y un millones novecientos ocho mil cuatrocientos setenta y tres mil ochocientos cinco mil cuatrocientos ochenta mil quinientos sesenta y tres mil doscientos mil hechizos decillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Decillaverso Eterno', un hechizo que puede crear un campo donde múltiples decillaversos coexisten. Su laboratorio está lleno de fragmentos de decillaversos que brillan con luz propia, cada uno conteniendo un decillaverso diferente. Dwalin puede sentir la estructura de cada decillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices decillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de decillaversos y los decillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son decillaversales, sino que pueden afectar a múltiples undecillaversos y algunas incluso pueden crear nuevos duodecillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/158.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Decillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 243
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.72 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "133 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Decillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Decillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Decillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Decillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Decillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Decillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Decillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Decillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Decillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Decillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Decillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 221,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Decillaversales",
+      "value": 519084738054805632000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Decillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Decillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573889
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Decillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Decillaverso"
+    }
+  ]
+}

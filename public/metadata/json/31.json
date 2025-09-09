@@ -1,0 +1,151 @@
+{
+  "name": "Fili Barbaespada",
+  "description": "En las forjas más legendarias de las Montañas de Acero, donde el metal se templa en sangre de dragón, Fili Barbaespada nació para ser guerrero. Su padre, un espadachín legendario, le enseñó que una espada no solo es un arma, sino una extensión del alma, y que un verdadero maestro de la espada puede hacer que el metal cante. Fili no solo forja espadas, sino que las hace vivir. Su técnica única combina la herrería tradicional con la magia de la guerra, creando armas que tienen voluntad propia y pueden elegir a sus portadores. A los 189 años, Fili ha forjado más de trescientas espadas, cada una con un nombre y una personalidad única. Su obra maestra es la 'Espada del Viento', una hoja que corta el aire y nunca falla su objetivo. Fili puede sentir la personalidad de cada metal con solo tocarlo, y sus manos, cubiertas de cicatrices de forja, nunca pierden su toque mágico. Su forja está alimentada por el fuego de un dragón dormido, y el aire siempre huele a metal fundido y magia de guerra. Cuando forja, Fili canta canciones que aprendió de los propios metales, y las espadas responden a su voz, tomando formas que nadie más puede lograr. Sus creaciones no solo son mortales, sino que tienen propiedades mágicas que pueden cortar a través de cualquier armadura y nunca se desafilan.",
+  "image": "https://app.baeza.me/metadata/imgs/31.png",
+  "external_url": "https://baeza.me",
+  "background_color": "C0C0C0",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Forjador de Espadas"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 214
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "86 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Forja de Espadas Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo de Guerra"
+    },
+    {
+      "trait_type": "Metal Preferido",
+      "value": "Acero de Dragón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Espadas que Viven"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaespada"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Acero"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Acero"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Metal"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Guerrero Noble"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Entrenar con Espadas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne de Jabalí"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza de Guerra"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 189,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Espadas Forjadas",
+      "value": 312,
+      "max_value": 500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Forja",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Fuego",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567921
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de las Espadas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Guerra"
+    }
+  ]
+}

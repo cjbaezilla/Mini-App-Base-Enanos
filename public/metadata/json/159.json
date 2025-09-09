@@ -1,0 +1,151 @@
+{
+  "name": "Ori Undecillaversoeterno",
+  "description": "En los laboratorios más undecillaversales de las Montañas del Undecillaverso Infinito, donde los undecillaversos contienen todos los decillaversos posibles, Ori Undecillaversoeterno nació para dominar los secretos más profundos del undecillaverso. Su padre, un maestro del undecillaverso legendario, le enseñó que cada undecillaverso contiene todos los decillaversos posibles, y que un verdadero maestro puede manipular todos los undecillaversos simultáneamente. Ori no solo controla el undecillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos undecillaversos, destruir undecillaversos existentes, e incluso fusionar undecillaversos. A los 229 años, Ori ha dominado más de ciento tres millones ochocientos diecisiete mil cuatrocientos setenta y seis mil ciento nueve mil seiscientos once mil doscientos sesenta y tres mil doscientos mil hechizos undecillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Undecillaverso Eterno', un hechizo que puede crear un campo donde múltiples undecillaversos coexisten. Su laboratorio está lleno de fragmentos de undecillaversos que brillan con luz propia, cada uno conteniendo un undecillaverso diferente. Ori puede sentir la estructura de cada undecillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices undecillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de undecillaversos y los undecillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son undecillaversales, sino que pueden afectar a múltiples duodecillaversos y algunas incluso pueden crear nuevos tridecillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/159.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Undecillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 229
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.73 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "134 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Undecillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Undecillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Undecillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Undecillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Undecillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Undecillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Undecillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Undecillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Undecillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Undecillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Undecillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 207,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Undecillaversales",
+      "value": 1038174761096112632000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Undecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Undecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573989
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Undecillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Undecillaverso"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Gloin Dimensioneterna",
+  "description": "En los laboratorios más dimensionales de las Montañas de las Dimensiones Infinitas, donde las dimensiones se superponen y se entrelazan, Gloin Dimensioneterna nació para dominar los secretos más profundos de las dimensiones. Su padre, un maestro de dimensiones legendario, le enseñó que cada dimensión es un mundo completo, y que un verdadero maestro puede viajar entre dimensiones libremente. Gloin no solo controla las dimensiones, sino que las hace su esencia. Sus poderes pueden crear nuevas dimensiones, viajar entre dimensiones, e incluso fusionar dimensiones. A los 239 años, Gloin ha dominado más de mil trescientos hechizos dimensionales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de las Dimensiones Eternas', un hechizo que puede crear un campo donde múltiples dimensiones coexisten. Su laboratorio está lleno de portales dimensionales que brillan con luz propia, cada uno conectando a diferentes dimensiones. Gloin puede sentir la presencia de cada dimensión con solo cerrar los ojos, y sus manos, cubiertas de cicatrices dimensionales, nunca pierden su precisión. Cuando trabaja, el aire se llena de portales dimensionales y las dimensiones se superponen, moviéndose como si fueran capas de realidad. Sus poderes no solo son dimensionales, sino que pueden afectar a múltiples realidades y algunas incluso pueden crear nuevos universos.",
+  "image": "https://app.baeza.me/metadata/imgs/78.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8B008B",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Dimensiones"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 239
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "76 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 77,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Dimensiones"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Dimensiones Eternas"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Dimensiones"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de Dimensiones"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Dimensioneterna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de las Dimensiones Infinitas"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Dimensional"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Púrpura Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Dimensional Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Viajar entre Dimensiones"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de las Dimensiones"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Dimensiones"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 217,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Dimensionales",
+      "value": 1334,
+      "max_value": 1900
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Dimensiones",
+      "value": 78
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Dimensiones",
+      "value": 96
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567968
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de las Dimensiones Eternas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de las Dimensiones"
+    }
+  ]
+}

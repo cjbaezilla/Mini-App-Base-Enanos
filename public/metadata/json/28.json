@@ -1,0 +1,151 @@
+{
+  "name": "Bifur Barbasol",
+  "description": "En las cumbres más altas de las Montañas del Sol, donde la luz solar se concentra en cristales de fuego, Bifur Barbasol nació con el don del sol. Su padre, un maestro del sol, le enseñó que cada rayo solar tiene su poder, y que un verdadero maestro del sol puede hacer que el día responda a su llamada. Bifur no solo controla el sol, sino que lo hace brillar. Su técnica única combina la magia solar con la sabiduría de los ciclos diurnos, creando luz que puede curar o destruir según su voluntad. A los 208 años, Bifur ha dominado todos los secretos del sol, desde el amanecer hasta el atardecer. Su obra maestra es el 'Templo del Sol Eterno', una estructura que brilla con luz solar y nunca se oscurece. Bifur puede sentir la posición del sol sin mirar al cielo, y sus manos, cubiertas de polvo solar, nunca pierden su toque mágico. Su santuario está construido en la cima más alta de las montañas, y el aire siempre huele a luz solar y magia dorada. Cuando invoca el sol, Bifur canta canciones que aprendió de los propios ciclos solares, y el sol responde a su voz, creando patrones que nadie más puede lograr. Sus habilidades no solo son poderosas, sino que tienen propiedades mágicas que pueden curar enfermedades y dar vida a las plantas.",
+  "image": "https://app.baeza.me/metadata/imgs/28.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Sol"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 233
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "81 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Sol Elemental"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Sol"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Luz de Sol"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Sol que Brilla"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbasol"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Sol"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Solar"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Amarillo Sol"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Líder Solar"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar Ciclos Solares"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Frutas del Sol"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua Solar"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 208,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Ciclos Solares Dominados",
+      "value": 75920,
+      "max_value": 100000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Sol",
+      "value": 80
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Calor",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567918
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Corazón del Sol"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Criaturas de la Oscuridad"
+    }
+  ]
+}

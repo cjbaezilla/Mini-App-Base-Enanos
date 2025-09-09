@@ -1,0 +1,151 @@
+{
+  "name": "Oin Cuatrillaversoeterno",
+  "description": "En los laboratorios más cuatrillaversales de las Montañas del Cuatrillaverso Infinito, donde los cuatrillaversos contienen todos los trillaversos posibles, Oin Cuatrillaversoeterno nació para dominar los secretos más profundos del cuatrillaverso. Su padre, un maestro del cuatrillaverso legendario, le enseñó que cada cuatrillaverso contiene todos los trillaversos posibles, y que un verdadero maestro puede manipular todos los cuatrillaversos simultáneamente. Oin no solo controla el cuatrillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos cuatrillaversos, destruir cuatrillaversos existentes, e incluso fusionar cuatrillaversos. A los 246 años, Oin ha dominado más de ochocientos once mil sesenta y nueve mil novecientos tres mil treinta y ocho mil quinientos ochenta y ocho mil hechizos cuatrillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Cuatrillaverso Eterno', un hechizo que puede crear un campo donde múltiples cuatrillaversos coexisten. Su laboratorio está lleno de fragmentos de cuatrillaversos que brillan con luz propia, cada uno conteniendo un cuatrillaverso diferente. Oin puede sentir la estructura de cada cuatrillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices cuatrillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de cuatrillaversos y los cuatrillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son cuatrillaversales, sino que pueden afectar a múltiples quintillaversos y algunas incluso pueden crear nuevos sextillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/152.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Cuatrillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 246
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.66 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "127 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Cuatrillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Cuatrillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Cuatrillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Cuatrillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Cuatrillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Cuatrillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Cuatrillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Cuatrillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Cuatrillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Cuatrillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Cuatrillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 224,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Cuatrillaversales",
+      "value": 811069903038588000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Cuatrillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Cuatrillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573289
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Cuatrillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Cuatrillaverso"
+    }
+  ]
+}

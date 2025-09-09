@@ -1,0 +1,151 @@
+{
+  "name": "Bifur Quinquevigintaversoeterno",
+  "description": "En los laboratorios más quinquevigintaversales de las Montañas del Quinquevigintaverso Infinito, donde los quinquevigintaversos contienen todos los cuatrovigintaversos posibles, Bifur Quinquevigintaversoeterno nació para dominar los secretos más profundos del quinquevigintaverso. Su padre, un maestro del quinquevigintaverso legendario, le enseñó que cada quinquevigintaverso contiene todos los cuatrovigintaversos posibles, y que un verdadero maestro puede manipular todos los quinquevigintaversos simultáneamente. Bifur no solo controla el quinquevigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos quinquevigintaversos, destruir quinquevigintaversos existentes, e incluso fusionar quinquevigintaversos. A los 235 años, Bifur ha dominado más de un millón quinientos noventa y nueve mil hechizos quinquevigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Quinquevigintaverso Eterno', un hechizo que puede crear un campo donde múltiples quinquevigintaversos coexisten. Su laboratorio está lleno de fragmentos de quinquevigintaversos que brillan con luz propia, cada uno conteniendo un quinquevigintaverso diferente. Bifur puede sentir la estructura de cada quinquevigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices quinquevigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de quinquevigintaversos y los quinquevigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son quinquevigintaversales, sino que pueden afectar a múltiples sexvigintaversos y algunas incluso pueden crear nuevos septenvigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/117.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 235
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.31 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "92 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Quinquevigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Quinquevigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Quinquevigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Quinquevigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Quinquevigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Quinquevigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Quinquevigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Quinquevigintaversales",
+      "value": 1599000,
+      "max_value": 20000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Quinquevigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Quinquevigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569789
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Quinquevigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Quinquevigintaverso"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Barbapiedra",
+  "description": "En las canteras más duras de las Montañas de Piedra, donde el granito es más duro que el acero, Gimli Barbapiedra nació para ser tallador. Su padre, un cantero legendario, le enseñó que cada piedra tiene su alma, y que solo aquellos que la respetan pueden revelar su belleza oculta. Gimli no solo talla piedras, sino que las hace hablar. Su técnica única combina la talla tradicional con la magia de la comunicación, y puede hacer que las piedras revelen secretos de épocas pasadas. A los 198 años, Gimli ha tallado más de setecientas esculturas de piedra, cada una más expresiva que la anterior. Su obra maestra es la 'Estatua de los Ancestros', una escultura que cambia de expresión según el estado de ánimo de quien la mira. Gimli puede sentir la personalidad de cada piedra con solo tocarla, y sus manos, cubiertas de polvo de granito, nunca pierden su toque mágico. Su taller está lleno de piedras de todos los colores y texturas, y el aire siempre huele a roca fresca y magia antigua. Cuando talla, Gimli canta canciones que aprendió de los propios montes, y las piedras responden a su voz, revelando formas que nadie más puede ver. Sus creaciones no solo son hermosas, sino que tienen propiedades mágicas que pueden contar historias y preservar recuerdos.",
+  "image": "https://app.baeza.me/metadata/imgs/37.png",
+  "external_url": "https://baeza.me",
+  "background_color": "708090",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Piedra"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 223
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "81 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Esculturas de Piedra Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Diamante"
+    },
+    {
+      "trait_type": "Piedra Preferida",
+      "value": "Granito de Montaña"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Piedras que Hablan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbapiedra"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Piedra"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Piedra"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Granito"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Artista Paciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar Historias de las Piedras"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan de Centeno con Mantequilla"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza de Malta Clara"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 198,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Esculturas Talladas",
+      "value": 723,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tallado",
+      "value": 55
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia de Piedra",
+      "value": 89
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567927
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Voz de las Montañas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Terremotos"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Dain Transformacioneterna",
+  "description": "En los laboratorios más transformadores de las Montañas de la Transformación, donde todo cambia constantemente, Dain Transformacioneterna nació para dominar los secretos más profundos de la transformación. Su padre, un maestro de la transformación legendario, le enseñó que la transformación no es destructiva, sino creativa, y que un verdadero maestro puede transformar cualquier cosa en cualquier otra cosa. Dain no solo controla la transformación, sino que la hace su aliada. Sus poderes pueden transformar materia, cambiar formas, e incluso crear nuevas especies. A los 264 años, Dain ha dominado más de mil hechizos de transformación diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de la Transformación Eterna', un hechizo que puede crear un campo de transformación puro donde todo cambia constantemente. Su laboratorio está lleno de objetos flotantes que brillan con luz propia, cada uno conteniendo una forma de transformación diferente. Dain puede sentir la presencia de la transformación con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de transformación, nunca pierden su precisión. Cuando trabaja, el aire se llena de colores cambiantes y la realidad se transforma, moviéndose como si fuera líquida. Sus poderes no solo son transformadores, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos universos.",
+  "image": "https://app.baeza.me/metadata/imgs/64.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF4500",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Transformación"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 264
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.21 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "86 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de la Transformación Mágica"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Transformación Eterna"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Transformación"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de la Transformación"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Transformacioneterna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Transformación"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Naranja Transformación"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Transformador Creativo"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Transformar Objetos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Transformación"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Transformación"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 242,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Transformación",
+      "value": 1034,
+      "max_value": 1500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Transformación",
+      "value": 76
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Transformación",
+      "value": 93
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567954
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Transformación Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Transformación"
+    }
+  ]
+}

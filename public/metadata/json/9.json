@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Barbabarriga",
+  "description": "En las cocinas más humeantes de Erebor, donde los aromas de mil especias se mezclan en el aire, Bombur Barbabarriga nació con el don de la gastronomía. Su padre, un cocinero real, le enseñó que cada ingrediente tiene su momento perfecto, y que la comida no solo alimenta el cuerpo, sino también el alma. Bombur no solo cocina, sino que crea experiencias culinarias que transportan a quien las prueba a otros mundos. Su cocina, excavada en la roca viva, alberga hornos que arden con fuego de dragón y ollas que nunca se vacían. A los 211 años, Bombur ha inventado más de cien recetas nuevas, cada una más deliciosa que la anterior. Su obra maestra es el 'Estofado de los Siete Reinos', un plato que cambia de sabor según el estado de ánimo de quien lo come. Bombur puede detectar la frescura de cualquier ingrediente con solo olerlo, y sus manos, aunque gruesas, son tan hábiles que pueden cortar una cebolla en rodajas perfectas con los ojos cerrados. Su recetario, escrito en pergamino de piel de dragón, contiene secretos culinarios que han pasado de generación en generación. Cuando cocina, Bombur canta canciones que aprendió de los propios ingredientes, y la comida responde a su voz, desarrollando sabores que nadie más puede lograr. Sus platos no solo son deliciosos, sino que tienen propiedades curativas que pueden sanar heridas y levantar el ánimo.",
+  "image": "https://app.baeza.me/metadata/imgs/9.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF6347",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Cocinero Maestro"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 236
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "95 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Gastronomía Curativa"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cuchillo de Cocina de Mithril"
+    },
+    {
+      "trait_type": "Ingrediente Preferido",
+      "value": "Trufas del Bosque"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Comida que Cura"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbabarriga"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Erebor"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Castaño Rojizo"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Marrón Miel"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Cocinero Generoso"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Probar Nuevos Ingredientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Estofado de Carne con Verduras"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza de Malta Oscura"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 211,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Recetas Inventadas",
+      "value": 127,
+      "max_value": 200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Cocina",
+      "value": 70
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Venenos",
+      "value": 90
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567899
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de los Sabores"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Comida Podrida"
+    }
+  ]
+}

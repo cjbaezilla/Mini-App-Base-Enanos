@@ -1,0 +1,151 @@
+{
+  "name": "Oin Quindecaversoeterno",
+  "description": "En los laboratorios más quindecaversales de las Montañas del Quindecaverso Infinito, donde los quindecaversos contienen todos los quattuordecaversos posibles, Oin Quindecaversoeterno nació para dominar los secretos más profundos del quindecaverso. Su padre, un maestro del quindecaverso legendario, le enseñó que cada quindecaverso contiene todos los quattuordecaversos posibles, y que un verdadero maestro puede manipular todos los quindecaversos simultáneamente. Oin no solo controla el quindecaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos quindecaversos, destruir quindecaversos existentes, e incluso fusionar quindecaversos. A los 252 años, Oin ha dominado más de cincuenta y seis mil hechizos quindecaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Quindecaverso Eterno', un hechizo que puede crear un campo donde múltiples quindecaversos coexisten. Su laboratorio está lleno de fragmentos de quindecaversos que brillan con luz propia, cada uno conteniendo un quindecaverso diferente. Oin puede sentir la estructura de cada quindecaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices quindecaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de quindecaversos y los quindecaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son quindecaversales, sino que pueden afectar a múltiples sedecaversos y algunas incluso pueden crear nuevos septendecaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/107.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Quindecaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 252
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.21 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "82 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Quindecaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Quindecaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Quindecaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Quindecaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Quindecaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Quindecaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Quindecaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Quindecaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Quindecaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Quindecaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Quindecaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 230,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Quindecaversales",
+      "value": 56000,
+      "max_value": 70000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Quindecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Quindecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234568789
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Quindecaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Quindecaverso"
+    }
+  ]
+}

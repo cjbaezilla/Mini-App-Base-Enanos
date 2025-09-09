@@ -1,0 +1,151 @@
+{
+  "name": "Fili Billaversoeterno",
+  "description": "En los laboratorios más billaversales de las Montañas del Billaverso Infinito, donde los billaversos contienen todos los milaversos posibles, Fili Billaversoeterno nació para dominar los secretos más profundos del billaverso. Su padre, un maestro del billaverso legendario, le enseñó que cada billaverso contiene todos los milaversos posibles, y que un verdadero maestro puede manipular todos los billaversos simultáneamente. Fili no solo controla el billaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos billaversos, destruir billaversos existentes, e incluso fusionar billaversos. A los 220 años, Fili ha dominado más de doscientos dos mil setecientos sesenta y siete mil cuatrocientos setenta y cinco mil setecientos cincuenta y nueve mil seiscientos cuarenta y siete mil hechizos billaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Billaverso Eterno', un hechizo que puede crear un campo donde múltiples billaversos coexisten. Su laboratorio está lleno de fragmentos de billaversos que brillan con luz propia, cada uno conteniendo un billaverso diferente. Fili puede sentir la estructura de cada billaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices billaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de billaversos y los billaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son billaversales, sino que pueden afectar a múltiples trillaversos y algunas incluso pueden crear nuevos cuatrillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/150.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Billaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 220
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.64 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "125 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Billaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Billaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Billaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Billaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Billaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Billaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Billaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Billaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Billaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Billaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Billaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 198,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Billaversales",
+      "value": 202767475759647000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Billaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Billaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573089
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Billaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Billaverso"
+    }
+  ]
+}

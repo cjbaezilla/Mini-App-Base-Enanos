@@ -1,0 +1,151 @@
+{
+  "name": "Balin Nonillaversoeterno",
+  "description": "En los laboratorios más nonillaversales de las Montañas del Nonillaverso Infinito, donde los nonillaversos contienen todos los octillaversos posibles, Balin Nonillaversoeterno nació para dominar los secretos más profundos del nonillaverso. Su padre, un maestro del nonillaverso legendario, le enseñó que cada nonillaverso contiene todos los octillaversos posibles, y que un verdadero maestro puede manipular todos los nonillaversos simultáneamente. Balin no solo controla el nonillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos nonillaversos, destruir nonillaversos existentes, e incluso fusionar nonillaversos. A los 258 años, Balin ha dominado más de veinticinco millones novecientos cincuenta y cuatro mil doscientos treinta y seis mil novecientos veinticinco mil doscientos cuarenta mil doscientos ochenta y uno mil seiscientos mil hechizos nonillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Nonillaverso Eterno', un hechizo que puede crear un campo donde múltiples nonillaversos coexisten. Su laboratorio está lleno de fragmentos de nonillaversos que brillan con luz propia, cada uno conteniendo un nonillaverso diferente. Balin puede sentir la estructura de cada nonillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices nonillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de nonillaversos y los nonillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son nonillaversales, sino que pueden afectar a múltiples decillaversos y algunas incluso pueden crear nuevos undecillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/157.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Nonillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 258
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.71 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "132 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Nonillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Nonillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Nonillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Nonillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Nonillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Nonillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Nonillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Nonillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Nonillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Nonillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Nonillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 236,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Nonillaversales",
+      "value": 259542369252402816000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Nonillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Nonillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573789
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Nonillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Nonillaverso"
+    }
+  ]
+}

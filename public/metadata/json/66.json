@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Runamagica",
+  "description": "En los talleres más místicos de las Montañas del Tiempo, donde las runas brillan con luz temporal, Gimli Runamagica nació para ser el segundo maestro de runas más poderoso. Su padre, un maestro de runas legendario, le enseñó que cada runa contiene un fragmento de tiempo, y que un verdadero maestro puede manipular el tiempo a través de las runas. Gimli no solo talla runas, sino que las hace viajar en el tiempo. Sus creaciones pueden enviar mensajes al pasado, predecir el futuro, e incluso crear bucles temporales. A los 241 años, Gimli ha dominado más de novecientos hechizos de runas diferentes, cada uno con efectos temporales únicos. Su obra maestra es el 'Círculo de Runas Temporales', un conjunto de runas que puede crear portales temporales. Su taller está lleno de runas flotantes que brillan con luz temporal, cada una conteniendo un momento diferente. Gimli puede sentir el flujo temporal de cada runa con solo tocarla, y sus manos, cubiertas de cicatrices temporales, nunca pierden su precisión. Cuando talla, el aire se llena de ecos del pasado y visiones del futuro, y las runas cobran vida, moviéndose como si fueran fragmentos de tiempo. Sus creaciones no solo son mágicas, sino que pueden afectar a múltiples dimensiones temporales y algunas incluso pueden crear realidades alternativas.",
+  "image": "https://app.baeza.me/metadata/imgs/66.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8A2BE2",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Runas Temporal"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 241
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 77,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Runas Temporales"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Tiempo Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Piedra del Tiempo"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Runas Temporales"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Runamagica"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Tiempo"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Púrpura Temporal"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta Temporal"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sabio Temporal"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Estudiar Tiempo"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Tiempo"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Tiempo"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 219,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Runas Temporales",
+      "value": 923,
+      "max_value": 1300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Runas Temporales",
+      "value": 66
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Tiempo",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567956
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de las Runas Temporales"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Tiempo"
+    }
+  ]
+}

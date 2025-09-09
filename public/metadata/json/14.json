@@ -1,0 +1,151 @@
+{
+  "name": "Dain Barbahierro",
+  "description": "En las forjas más calientes de las Montañas de Hierro, donde el metal se funde en ríos de fuego, Dain Barbahierro nació para ser rey. Su padre, un herrero real, le enseñó que un verdadero líder no solo gobierna con fuerza, sino con sabiduría y compasión. Dain no solo forja armas, sino que forja alianzas. Su técnica única combina la diplomacia tradicional con la magia de la unión, y puede hacer que enemigos jurados se conviertan en hermanos. A los 267 años, Dain ha unificado más de veinte clanes enanos, cada uno más fuerte que el anterior. Su obra maestra es el 'Reino Unificado de las Montañas', una nación que nunca ha conocido la guerra civil. Dain puede sentir las necesidades de su pueblo con solo escuchar sus voces, y sus manos, cubiertas de cicatrices de batalla, nunca pierden su toque curativo. Su trono está forjado con hierro de meteorito y decorado con gemas de todos los clanes, y el aire siempre huele a metal y honor. Cuando gobierna, Dain canta canciones que aprendió de los propios montes, y su pueblo responde a su voz, uniéndose en una sola voz. Su reino no solo es próspero, sino que es un faro de esperanza para todos los pueblos libres.",
+  "image": "https://app.baeza.me/metadata/imgs/14.png",
+  "external_url": "https://baeza.me",
+  "background_color": "2F4F4F",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Rey y Líder"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 292
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.28 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "98 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Liderazgo y Diplomacia"
+    },
+    {
+      "trait_type": "Arma Favorita",
+      "value": "Martillo Real 'Unificador'"
+    },
+    {
+      "trait_type": "Metal Preferido",
+      "value": "Hierro de Meteorito"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Forjar Alianzas"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbahierro"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Hierro"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Hierro"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Acero"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Líder Sabio"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Meditar en las Montañas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne de Jabalí con Hierbas"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza Real"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 267,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Clanes Unificados",
+      "value": 23,
+      "max_value": 30
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Liderazgo",
+      "value": 85
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Traición",
+      "value": 90
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567904
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Rey de Todas las Montañas"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Guerra"
+    }
+  ]
+}

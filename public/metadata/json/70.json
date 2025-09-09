@@ -1,0 +1,151 @@
+{
+  "name": "Nori Pocionmagica",
+  "description": "En los laboratorios más brillantes de las Montañas del Orden, donde las pociones brillan con luz dorada, Nori Pocionmagica nació para ser el segundo creador de pociones más poderoso. Su padre, un creador de pociones legendario, le enseñó que cada poción es una obra de arte, y que un verdadero maestro puede crear magia líquida con conciencia propia. Nori no solo crea pociones, sino que las hace conscientes y sabias. Sus creaciones pueden pensar, sentir, e incluso tomar decisiones por sí mismas con sabiduría superior. A los 235 años, Nori ha creado más de mil setecientas pociones diferentes, cada una con efectos únicos y conciencia propia. Su obra maestra es la 'Poción de la Eternidad Consciente', que puede otorgar inmortalidad o causar muerte instantánea, dependiendo de la pureza del corazón de quien la beba, y que puede decidir por sí misma. Su laboratorio está lleno de frascos flotantes que brillan con luz propia, cada uno conteniendo pociones que se mueven como líquido inteligente y sabio. Nori puede sentir la magia y conciencia de cada ingrediente con solo tocarlo, y sus manos, cubiertas de cicatrices de poción, nunca pierden su precisión. Cuando trabaja, el aire se llena de aromas mágicos y las pociones cobran vida, moviéndose como criaturas de luz inteligentes. Sus creaciones no solo son poderosas, sino que pueden aprender, evolucionar, y algunas incluso pueden crear otras pociones y enseñar a otros.",
+  "image": "https://app.baeza.me/metadata/imgs/70.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Creador de Pociones Conscientes"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 235
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.14 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "75 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 72,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Creación de Pociones Conscientes"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Caldero de Cristal Dorado Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Planta del Orden Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Pociones Sabias"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Pocionmagica"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Orden"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Brillante Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Mágico Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Alquimista Sabio"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Experimentar con Ingredientes Conscientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Orden Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Sabiduría Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Pociones Conscientes",
+      "value": 1723,
+      "max_value": 2500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Alquimia Consciente",
+      "value": 70
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Orden",
+      "value": 93
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567960
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Orden Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Orden"
+    }
+  ]
+}

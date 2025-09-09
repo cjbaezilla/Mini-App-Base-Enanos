@@ -1,0 +1,151 @@
+{
+  "name": "Balin Armaduralegendaria",
+  "description": "En las forjas más sagradas de las Montañas de la Muerte, donde el metal se templa en lágrimas de dragón, Balin Armaduralegendaria nació para ser el segundo forjador de armaduras más poderoso. Su padre, un forjador de armaduras legendario, le enseñó que una armadura no solo protege el cuerpo, sino que debe proteger el alma de la muerte. Balin no solo forja armaduras, sino que las hace inmortales. Sus creaciones pueden resistir la muerte misma, proteger contra la corrupción, y hasta otorgar inmortalidad temporal. A los 248 años, Balin ha forjado más de seiscientas armaduras diferentes, cada una con propiedades únicas contra la muerte. Su obra maestra es la 'Armadura de la Inmortalidad', que puede proteger a su portador de la muerte y otorgar vida eterna. Su taller está lleno de armaduras flotantes que brillan con luz propia, cada una esperando a su portador perfecto. Balin puede sentir la personalidad de cada metal con solo tocarlo, y sus manos, cubiertas de cicatrices de forja, nunca pierden su toque mágico. Cuando forja, el aire se llena de chispas doradas y las armaduras cobran vida, moviéndose como si tuvieran voluntad propia. Sus creaciones no solo son impenetrables, sino que pueden adaptarse a cualquier forma y tamaño, y algunas incluso pueden volar y luchar solas.",
+  "image": "https://app.baeza.me/metadata/imgs/67.png",
+  "external_url": "https://baeza.me",
+  "background_color": "B22222",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Forjador de Armaduras Inmortales"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 248
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.19 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "86 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Forja de Armaduras Inmortales"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo de Inmortalidad"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Acero de Dragón Inmortal"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Armaduras Inmortales"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Armaduralegendaria"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Muerte"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Rojo Inmortal"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo Fuego"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Protector Inmortal"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Probar Armaduras"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne de Dragón Inmortal"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Sangre de Fénix Inmortal"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 226,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Armaduras Inmortales",
+      "value": 634,
+      "max_value": 900
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Inmortalidad",
+      "value": 68
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Muerte",
+      "value": 85
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567957
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Inmortalidad"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Muerte"
+    }
+  ]
+}

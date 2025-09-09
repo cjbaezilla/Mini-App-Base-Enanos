@@ -1,0 +1,151 @@
+{
+  "name": "Ori Piedrasabia",
+  "description": "En las bibliotecas más antiguas de Khazad-dûm, donde los pergaminos susurran secretos de épocas pasadas, Ori Piedrasabia nació con sed de conocimiento. Su padre, un escriba real, le enseñó que cada palabra escrita es un tesoro que debe preservarse para las generaciones futuras. Ori no solo lee libros, sino que los hace hablar. Sus manos, cubiertas de tinta de oro, pueden traducir cualquier idioma antiguo, incluso aquellos que se creían perdidos para siempre. A los 167 años, ya había catalogado más de diez mil volúmenes y descubierto tres lenguas perdidas. Su obra maestra es el 'Códice de los Siete Reinos', un libro que se reescribe a sí mismo con nueva información cada vez que se abre. Ori cree que el conocimiento es la verdadera riqueza de los enanos, más valioso que cualquier gema o metal. Su biblioteca personal está excavada en una caverna de cristal, donde la luz se refracta creando arcoíris que iluminan sus lecturas. Cada libro en su colección tiene un lugar especial, y Ori puede encontrar cualquier información en segundos, como si los libros le susurraran sus secretos. Sus traducciones han salvado reinos de la destrucción y han revelado secretos que cambiaron el curso de la historia.",
+  "image": "https://app.baeza.me/metadata/imgs/4.png",
+  "external_url": "https://baeza.me",
+  "background_color": "DAA520",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Escriba y Traductor"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 192
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.1 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "72 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 65,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 78,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Traducción de Idiomas Antiguos"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Pluma de Fénix"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Pergamino de Piel de Dragón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Libros que Hablan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Piedrasabia"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Khazad-dûm"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Esmeralda"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Erudito Paciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Coleccionar Libros Raros"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Galletas de Miel con Té"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Té de Hierbas Aromáticas"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 167,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Libros Catalogados",
+      "value": 10247,
+      "max_value": 15000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Traducción",
+      "value": 70
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Memoria Perfecta",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567894
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Guardián del Conocimiento"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Conocimiento"
+    }
+  ]
+}

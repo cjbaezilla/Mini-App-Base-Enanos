@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Barbaestrella",
+  "description": "En las cumbres más altas de las Montañas de las Estrellas, donde el cielo nocturno se extiende como un manto de diamantes, Bofur Barbaestrella nació con el don de las estrellas. Su padre, un maestro de las estrellas, le enseñó que cada estrella tiene su historia, y que un verdadero maestro de las estrellas puede hacer que el firmamento responda a su llamada. Bofur no solo observa las estrellas, sino que las hace cantar. Su técnica única combina la astrología tradicional con la magia estelar, creando constelaciones que pueden predecir el futuro o guiar a los viajeros. A los 192 años, Bofur ha mapeado todos los cielos conocidos, desde las estrellas más brillantes hasta las más tenues. Su obra maestra es el 'Observatorio de las Estrellas Eternas', una estructura que puede ver a través del tiempo y el espacio. Bofur puede leer el futuro en las estrellas sin necesidad de instrumentos, y sus manos, cubiertas de polvo estelar, nunca pierden su toque mágico. Su observatorio está construido en la cima más alta de las montañas, y el aire siempre huele a espacio y magia cósmica. Cuando invoca las estrellas, Bofur canta canciones que aprendió de los propios cielos, y las estrellas responden a su voz, creando patrones que nadie más puede lograr. Sus habilidades no solo son hermosas, sino que tienen propiedades mágicas que pueden predecir el futuro y guiar a los perdidos.",
+  "image": "https://app.baeza.me/metadata/imgs/29.png",
+  "external_url": "https://baeza.me",
+  "background_color": "191970",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de las Estrellas"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 217
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "77 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 74,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 85,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Astrología y Predicción"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Telescopio de Estrellas"
+    },
+    {
+      "trait_type": "Elemento Preferido",
+      "value": "Luz de Estrella"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Estrellas que Cantan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbaestrella"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de las Estrellas"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Azul Estrella"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Cósmico"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sabio Cósmico"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Mapear Constelaciones"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Polvo de Estrella"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Estrella"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 192,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Estrellas Mapeadas",
+      "value": 2847,
+      "max_value": 3000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Estrellas",
+      "value": 85
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Visión Cósmica",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567919
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Ojo del Cosmos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Criaturas del Vacío"
+    }
+  ]
+}

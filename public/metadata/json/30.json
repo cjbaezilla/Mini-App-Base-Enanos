@@ -1,0 +1,151 @@
+{
+  "name": "Bombur Barbacristal",
+  "description": "En las cuevas más profundas de las Montañas de Cristal, donde las formaciones brillan como estrellas bajo tierra, Bombur Barbacristal nació con el don de los cristales. Su padre, un tallador de cristales, le enseñó que cada cristal tiene su frecuencia única, y que un verdadero maestro de los cristales puede hacer que la luz responda a su llamada. Bombur no solo talla cristales, sino que los hace cantar. Su técnica única combina la talla tradicional con la magia de la luz, creando cristales que brillan con colores imposibles y emiten melodías etéreas. A los 206 años, Bombur ha creado más de seiscientas esculturas de cristal, cada una más hermosa que la anterior. Su obra maestra es el 'Cristal del Corazón Eterno', una gema que late como un corazón y nunca deja de brillar. Bombur puede sentir la estructura molecular de cualquier cristal con solo tocarlo, y sus manos, cubiertas de polvo de cristal, nunca pierden su toque mágico. Su taller está lleno de cristales que flotan en el aire, cada uno resonando con una frecuencia única, y el aire siempre huele a ozono y magia pura. Cuando talla, Bombur canta canciones que aprendió de los propios cristales, y las gemas responden a su voz, brillando con intensidades que nadie más puede lograr. Sus creaciones no solo son hermosas, sino que tienen propiedades curativas y protectoras que pueden sanar heridas y alejar a los espíritus malignos.",
+  "image": "https://app.baeza.me/metadata/imgs/30.png",
+  "external_url": "https://baeza.me",
+  "background_color": "E6E6FA",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Cristales"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 231
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "83 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Cristales de Luz Mágica"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Luz"
+    },
+    {
+      "trait_type": "Cristal Preferido",
+      "value": "Cristal de Corazón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Cristales que Cantan"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbacristal"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Cristal"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Cristal"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Violeta Cristal"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Artista de la Luz"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Observar Refracciones de Luz"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Frutas Cítricas"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Agua de Cristal"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 206,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Cristales Creados",
+      "value": 634,
+      "max_value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Tallado",
+      "value": 62
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Oscuridad",
+      "value": 94
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567920
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Luz Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Criaturas de la Oscuridad"
+    }
+  ]
+}

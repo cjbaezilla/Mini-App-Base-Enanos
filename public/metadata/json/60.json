@@ -1,0 +1,151 @@
+{
+  "name": "Fili Vidaeterna",
+  "description": "En los jardines más brillantes de las Montañas de la Vida, donde las plantas crecen con luz propia, Fili Vidaeterna nació para dominar los secretos más profundos de la vida. Su padre, un maestro de la vida legendario, le enseñó que la vida es el don más preciado, y que un verdadero maestro puede crear vida de la nada. Fili no solo controla la vida, sino que la hace florecer. Sus poderes pueden curar cualquier herida, resucitar a los muertos, e incluso crear nuevas formas de vida. A los 225 años, Fili ha dominado más de seiscientos hechizos de vida diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de la Vida Eterna', un hechizo que puede crear un jardín eterno que nunca muere. Su laboratorio está lleno de plantas flotantes que brillan con luz propia, cada una conteniendo una forma de vida diferente. Fili puede sentir la presencia de la vida con solo cerrar los ojos, y sus manos, cubiertas de cicatrices de vida, nunca pierden su precisión. Cuando trabaja, el aire se llena de aromas de flores y las plantas cobran vida, moviéndose como criaturas vivas. Sus poderes no solo son curativos, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos mundos.",
+  "image": "https://app.baeza.me/metadata/imgs/60.png",
+  "external_url": "https://baeza.me",
+  "background_color": "00FF00",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de la Vida"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 225
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "78 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de la Vida Mágica"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Vida Eterna"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Planta de la Vida"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de la Vida"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Vidaeterna"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Vida"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Vida"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sanador Noble"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Cuidar Plantas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Vida"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Vida"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 203,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos de Vida",
+      "value": 634,
+      "max_value": 900
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Vida",
+      "value": 73
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Vida",
+      "value": 94
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567950
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Vida Eterna"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Vida"
+    }
+  ]
+}

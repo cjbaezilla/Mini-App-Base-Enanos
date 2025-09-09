@@ -1,0 +1,151 @@
+{
+  "name": "Gimli Armaduralegendaria",
+  "description": "En las forjas más sagradas de las Montañas de la Muerte, donde el metal se templa en lágrimas de dragón, Gimli Armaduralegendaria nació para proteger a los inocentes. Su padre, un forjador de armaduras sin igual, le enseñó que una armadura no solo protege el cuerpo, sino que debe proteger el alma. Gimli no solo forja armaduras, sino que las hace invencibles. Sus creaciones pueden resistir el fuego de dragón, el hielo eterno, y hasta los rayos de los dioses. A los 234 años, Gimli ha forjado más de quinientas armaduras, cada una con propiedades mágicas únicas. Su obra maestra es la 'Armadura del Fénix', que puede regenerarse automáticamente y proteger a su portador de cualquier daño. Su taller está lleno de armaduras flotantes que brillan con luz propia, cada una esperando a su portador perfecto. Gimli puede sentir la personalidad de cada metal con solo tocarlo, y sus manos, cubiertas de cicatrices de forja, nunca pierden su toque mágico. Cuando forja, el aire se llena de chispas doradas y las armaduras cobran vida, moviéndose como si tuvieran voluntad propia. Sus creaciones no solo son impenetrables, sino que pueden adaptarse a cualquier forma y tamaño, y algunas incluso pueden volar.",
+  "image": "https://app.baeza.me/metadata/imgs/51.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8B0000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Forjador de Armaduras"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 234
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.21 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "88 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Forja de Armaduras Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo de Protección"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Acero de Dragón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Armaduras Vivientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Armaduralegendaria"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Muerte"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Rojo Sangre"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Rojo Fuego"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Protector Noble"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Probar Armaduras"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne de Dragón"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Sangre de Fénix"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 212,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Armaduras Forjadas",
+      "value": 523,
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Protección",
+      "value": 70
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Muerte",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567941
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Protección"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Muerte"
+    }
+  ]
+}

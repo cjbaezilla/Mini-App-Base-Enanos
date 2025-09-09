@@ -1,0 +1,151 @@
+{
+  "name": "Nori Runagema",
+  "description": "En los mercados subterráneos de Bree, donde las gemas cambian de manos en acuerdos que nunca se registran, Nori Runagema nació con el don del comercio. Su padre, un mercader ambulante, le enseñó que cada transacción es un arte, y que la honestidad y la astucia pueden coexistir. Nori no solo vende gemas, sino que las hace brillar con historias. Cada piedra en su colección tiene una leyenda, y él conoce el origen de cada una. Su tienda, una carreta mágica que se expande como un palacio cuando se detiene, alberga gemas de todos los rincones del mundo conocido. A los 189 años, Nori ha establecido rutas comerciales que conectan todos los reinos enanos, y su red de contactos se extiende hasta los elfos más reclusos. Su habilidad para detectar gemas falsas es legendaria; puede distinguir un diamante verdadero de uno falso con solo mirarlo. Pero lo que realmente lo distingue es su corazón. Nori nunca engaña a un cliente, pero siempre encuentra la manera de que ambas partes salgan ganando. Sus gemas no solo son hermosas, sino que cada una tiene propiedades mágicas únicas que él mismo ha descubierto. Cuando no está comerciando, Nori viaja por el mundo buscando nuevas gemas y nuevas historias que contar.",
+  "image": "https://app.baeza.me/metadata/imgs/5.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Mercader de Gemas"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 214
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.12 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "75 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 68,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Comercio de Gemas Mágicas"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Lupa de Cristal de Luna"
+    },
+    {
+      "trait_type": "Gema Preferida",
+      "value": "Rubí de Fuego"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Detección de Gemas Falsas"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Runagema"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Ered Luin"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Castaño Dorado"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Ámbar Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Comerciante Astuto"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Contar Historias de Gemas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Frutos Secos con Miel"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Vino de Frutas del Bosque"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 189,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Transacciones Realizadas",
+      "value": 15432,
+      "max_value": 20000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Comercio",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Persuasión",
+      "value": 88
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567895
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Rey de los Mercados"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Ladrones de Gemas"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Venenomortal",
+  "description": "En los laboratorios más secretos de las Montañas del Caos, donde las plantas venenosas crecen en la oscuridad eterna, Dwalin Venenomortal nació para dominar los secretos más mortales de la naturaleza. Su padre, un maestro de venenos legendario, le enseñó que cada veneno tiene su antídoto, y que un verdadero maestro puede crear tanto la muerte como la vida. Dwalin no solo crea venenos, sino que los hace inteligentes. Sus creaciones pueden elegir a sus víctimas, cambiar de forma, e incluso comunicarse con su creador. A los 243 años, Dwalin ha creado más de mil venenos diferentes, cada uno con propiedades únicas. Su obra maestra es el 'Venenomortal', un veneno que puede matar instantáneamente o curar completamente, dependiendo de la intención de quien lo use. Su laboratorio está lleno de frascos flotantes que brillan con colores mortales, cada uno conteniendo venenos que se mueven como serpientes vivas. Dwalin puede sentir la toxicidad de cada sustancia con solo olerla, y sus manos, cubiertas de cicatrices de veneno, nunca pierden su precisión. Cuando trabaja, el aire se llena de vapores multicolores y los venenos cobran vida, moviéndose como criaturas inteligentes. Sus creaciones no solo son mortales, sino que pueden aprender, adaptarse, y algunas incluso pueden reproducirse.",
+  "image": "https://app.baeza.me/metadata/imgs/53.png",
+  "external_url": "https://baeza.me",
+  "background_color": "228B22",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Venenos"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 243
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.14 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "76 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Creación de Venenos Mágicos"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Mortero de Cristal Venenoso"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Planta del Caos"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Venenos Inteligentes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Venenomortal"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Caos"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Venenoso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Esmeralda"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Alquimista Misterioso"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Estudiar Plantas Venenosas"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Caos"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Veneno"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 221,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Venenos Creados",
+      "value": 1034,
+      "max_value": 1500
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Alquimia",
+      "value": 68
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Caos",
+      "value": 94
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567943
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Caos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Caos"
+    }
+  ]
+}

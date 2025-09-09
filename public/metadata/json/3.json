@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Runamartillo",
+  "description": "En las minas más profundas de Moria, donde la oscuridad es tan densa que se puede cortar con un cuchillo, Dwalin Runamartillo nació con un martillo en la mano y una canción en el corazón. Su padre, un minero legendario, le enseñó que cada golpe de martillo debe ser preciso como un latido del corazón. Dwalin no solo extrae minerales, sino que habla con la montaña misma. Las rocas le susurran secretos sobre vetas ocultas y cavernas perdidas. Su martillo, 'Rompepiedras', está forjado con hierro de meteorito y empuñadura de hueso de dragón. Cuando golpea, la montaña tiembla, pero no de miedo, sino de alegría, como si estuviera liberando sus tesoros más preciados. A los 198 años, Dwalin ha descubierto más de cincuenta nuevas vetas de mithril, cada una más rica que la anterior. Su técnica única combina la fuerza bruta con la precisión de un cirujano. Puede detectar la calidad de un mineral con solo tocarlo, y su instinto nunca falla. Las minas bajo su supervisión son las más productivas de todo el reino enano, pero también las más seguras. Dwalin cree que la montaña es un ser vivo que merece respeto, y solo aquellos que la tratan con honor pueden extraer sus tesoros.",
+  "image": "https://app.baeza.me/metadata/imgs/3.png",
+  "external_url": "https://baeza.me",
+  "background_color": "8B0000",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Minero Maestro"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 223
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "88 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 82,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Extracción de Mithril"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo 'Rompepiedras'"
+    },
+    {
+      "trait_type": "Mineral Preferido",
+      "value": "Mithril Puro"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Comunicación con la Montaña"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Runamartillo"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Moria"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Negro Carbón"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Marrón Tierra"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Trabajador Incansable"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Cantar Canciones de Mineros"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Pan Duro con Queso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Cerveza de Malta"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 198,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Vetas Descubiertas",
+      "value": 52,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Minería",
+      "value": 50
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Detección de Minerales",
+      "value": 92
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567893
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Mano de la Montaña"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Balrogs"
+    }
+  ]
+}

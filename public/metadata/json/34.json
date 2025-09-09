@@ -1,0 +1,151 @@
+{
+  "name": "Gloin Barbacobre",
+  "description": "En los talleres más humeantes de las Montañas de Cobre, donde el metal se funde en hornos que arden día y noche, Gloin Barbacobre nació con el fuego en las venas. Su padre, un fundidor de metales, le enseñó que cada metal tiene su personalidad, y que el cobre es el más temperamental de todos. Gloin no solo funde metales, sino que los doma. Su técnica única combina la alquimia antigua con la metalurgia moderna, creando aleaciones que nunca antes se habían visto. A los 197 años, Gloin ha inventado más de veinticinco nuevas aleaciones, cada una con propiedades mágicas únicas. Su obra maestra es el 'Cobre Estelar', un metal que brilla con la luz de las estrellas y nunca se oxida. Gloin puede sentir la temperatura exacta de cualquier metal con solo mirarlo, y sus manos, cubiertas de cicatrices de quemaduras, son tan resistentes al calor como el metal que trabaja. Su taller está lleno de crisoles que contienen metales fundidos de colores imposibles, y el aire siempre huele a azufre y magia. Cuando trabaja, Gloin habla con los metales como si fueran viejos amigos, y ellos responden a su voz, fluyendo en las formas que él desea. Sus creaciones no solo son hermosas, sino que tienen propiedades que desafían las leyes de la física.",
+  "image": "https://app.baeza.me/metadata/imgs/34.png",
+  "external_url": "https://baeza.me",
+  "background_color": "B87333",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Fundidor de Cobre"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 222
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.17 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "80 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 83,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Aleaciones de Cobre Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Crisol de Fuego Eterno"
+    },
+    {
+      "trait_type": "Metal Preferido",
+      "value": "Cobre Estelar"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Domar Metales"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Barbacobre"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de Cobre"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Cobre Oxidado"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Fuego"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Inventor Obsesivo"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Experimentar con Nuevos Metales"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Carne Asada con Especias"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Aguardiente de Centeno"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 197,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Aleaciones Inventadas",
+      "value": 27,
+      "max_value": 40
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Fundición",
+      "value": 55
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Calor",
+      "value": 89
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567924
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de los Metales Vivos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de Fuego"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Bofur Zettaversoeterno",
+  "description": "En los laboratorios más zettaversales de las Montañas del Zettaverso Infinito, donde los zettaversos contienen todos los exaversos posibles, Bofur Zettaversoeterno nació para dominar los secretos más profundos del zettaverso. Su padre, un maestro del zettaverso legendario, le enseñó que cada zettaverso contiene todos los exaversos posibles, y que un verdadero maestro puede manipular todos los zettaversos simultáneamente. Bofur no solo controla el zettaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos zettaversos, destruir zettaversos existentes, e incluso fusionar zettaversos. A los 259 años, Bofur ha dominado más de dos mil trescientos hechizos zettaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Zettaverso Eterno', un hechizo que puede crear un campo donde múltiples zettaversos coexisten. Su laboratorio está lleno de fragmentos de zettaversos que brillan con luz propia, cada uno conteniendo un zettaverso diferente. Bofur puede sentir la estructura de cada zettaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices zettaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de zettaversos y los zettaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina. Sus poderes no solo son zettaversales, sino que pueden afectar a múltiples yottaversos y algunas incluso pueden crear nuevos ronaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/88.png",
+  "external_url": "https://baeza.me",
+  "background_color": "2F4F4F",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Zettaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 259
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.19 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "84 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Zettaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Zettaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Zettaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Zettaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Zettaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Zettaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Gris Zettaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gris Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Zettaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Zettaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Zettaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Zettaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 237,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Zettaversales",
+      "value": 2334,
+      "max_value": 3000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Zettaverso",
+      "value": 94
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Zettaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567978
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Zettaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Zettaverso"
+    }
+  ]
+}

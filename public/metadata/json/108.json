@@ -1,0 +1,151 @@
+{
+  "name": "Gloin Sedecaversoeterno",
+  "description": "En los laboratorios más sedecaversales de las Montañas del Sedecaverso Infinito, donde los sedecaversos contienen todos los quindecaversos posibles, Gloin Sedecaversoeterno nació para dominar los secretos más profundos del sedecaverso. Su padre, un maestro del sedecaverso legendario, le enseñó que cada sedecaverso contiene todos los quindecaversos posibles, y que un verdadero maestro puede manipular todos los sedecaversos simultáneamente. Gloin no solo controla el sedecaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos sedecaversos, destruir sedecaversos existentes, e incluso fusionar sedecaversos. A los 239 años, Gloin ha dominado más de setenta y ocho mil hechizos sedecaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Sedecaverso Eterno', un hechizo que puede crear un campo donde múltiples sedecaversos coexisten. Su laboratorio está lleno de fragmentos de sedecaversos que brillan con luz propia, cada uno conteniendo un sedecaverso diferente. Gloin puede sentir la estructura de cada sedecaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices sedecaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de sedecaversos y los sedecaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son sedecaversales, sino que pueden afectar a múltiples septendecaversos y algunas incluso pueden crear nuevos octodecaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/108.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Sedecaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 239
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.22 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "83 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 94,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Sedecaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Sedecaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Sedecaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Sedecaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Sedecaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Sedecaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Sedecaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Sedecaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Sedecaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Sedecaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Sedecaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 217,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Sedecaversales",
+      "value": 78000,
+      "max_value": 100000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Sedecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Sedecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234568889
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Sedecaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Sedecaverso"
+    }
+  ]
+}

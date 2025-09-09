@@ -1,0 +1,151 @@
+{
+  "name": "Kili Elementoeterno",
+  "description": "En los laboratorios más elementales de las Montañas de los Elementos Primordiales, donde los elementos primordiales fluyen en armonía perfecta, Kili Elementoeterno nació para dominar los secretos más profundos de todos los elementos. Su padre, un maestro de elementos legendario, le enseñó que cada elemento es parte de un todo mayor, y que un verdadero maestro puede controlar todos los elementos simultáneamente. Kili no solo controla los elementos, sino que los hace su esencia. Sus poderes pueden manipular fuego, agua, tierra, aire, y todos los elementos primordiales con maestría perfecta. A los 244 años, Kili ha dominado más de mil doscientos hechizos elementales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo de los Elementos Eternos', un hechizo que puede crear un campo donde todos los elementos fluyen en armonía perfecta. Su laboratorio está lleno de cristales elementales que brillan con luz propia, cada uno conteniendo un elemento diferente. Kili puede sentir la presencia de cada elemento con solo cerrar los ojos, y sus manos, cubiertas de cicatrices elementales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fuego, agua, tierra y aire, y los elementos cobran vida, moviéndose como criaturas vivas. Sus poderes no solo son elementales, sino que pueden afectar a múltiples dimensiones y algunas incluso pueden crear nuevos elementos.",
+  "image": "https://app.baeza.me/metadata/imgs/76.png",
+  "external_url": "https://baeza.me",
+  "background_color": "32CD32",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro de Elementos Primordiales"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 244
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.18 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "81 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 88,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 91,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 97,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control de Elementos Primordiales"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo de Elementos Eternos"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal de Elementos Primordiales"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación de Elementos Primordiales"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Elementoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de los Elementos Primordiales"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Elemental"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Brillante"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Elementalista Perfecto"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Manipular Elementos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de los Elementos"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Elementos"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 222,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Elementales",
+      "value": 1234,
+      "max_value": 1800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 98,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Elementos",
+      "value": 77
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a Elementos",
+      "value": 95
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567966
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de los Elementos Eternos"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de los Elementos"
+    }
+  ]
+}

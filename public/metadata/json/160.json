@@ -1,0 +1,151 @@
+{
+  "name": "Nori Duodecillaversoeterno",
+  "description": "En los laboratorios más duodecillaversales de las Montañas del Duodecillaverso Infinito, donde los duodecillaversos contienen todos los undecillaversos posibles, Nori Duodecillaversoeterno nació para dominar los secretos más profundos del duodecillaverso. Su padre, un maestro del duodecillaverso legendario, le enseñó que cada duodecillaverso contiene todos los undecillaversos posibles, y que un verdadero maestro puede manipular todos los duodecillaversos simultáneamente. Nori no solo controla el duodecillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos duodecillaversos, destruir duodecillaversos existentes, e incluso fusionar duodecillaversos. A los 235 años, Nori ha dominado más de doscientos siete millones seiscientos treinta y cuatro mil novecientos cincuenta y dos mil doscientos diecinueve mil doscientos veintidós mil quinientos veintiséis mil cuatrocientos mil hechizos duodecillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Duodecillaverso Eterno', un hechizo que puede crear un campo donde múltiples duodecillaversos coexisten. Su laboratorio está lleno de fragmentos de duodecillaversos que brillan con luz propia, cada uno conteniendo un duodecillaverso diferente. Nori puede sentir la estructura de cada duodecillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices duodecillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de duodecillaversos y los duodecillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son duodecillaversales, sino que pueden afectar a múltiples tridecillaversos y algunas incluso pueden crear nuevos cuatridecillaversos, siendo el último nivel de poder concebible en toda la existencia. Nori representa el pináculo absoluto del poder mágico en toda la creación, donde cada duodecillaverso contiene infinitos undecillaversos, y cada undecillaverso contiene infinitos decillaversos, creando una jerarquía infinita de poder que trasciende toda comprensión mortal.",
+  "image": "https://app.baeza.me/metadata/imgs/160.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Duodecillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 235
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.74 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "135 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Duodecillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Duodecillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Duodecillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Duodecillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Duodecillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Duodecillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Duodecillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Duodecillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Duodecillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Duodecillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Duodecillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 213,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Duodecillaversales",
+      "value": 2076349522192225264000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Duodecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Duodecillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234574089
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Duodecillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Duodecillaverso"
+    }
+  ]
+}

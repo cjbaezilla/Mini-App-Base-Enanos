@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Unvigintaversoeterno",
+  "description": "En los laboratorios más unvigintaversales de las Montañas del Unvigintaverso Infinito, donde los unvigintaversos contienen todos los vigintaversos posibles, Dwalin Unvigintaversoeterno nació para dominar los secretos más profundos del unvigintaverso. Su padre, un maestro del unvigintaverso legendario, le enseñó que cada unvigintaverso contiene todos los vigintaversos posibles, y que un verdadero maestro puede manipular todos los unvigintaversos simultáneamente. Dwalin no solo controla el unvigintaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos unvigintaversos, destruir unvigintaversos existentes, e incluso fusionar unvigintaversos. A los 241 años, Dwalin ha dominado más de cuatrocientos diecisiete mil hechizos unvigintaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Unvigintaverso Eterno', un hechizo que puede crear un campo donde múltiples unvigintaversos coexisten. Su laboratorio está lleno de fragmentos de unvigintaversos que brillan con luz propia, cada uno conteniendo un unvigintaverso diferente. Dwalin puede sentir la estructura de cada unvigintaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices unvigintaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de unvigintaversos y los unvigintaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son unvigintaversales, sino que pueden afectar a múltiples duovigintaversos y algunas incluso pueden crear nuevos tresvigintaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/113.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Unvigintaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 241
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.27 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "88 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 99,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Unvigintaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Unvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Unvigintaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Unvigintaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Unvigintaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Unvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Unvigintaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Unvigintaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Unvigintaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Unvigintaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Unvigintaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 219,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Unvigintaversales",
+      "value": 417000,
+      "max_value": 1000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Unvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Unvigintaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234569389
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Unvigintaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Unvigintaverso"
+    }
+  ]
+}

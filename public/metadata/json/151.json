@@ -1,0 +1,151 @@
+{
+  "name": "Kili Trillaversoeterno",
+  "description": "En los laboratorios más trillaversales de las Montañas del Trillaverso Infinito, donde los trillaversos contienen todos los billaversos posibles, Kili Trillaversoeterno nació para dominar los secretos más profundos del trillaverso. Su padre, un maestro del trillaverso legendario, le enseñó que cada trillaverso contiene todos los billaversos posibles, y que un verdadero maestro puede manipular todos los trillaversos simultáneamente. Kili no solo controla el trillaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos trillaversos, destruir trillaversos existentes, e incluso fusionar trillaversos. A los 213 años, Kili ha dominado más de cuatrocientos cinco mil quinientos treinta y cuatro mil novecientos cincuenta y uno mil quinientos diecinueve mil doscientos noventa y cuatro mil hechizos trillaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Trillaverso Eterno', un hechizo que puede crear un campo donde múltiples trillaversos coexisten. Su laboratorio está lleno de fragmentos de trillaversos que brillan con luz propia, cada uno conteniendo un trillaverso diferente. Kili puede sentir la estructura de cada trillaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices trillaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de trillaversos y los trillaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son trillaversales, sino que pueden afectar a múltiples cuatrillaversos y algunas incluso pueden crear nuevos quintillaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/151.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Trillaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 213
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.65 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "126 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Trillaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Trillaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Trillaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Trillaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Trillaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Trillaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Trillaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Trillaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Trillaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Trillaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Trillaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 191,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Trillaversales",
+      "value": 405534951519294000,
+      "max_value": 200000000000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Trillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Trillaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234573189
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Trillaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Trillaverso"
+    }
+  ]
+}

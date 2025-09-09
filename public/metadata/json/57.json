@@ -1,0 +1,151 @@
+{
+  "name": "Bifur Marfilmagico",
+  "description": "En los talleres más elegantes de las Montañas de la Comunicación, donde el marfil brilla con luz plateada, Bifur Marfilmagico nació para crear arte que puede hablar. Su padre, un tallador de marfil legendario, le enseñó que cada pieza de marfil contiene la voz de su dueño original, y que un verdadero maestro puede liberar esa voz. Bifur no solo talla marfil, sino que lo hace hablar. Sus creaciones pueden cantar, contar historias, e incluso dar consejos. A los 231 años, Bifur ha tallado más de seiscientos artefactos de marfil, cada uno con una voz única. Su obra maestra es el 'Oráculo de Marfil', una estatua que puede predecir el futuro y dar consejos sabios. Su taller está lleno de esculturas de marfil que brillan con luz propia, cada una esperando a su momento de hablar. Bifur puede sentir la personalidad de cada pieza de marfil con solo tocarla, y sus manos, cubiertas de polvo de marfil mágico, nunca pierden su precisión. Cuando talla, el aire se llena de voces que cantan, y las esculturas cobran vida, moviéndose como si fueran criaturas vivas. Sus creaciones no solo son hermosas, sino que pueden comunicarse, enseñar, y algunas incluso pueden predecir el futuro.",
+  "image": "https://app.baeza.me/metadata/imgs/57.png",
+  "external_url": "https://baeza.me",
+  "background_color": "F0F8FF",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Tallador de Marfil"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 231
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "77 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 86,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Tallado de Marfil Mágico"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Cincel de Marfil de Dragón"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Marfil de Dragón"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Marfil que Habla"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Marfilmagico"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Comunicación"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Blanco Marfil"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Azul Cielo"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Comunicador Sabio"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Escuchar Historias"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Comunicación"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Voz"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 209,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Marfiles Tallados",
+      "value": 634,
+      "max_value": 900
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 96,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Comunicación",
+      "value": 63
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Comunicación",
+      "value": 91
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567947
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Comunicación"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Comunicación"
+    }
+  ]
+}

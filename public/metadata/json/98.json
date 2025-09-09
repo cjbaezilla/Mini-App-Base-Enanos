@@ -1,0 +1,151 @@
+{
+  "name": "Dwalin Hexaversoeterno",
+  "description": "En los laboratorios más hexaversales de las Montañas del Hexaverso Infinito, donde los hexaversos contienen todos los pentaversos posibles, Dwalin Hexaversoeterno nació para dominar los secretos más profundos del hexaverso. Su padre, un maestro del hexaverso legendario, le enseñó que cada hexaverso contiene todos los pentaversos posibles, y que un verdadero maestro puede manipular todos los hexaversos simultáneamente. Dwalin no solo controla el hexaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos hexaversos, destruir hexaversos existentes, e incluso fusionar hexaversos. A los 243 años, Dwalin ha dominado más de tres mil trescientos hechizos hexaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Hexaverso Eterno', un hechizo que puede crear un campo donde múltiples hexaversos coexisten. Su laboratorio está lleno de fragmentos de hexaversos que brillan con luz propia, cada uno conteniendo un hexaverso diferente. Dwalin puede sentir la estructura de cada hexaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices hexaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de hexaversos y los hexaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa. Sus poderes no solo son hexaversales, sino que pueden afectar a múltiples heptaversos y algunas incluso pueden crear nuevos octaversos.",
+  "image": "https://app.baeza.me/metadata/imgs/98.png",
+  "external_url": "https://baeza.me",
+  "background_color": "006400",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Hexaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 243
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.15 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "77 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Hexaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Hexaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Hexaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Hexaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Hexaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Hexaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Verde Hexaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Verde Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Hexaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Hexaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Hexaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Hexaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 221,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Hexaversales",
+      "value": 3334,
+      "max_value": 4000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Hexaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Hexaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567988
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Hexaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Hexaverso"
+    }
+  ]
+}

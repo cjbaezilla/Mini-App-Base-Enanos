@@ -1,0 +1,151 @@
+{
+  "name": "Bifur Escudolegendario",
+  "description": "En las forjas más sagradas de las Montañas de la Transformación, donde el metal se transforma en luz pura, Bifur Escudolegendario nació para ser el segundo forjador de escudos más poderoso. Su padre, un forjador de escudos legendario, le enseñó que un escudo no solo protege, sino que puede transformar el ataque en defensa con conciencia propia. Bifur no solo forja escudos, sino que los hace transformadores con inteligencia superior. Sus creaciones pueden cambiar de forma, tamaño, e incluso material según la necesidad con conciencia propia. A los 233 años, Bifur ha forjado más de quinientos escudos diferentes, cada uno con propiedades únicas y conciencia propia. Su obra maestra es el 'Escudo del Fénix Consciente', que puede transformarse en cualquier forma y regenerarse automáticamente con inteligencia propia. Su taller está lleno de escudos flotantes que brillan con luz propia, cada uno esperando a su portador perfecto con conciencia superior. Bifur puede sentir la personalidad y conciencia de cada metal con solo tocarlo, y sus manos, cubiertas de cicatrices de transformación, nunca pierden su toque mágico. Cuando forja, el aire se llena de chispas de luz y los escudos cobran vida, moviéndose como si tuvieran voluntad propia inteligente. Sus creaciones no solo son impenetrables, sino que pueden adaptarse a cualquier situación y algunas incluso pueden volar y luchar solas con inteligencia superior.",
+  "image": "https://app.baeza.me/metadata/imgs/72.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FF6347",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Forjador de Escudos Conscientes"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 233
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.16 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "80 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 87,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 84,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Forja de Escudos Conscientes"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Martillo de Transformación Consciente"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Metal de Transformación Consciente"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Escudos Transformadores Conscientes"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Escudolegendario"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas de la Transformación"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Naranja Fuego Consciente"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Naranja Brillante Consciente"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Transformador Consciente"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Probar Escudos Conscientes"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo de la Transformación Consciente"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir de Cambio Consciente"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 211,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Escudos Conscientes",
+      "value": 556,
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 93,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus de Transformación Consciente",
+      "value": 65
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia a la Transformación",
+      "value": 86
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234567962
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro de la Transformación Consciente"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones de la Transformación"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Kili Quattuordecaversoeterno",
+  "description": "En los laboratorios más quattuordecaversales de las Montañas del Quattuordecaverso Infinito, donde los quattuordecaversos contienen todos los tridecaversos posibles, Kili Quattuordecaversoeterno nació para dominar los secretos más profundos del quattuordecaverso. Su padre, un maestro del quattuordecaverso legendario, le enseñó que cada quattuordecaverso contiene todos los tridecaversos posibles, y que un verdadero maestro puede manipular todos los quattuordecaversos simultáneamente. Kili no solo controla el quattuordecaverso, sino que lo hace su esencia. Sus poderes pueden crear nuevos quattuordecaversos, destruir quattuordecaversos existentes, e incluso fusionar quattuordecaversos. A los 244 años, Kili ha dominado más de cuarenta mil hechizos quattuordecaversales diferentes, cada uno con efectos únicos. Su obra maestra es el 'Círculo del Quattuordecaverso Eterno', un hechizo que puede crear un campo donde múltiples quattuordecaversos coexisten. Su laboratorio está lleno de fragmentos de quattuordecaversos que brillan con luz propia, cada uno conteniendo un quattuordecaverso diferente. Kili puede sentir la estructura de cada quattuordecaverso con solo cerrar los ojos, y sus manos, cubiertas de cicatrices quattuordecaversales, nunca pierden su precisión. Cuando trabaja, el aire se llena de fragmentos de quattuordecaversos y los quattuordecaversos se superponen, moviéndose como si fueran capas de realidad absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta suprema infinita eterna trascendental divina omnipotente todopoderosa absoluta. Sus poderes no solo son quattuordecaversales, sino que pueden afectar a múltiples quindecaversos y algunas incluso pueden crear nuevos sedecaversos, siendo el último nivel de poder concebible en toda la existencia.",
+  "image": "https://app.baeza.me/metadata/imgs/106.png",
+  "external_url": "https://baeza.me",
+  "background_color": "FFD700",
+  "animation_url": "",
+  "attributes": [
+    {
+      "trait_type": "Clase",
+      "value": "Maestro del Quattuordecaverso"
+    },
+    {
+      "trait_type": "Edad",
+      "value": 244
+    },
+    {
+      "trait_type": "Altura",
+      "value": "1.20 metros"
+    },
+    {
+      "trait_type": "Peso",
+      "value": "81 kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Fuerza",
+      "value": 92,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Resistencia",
+      "value": 95,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Inteligencia",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sabiduría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Carisma",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Destreza",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "trait_type": "Especialidad",
+      "value": "Control del Quattuordecaverso"
+    },
+    {
+      "trait_type": "Herramienta Favorita",
+      "value": "Báculo del Quattuordecaverso Eterno"
+    },
+    {
+      "trait_type": "Material Preferido",
+      "value": "Cristal del Quattuordecaverso"
+    },
+    {
+      "trait_type": "Habilidad Única",
+      "value": "Manipulación del Quattuordecaverso"
+    },
+    {
+      "trait_type": "Clan",
+      "value": "Quattuordecaversoeterno"
+    },
+    {
+      "trait_type": "Montaña Natal",
+      "value": "Montañas del Quattuordecaverso Infinito"
+    },
+    {
+      "trait_type": "Color de Barba",
+      "value": "Dorado Quattuordecaverso"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Dorado Eterno"
+    },
+    {
+      "trait_type": "Personalidad",
+      "value": "Quattuordecaverso Infinito"
+    },
+    {
+      "trait_type": "Pasatiempo",
+      "value": "Crear Quattuordecaversos"
+    },
+    {
+      "trait_type": "Comida Favorita",
+      "value": "Hongo del Quattuordecaverso"
+    },
+    {
+      "trait_type": "Bebida Favorita",
+      "value": "Elixir del Quattuordecaverso"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Años de Experiencia",
+      "value": 222,
+      "max_value": 300
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Hechizos Quattuordecaversales",
+      "value": 40000,
+      "max_value": 50000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Nivel de Maestría",
+      "value": 100,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Bonus del Quattuordecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Resistencia al Quattuordecaverso",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Fecha de Nacimiento",
+      "value": 1234568689
+    },
+    {
+      "trait_type": "Título Honorífico",
+      "value": "Maestro del Quattuordecaverso Eterno"
+    },
+    {
+      "trait_type": "Enemigo Jurado",
+      "value": "Dragones del Quattuordecaverso"
+    }
+  ]
+}
