@@ -290,9 +290,12 @@ Cada NFT sigue el estándar de OpenSea con:
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ### Recursos del Proyecto
-- **Documentación de NFTs**: `NFTs_Enanos_Documentacion.md`
-- **Guía de Estilo**: `STYLE_GUIDE.md`
-- **Documentación del Proyecto**: `PROJECT.md`
+
+Si quieres profundizar en los detalles técnicos o entender mejor cómo está estructurado todo, aquí tienes los archivos de documentación:
+
+- **[Documentación completa de los NFTs](NFTs_Enanos_Documentacion.md)** - Aquí encontrarás toda la información sobre los 188 enanos, sus historias, atributos y el sistema de rareza que implementamos
+- **[Guía de estilo y diseño](STYLE_GUIDE.md)** - Los principios de diseño, paleta de colores y cómo mantener la consistencia visual en el proyecto
+- **[Documentación técnica del proyecto](PROJECT.md)** - Detalles sobre la arquitectura, decisiones técnicas y cómo está organizado todo el código
 
 ## 📄 Licencia
 
