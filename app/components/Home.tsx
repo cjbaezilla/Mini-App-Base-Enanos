@@ -340,10 +340,10 @@ export const Home: React.FC = () => {
         <div className="bg-gradient-to-br from-amber-100/80 to-orange-100/80 dark:from-amber-800/30 dark:to-orange-800/30 backdrop-blur-md rounded-2xl p-6 border-2 border-amber-300 dark:border-amber-700 shadow-lg">
           <div className="text-center">
             <h3 className="text-2xl font-bold text-amber-800 dark:text-amber-200 font-display mb-2">
-              Explora el Enanos Club
+              Enanos Club
             </h3>
             <p className="text-sm text-amber-600 dark:text-amber-400 mb-2">
-              Versión 1.3.0
+              Versión 1.5.0
             </p>
             <p className="text-amber-700 dark:text-amber-300 mb-4 leading-relaxed">
               Cada enano tiene una historia épica única, estadísticas especiales y poderes mágicos extraordinarios. 

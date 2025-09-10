@@ -148,6 +148,17 @@ export function NFTDetailClient({ nft }: NFTDetailClientProps) {
                 </div>
               </div>
 
+              {/* Botón de OpenSea */}
+              <div className="w-full">
+                <Button
+                  onClick={() => window.open(`https://opensea.io/item/base/${process.env.NEXT_PUBLIC_CONTRACT_ADDRESS}/${nft.id}`, '_blank')}
+                  className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-lg transition-colors flex items-center justify-center gap-2"
+                >
+                  <Icon name="external-link" className="w-5 h-5" />
+                  Ver en OpenSea
+                </Button>
+              </div>
+
             </div>
           </div>
         </div>

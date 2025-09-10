@@ -1,18 +1,30 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { NFTMetadata } from '../../types/nft';
 import NFTBookCard from '../components/NFTBookCard';
 import { Button } from '../components/ui/Button';
 import { Icon } from '../components/ui/Icon';
 import { useNFTsCache } from '../../lib/useNFTsCache';
+import { useUserNFTs } from '../../lib/hooks/useUserNFTs';
 
 export default function NFTsPage() {
   const { nfts, loading, error, isFromCache, refreshNFTs } = useNFTsCache();
+  const { userNFTs, userBalance, isLoading: loadingUserNFTs, error: userNFTsError, refreshUserNFTs } = useUserNFTs();
   const [searchTerm, setSearchTerm] = useState<string>('');
   const [sortBy, setSortBy] = useState<string>('name');
   const [filterBy, setFilterBy] = useState<string>('all');
   const [filterValue, setFilterValue] = useState<string>('');
+  const [showOnlyOwned, setShowOnlyOwned] = useState<boolean>(false);
+  const [hasUserNFTs, setHasUserNFTs] = useState<boolean>(false);
+
+  // Actualizar el estado de si el usuario tiene NFTs cuando cambie el balance
+  useEffect(() => {
+    setHasUserNFTs(userBalance > 0);
+  }, [userBalance]);
+
+  // Estado inicial para evitar mostrar "0" antes de la carga
+  const isInitialLoad = !loadingUserNFTs && userBalance === 0 && !userNFTsError;
 
   // Función para obtener valor de atributo
   const getAttributeValue = (nft: NFTMetadata, attributeName: string): string | number => {
@@ -32,6 +44,13 @@ export default function NFTsPage() {
 
   const filteredAndSortedNFTs = nfts
     .filter(nft => {
+      // Filtro de NFTs del usuario
+      if (showOnlyOwned) {
+        if (!userNFTs.includes(nft.id)) {
+          return false;
+        }
+      }
+
       // Filtro de búsqueda
       if (searchTerm.trim()) {
         const searchLower = searchTerm.toLowerCase();
@@ -252,18 +271,112 @@ export default function NFTsPage() {
               </div>
             </div>
 
+            {/* Filtro de NFTs del usuario - Mejorado */}
+            <div className="flex items-center justify-center">
+              <div className="bg-amber-50/60 dark:bg-amber-900/40 rounded-lg p-4 border border-amber-200 dark:border-amber-700 w-full max-w-sm">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-amber-800 dark:text-amber-200 text-sm font-medium">
+                    Mis Enanos
+                  </span>
+                  {loadingUserNFTs ? (
+                    <div className="flex items-center gap-2">
+                      <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-amber-600"></div>
+                      <span className="text-amber-600 dark:text-amber-400 text-xs">Cargando...</span>
+                    </div>
+                  ) : userNFTsError ? (
+                    <div className="flex items-center gap-2">
+                      <Icon name="alert-circle" className="h-4 w-4 text-red-500" />
+                      <span className="text-red-600 dark:text-red-400 text-xs">Error</span>
+                    </div>
+                  ) : !loadingUserNFTs && !isInitialLoad ? (
+                    <div className="flex items-center gap-2">
+                      <Icon name="users" className="h-4 w-4 text-amber-600 dark:text-amber-400" />
+                      <span className="text-amber-600 dark:text-amber-400 text-sm font-semibold">
+                        {userBalance > 0 ? `${userBalance} enanos` : 'Sin enanos'}
+                      </span>
+                    </div>
+                  ) : null}
+                </div>
+                
+                <div className="flex items-center justify-between">
+                  <label className={`flex items-center space-x-2 ${!hasUserNFTs ? 'cursor-not-allowed opacity-50' : 'cursor-pointer'}`}>
+                    <input
+                      type="checkbox"
+                      checked={showOnlyOwned}
+                      onChange={(e) => setShowOnlyOwned(e.target.checked)}
+                      disabled={!hasUserNFTs || loadingUserNFTs}
+                      className="w-4 h-4 text-amber-600 bg-amber-50 border-amber-300 rounded focus:ring-amber-500 focus:ring-2 dark:bg-amber-900/50 dark:border-amber-700 disabled:opacity-50 disabled:cursor-not-allowed"
+                    />
+                    <span className="text-amber-800 dark:text-amber-200 text-sm font-medium">
+                      Mostrar solo mis enanos
+                    </span>
+                  </label>
+                  
+                  {hasUserNFTs && !loadingUserNFTs && (
+                    <button
+                      onClick={refreshUserNFTs}
+                      className="p-1 text-amber-600 dark:text-amber-400 hover:text-amber-800 dark:hover:text-amber-200 hover:bg-amber-200/50 dark:hover:bg-amber-700/50 rounded transition-colors"
+                      title="Actualizar mis enanos"
+                    >
+                      <Icon name="refresh-cw" className="h-4 w-4" />
+                    </button>
+                  )}
+                </div>
+                
+                {!hasUserNFTs && !loadingUserNFTs && !userNFTsError && (
+                  <p className="text-amber-600 dark:text-amber-400 text-xs mt-2 text-center">
+                    No tienes enanos en tu colección
+                  </p>
+                )}
+                
+                {userNFTsError && (
+                  <p className="text-red-600 dark:text-red-400 text-xs mt-2 text-center">
+                    Error al cargar tus enanos
+                  </p>
+                )}
+              </div>
+            </div>
+
             {/* Información de resultados */}
             <div className="text-center">
               <p className="text-amber-700 dark:text-amber-300 text-sm">
-                Mostrando {filteredAndSortedNFTs.length} de {nfts.length} enanos
-                {(searchTerm || filterValue) && (
-                  <span className="ml-2 text-amber-600 dark:text-amber-400">
-                    • {searchTerm && `Búsqueda: "${searchTerm}"`}
-                    {searchTerm && filterValue && ' • '}
-                    {filterValue && `Filtro: ${filterBy} = "${filterValue}"`}
-                  </span>
+                {showOnlyOwned ? (
+                  <>
+                    {loadingUserNFTs || isInitialLoad ? (
+                      'Cargando tu colección...'
+                    ) : (
+                      <>
+                        Mostrando {filteredAndSortedNFTs.length} de {userBalance} enanos en tu colección
+                        {filteredAndSortedNFTs.length < userBalance && (
+                          <span className="ml-2 text-amber-600 dark:text-amber-400">
+                            • Filtros aplicados
+                          </span>
+                        )}
+                      </>
+                    )}
+                  </>
+                ) : (
+                  <>
+                    Mostrando {filteredAndSortedNFTs.length} de {nfts.length} enanos
+                    {(searchTerm || filterValue) && (
+                      <span className="ml-2 text-amber-600 dark:text-amber-400">
+                        • Filtros aplicados
+                      </span>
+                    )}
+                  </>
                 )}
               </p>
+              
+              {(searchTerm || filterValue) && (
+                <div className="mt-2 text-xs text-amber-600 dark:text-amber-400 space-y-1">
+                  {searchTerm && (
+                    <p>• Búsqueda: &quot;{searchTerm}&quot;</p>
+                  )}
+                  {filterValue && (
+                    <p>• Filtro: {filterBy} = &quot;{filterValue}&quot;</p>
+                  )}
+                </div>
+              )}
             </div>
           </div>
         </div>
@@ -278,19 +391,53 @@ export default function NFTsPage() {
         {filteredAndSortedNFTs.length === 0 && (
           <div className="text-center py-12">
             <div className="bg-gradient-to-br from-amber-100/80 to-orange-100/80 dark:from-amber-800/30 dark:to-orange-800/30 rounded-2xl p-8 border-2 border-amber-300 dark:border-amber-700 shadow-lg">
-              <Icon name="search" className="w-16 h-16 text-amber-600 dark:text-amber-400 mx-auto mb-4" />
-              <p className="text-amber-800 dark:text-amber-200 text-xl font-medium">
-                {searchTerm || filterValue
-                  ? `No se encontraron enanos que coincidan con los criterios`
-                  : 'No se encontraron enanos'
-                }
-              </p>
-              {(searchTerm || filterValue) && (
-                <div className="text-amber-600 dark:text-amber-400 text-sm mt-2 space-y-1">
-                  {searchTerm && <p>• Búsqueda: &quot;{searchTerm}&quot;</p>}
-                  {filterValue && <p>• Filtro: {filterBy} = &quot;{filterValue}&quot;</p>}
-                  <p className="mt-2">Intenta con otros términos de búsqueda o cambia los filtros</p>
-                </div>
+              {showOnlyOwned ? (
+                <>
+                  <Icon name="users" className="w-16 h-16 text-amber-600 dark:text-amber-400 mx-auto mb-4" />
+                  <p className="text-amber-800 dark:text-amber-200 text-xl font-medium mb-2">
+                    {userBalance === 0 
+                      ? 'No tienes enanos en tu colección'
+                      : 'No se encontraron enanos que coincidan con los filtros'
+                    }
+                  </p>
+                  {loadingUserNFTs || isInitialLoad ? (
+                    <p className="text-amber-600 dark:text-amber-400 text-sm">
+                      Cargando tu colección...
+                    </p>
+                  ) : userBalance === 0 ? (
+                    <p className="text-amber-600 dark:text-amber-400 text-sm">
+                      Visita la sección de mint para obtener tu primer enano
+                    </p>
+                  ) : (
+                    <div className="text-amber-600 dark:text-amber-400 text-sm mt-2 space-y-1">
+                      <p>• Tienes {userBalance} enanos en tu colección</p>
+                      {(searchTerm || filterValue) && (
+                        <>
+                          {searchTerm && <p>• Búsqueda: &quot;{searchTerm}&quot;</p>}
+                          {filterValue && <p>• Filtro: {filterBy} = &quot;{filterValue}&quot;</p>}
+                        </>
+                      )}
+                      <p className="mt-2">Intenta con otros términos de búsqueda o cambia los filtros</p>
+                    </div>
+                  )}
+                </>
+              ) : (
+                <>
+                  <Icon name="search" className="w-16 h-16 text-amber-600 dark:text-amber-400 mx-auto mb-4" />
+                  <p className="text-amber-800 dark:text-amber-200 text-xl font-medium">
+                    {searchTerm || filterValue
+                      ? 'No se encontraron enanos que coincidan con los criterios'
+                      : 'No se encontraron enanos'
+                    }
+                  </p>
+                  {(searchTerm || filterValue) && (
+                    <div className="text-amber-600 dark:text-amber-400 text-sm mt-2 space-y-1">
+                      {searchTerm && <p>• Búsqueda: &quot;{searchTerm}&quot;</p>}
+                      {filterValue && <p>• Filtro: {filterBy} = &quot;{filterValue}&quot;</p>}
+                      <p className="mt-2">Intenta con otros términos de búsqueda o cambia los filtros</p>
+                    </div>
+                  )}
+                </>
               )}
             </div>
           </div>

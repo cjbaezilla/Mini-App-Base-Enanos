@@ -30,15 +30,14 @@ export default function MintPage() {
     }
   };
 
-  // Resetear estado de mint después de un tiempo apropiado
+  const handleCloseSuccess = () => {
+    console.log('handleCloseSuccess called');
+    resetMintStatus();
+  };
+
+  // Resetear estado de mint solo para errores (los éxitos se cierran manualmente)
   useEffect(() => {
-    if (mintStatus.status === 'success') {
-      // Resetear después de 6 segundos para éxito
-      const timer = setTimeout(() => {
-        resetMintStatus();
-      }, 6000);
-      return () => clearTimeout(timer);
-    } else if (mintStatus.status === 'error') {
+    if (mintStatus.status === 'error') {
       // Resetear después de 10 segundos para errores (más tiempo para leer el mensaje)
       const timer = setTimeout(() => {
         resetMintStatus();
@@ -96,6 +95,7 @@ export default function MintPage() {
           <MintButton
             onMint={handleMint}
             onCancel={cancelMint}
+            onCloseSuccess={handleCloseSuccess}
             mintCount={mintCount}
             mintPrice={mintPrice}
             maxMintable={maxMintable}

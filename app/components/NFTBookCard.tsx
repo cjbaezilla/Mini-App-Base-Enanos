@@ -164,13 +164,20 @@ export default function NFTBookCard({ nft, index }: NFTBookCardProps) {
           </div>
 
 
-          {/* Botón de acción */}
-          <div className="pt-1">
+          {/* Botones de acción */}
+          <div className="pt-1 space-y-1">
             <Button
               onClick={() => router.push(`/nfts/${nft.id}`)}
               className="w-full bg-amber-600 hover:bg-amber-700 text-white py-1.5 px-3 rounded transition-colors text-xs"
             >
               Detalles
+            </Button>
+            <Button
+              onClick={() => window.open(`https://opensea.io/item/base/${process.env.NEXT_PUBLIC_CONTRACT_ADDRESS}/${nft.id}`, '_blank')}
+              className="w-full bg-blue-600 hover:bg-blue-700 text-white py-1.5 px-3 rounded transition-colors text-xs flex items-center justify-center gap-1"
+            >
+              <Icon name="external-link" className="h-3 w-3" />
+              OpenSea
             </Button>
           </div>
 

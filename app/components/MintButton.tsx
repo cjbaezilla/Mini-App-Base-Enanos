@@ -7,6 +7,7 @@ import { useUSDCBalance } from '../../lib/hooks/useUSDCBalance';
 interface MintButtonProps {
   onMint: () => void;
   onCancel?: () => void;
+  onCloseSuccess?: () => void;
   mintCount: number;
   mintPrice: number;
   maxMintable: number;
@@ -22,6 +23,7 @@ interface MintButtonProps {
 export const MintButton = ({
   onMint,
   onCancel,
+  onCloseSuccess,
   mintCount,
   mintPrice,
   maxMintable,
@@ -123,11 +125,38 @@ export const MintButton = ({
             </div>
             
             {mintStatus.status === 'success' && (
-              <div className="flex items-center justify-center space-x-2 text-xs sm:text-sm">
-                {getStatusIcon()}
-                <span className="font-medium text-green-600">
-                  {mintStatus.message}
-                </span>
+              <div className="bg-gradient-to-br from-amber-100/80 to-orange-100/80 dark:from-amber-800/30 dark:to-orange-800/30 backdrop-blur-md rounded-2xl p-4 border-2 border-amber-300 dark:border-amber-700 shadow-lg">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-3">
+                    <div className="flex-shrink-0">
+                      <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center shadow-md">
+                        <Icon name="check" className="w-5 h-5 text-white" />
+                      </div>
+                    </div>
+                    <div className="flex-1">
+                      <p className="font-semibold text-amber-800 dark:text-amber-200 text-sm">
+                        ¡Mint Exitoso!
+                      </p>
+                      <p className="text-amber-700 dark:text-amber-300 text-xs mt-1">
+                        {mintStatus.message}
+                      </p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => {
+                      console.log('Closing success message, onCloseSuccess exists:', !!onCloseSuccess);
+                      if (onCloseSuccess) {
+                        onCloseSuccess();
+                      } else {
+                        console.log('onCloseSuccess function not provided');
+                      }
+                    }}
+                    className="ml-3 bg-amber-600 hover:bg-amber-700 text-white rounded-full p-1.5 shadow-sm hover:shadow-md transition-all duration-200 flex items-center justify-center"
+                    title="Cerrar mensaje"
+                  >
+                    <Icon name="x" className="w-3 h-3 text-white" />
+                  </button>
+                </div>
               </div>
             )}
             
