@@ -25,7 +25,7 @@ export const NFTBottomNav: React.FC<NFTBottomNavProps> = ({ activeTab, onTabChan
     <nav className="bg-[var(--app-paper-bg)] border-t-2 border-[var(--app-accent)] shadow-[var(--app-shadow-nav)] relative">
       <div className="flex items-center justify-center px-4 py-2 relative">
         {/* Botones laterales (Home y NFT) */}
-        <div className="flex items-center justify-between w-full max-w-xs">
+        <div className="flex items-center justify-between w-full max-w-64">
           {navItems.filter(item => item.id !== 'mint').map((item) => {
             const isActive = activeTab === item.id;
             
