@@ -29,7 +29,7 @@ export default function MintLayout({
       <div className="w-full max-w-md mx-auto relative flex flex-col min-h-screen">
         {/* App Header */}
         <NFTHeader 
-          title="Reino de los Enanos"
+          title="Enanos Club"
           subtitle="Forja de Enanos Legendarios"
         />
         

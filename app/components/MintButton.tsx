@@ -29,7 +29,7 @@ export const MintButton = ({
   mintStatus,
   isConnected
 }: MintButtonProps) => {
-  const { usdcBalance } = useUSDCBalance();
+  const { usdcBalance, isLoading: isUSDCBalanceLoading } = useUSDCBalance();
 
   const getStatusIcon = () => {
     switch (mintStatus.status) {
@@ -68,6 +68,7 @@ export const MintButton = ({
   const isInsufficientBalance = usdcBalance < mintPrice * mintCount;
   const isTransactionProcessing = mintStatus.status === 'approving' || mintStatus.status === 'minting';
   const isDisabled = isLoading || 
+    isUSDCBalanceLoading ||
     isTransactionProcessing ||
     maxMintable === 0 ||
     isInsufficientBalance;
@@ -75,6 +76,7 @@ export const MintButton = ({
   const getButtonText = () => {
     if (mintStatus.status === 'approving') return 'Aprobando USDC...';
     if (mintStatus.status === 'minting') return 'Comprando Enanos...';
+    if (isUSDCBalanceLoading) return 'Cargando balance...';
     if (maxMintable === 0) return 'No disponible';
     if (isInsufficientBalance) return 'Balance insuficiente';
     return `Comprar ${mintCount} Enano${mintCount > 1 ? 's' : ''}`;
@@ -101,7 +103,7 @@ export const MintButton = ({
                 disabled={isDisabled}
                 className="bg-amber-600 hover:bg-amber-700 text-white px-3 sm:px-6 py-2 sm:py-3 text-xs sm:text-base font-bold shadow-lg transform hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none touch-manipulation flex-1"
                 icon={
-                  isTransactionProcessing ? 
+                  (isTransactionProcessing || isUSDCBalanceLoading) ? 
                   <div className="animate-spin rounded-full h-3 w-3 sm:h-5 sm:w-5 border-b-2 border-white"></div> : 
                   <Icon name="plus" className="w-3 h-3 sm:w-5 sm:h-5" />
                 }

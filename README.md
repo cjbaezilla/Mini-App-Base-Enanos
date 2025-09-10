@@ -1,10 +1,10 @@
-# Reino de los Enanos - MiniKit NFT Collection
+# Enanos Club - MiniKit NFT Collection
 
 Una aplicación web3 completa construida con MiniKit que presenta una colección épica de 188 NFTs únicos de enanos, cada uno con su propia historia legendaria y poderes mágicos extraordinarios. Esta aplicación funciona como un Frame de Farcaster, permitiendo a los usuarios explorar, buscar y mintear enanos únicos en un mundo de fantasía inmersivo.
 
 ## 🏔️ Sobre el Proyecto
 
-El Reino de los Enanos es más que una simple colección de NFTs; es una experiencia narrativa completa que transporta a los usuarios a las Montañas Legendarias, donde cada enano tiene una historia épica única, estadísticas especiales y poderes mágicos extraordinarios. Desde herreros legendarios hasta maestros de versos infinitos que controlan la realidad misma, cada personaje está cuidadosamente diseñado con metadatos ricos y lore extenso.
+El Enanos Club es más que una simple colección de NFTs; es una experiencia narrativa completa que transporta a los usuarios a las Montañas Legendarias, donde cada enano tiene una historia épica única, estadísticas especiales y poderes mágicos extraordinarios. Desde herreros legendarios hasta maestros de versos infinitos que controlan la realidad misma, cada personaje está cuidadosamente diseñado con metadatos ricos y lore extenso.
 
 La aplicación está construida con las tecnologías más modernas del ecosistema web3, utilizando MiniKit de Coinbase para la integración con Farcaster y OnchainKit para las interacciones blockchain, todo sobre la red Base para transacciones rápidas y económicas.
 
@@ -145,7 +145,7 @@ Crea un archivo `.env.local` con las siguientes variables:
 
 ```bash
 # Configuración de OnchainKit
-NEXT_PUBLIC_ONCHAINKIT_PROJECT_NAME=Reino de los Enanos
+NEXT_PUBLIC_ONCHAINKIT_PROJECT_NAME=Enanos Club
 NEXT_PUBLIC_URL=https://tu-dominio.com
 NEXT_PUBLIC_ICON_URL=https://tu-dominio.com/icon.png
 NEXT_PUBLIC_ONCHAINKIT_API_KEY=tu_api_key
@@ -161,8 +161,8 @@ NEXT_PUBLIC_APP_SPLASH_IMAGE=https://tu-dominio.com/splash.png
 NEXT_PUBLIC_SPLASH_BACKGROUND_COLOR=#8b4513
 NEXT_PUBLIC_APP_PRIMARY_CATEGORY=Gaming
 NEXT_PUBLIC_APP_HERO_IMAGE=https://tu-dominio.com/hero.png
-NEXT_PUBLIC_APP_TAGLINE=Explora el Reino de los Enanos
-NEXT_PUBLIC_APP_OG_TITLE=Reino de los Enanos - Colección NFT
+NEXT_PUBLIC_APP_TAGLINE=Explora el Enanos Club
+NEXT_PUBLIC_APP_OG_TITLE=Enanos Club - Colección NFT
 NEXT_PUBLIC_APP_OG_DESCRIPTION=188 enanos únicos con historias épicas
 NEXT_PUBLIC_APP_OG_IMAGE=https://tu-dominio.com/og-image.png
 

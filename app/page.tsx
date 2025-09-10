@@ -18,6 +18,8 @@ export default function App() {
       router.push('/mint');
     } else if (tabId === 'home') {
       router.push('/');
+    } else if (tabId === 'democracy') {
+      router.push('/democracy');
     }
   }, [router]);
 
@@ -26,7 +28,7 @@ export default function App() {
       <div className="w-full max-w-md mx-auto relative flex flex-col min-h-screen">
         {/* App Header */}
         <NFTHeader 
-          title="Reino de los Enanos"
+          title="Enanos Club"
           subtitle="Bienvenido a las Montañas Legendarias"
         />
         
