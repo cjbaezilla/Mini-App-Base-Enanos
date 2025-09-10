@@ -60,6 +60,64 @@
   --app-shadow-nav: 0 -2px 8px rgba(139, 69, 19, 0.1);
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* App Theme - Dark Mode Palette */
+    --app-background: #1a1611;
+    --app-background-secondary: #2d2419;
+    --app-background-tertiary: #3d3526;
+    --app-foreground: #f5f1e8;
+    --app-foreground-muted: #d4c5a0;
+    --app-foreground-dim: #b8a082;
+    
+    /* Brand Colors - Dark Mode */
+    --app-accent: #d4a574;
+    --app-accent-hover: #e6b885;
+    --app-accent-active: #c19763;
+    --app-accent-light: rgba(212, 165, 116, 0.1);
+    --app-accent-glow: rgba(212, 165, 116, 0.3);
+    
+    /* Secondary Colors - Dark Mode */
+    --app-purple: #a78bfa;
+    --app-purple-hover: #c4b5fd;
+    --app-purple-light: rgba(167, 139, 250, 0.1);
+    
+    --app-cyan: #6ee7b7;
+    --app-cyan-hover: #86efac;
+    --app-cyan-light: rgba(110, 231, 183, 0.1);
+    
+    --app-green: #84cc16;
+    --app-green-hover: #a3e635;
+    --app-green-light: rgba(132, 204, 22, 0.1);
+    
+    /* Surface Colors - Dark Mode */
+    --app-surface: rgba(212, 165, 116, 0.05);
+    --app-surface-hover: rgba(212, 165, 116, 0.08);
+    --app-surface-active: rgba(212, 165, 116, 0.12);
+    --app-surface-border: rgba(212, 165, 116, 0.15);
+    
+    /* Card Colors - Dark Mode */
+    --app-card-bg: rgba(26, 22, 17, 0.7);
+    --app-card-border: rgba(212, 165, 116, 0.2);
+    --app-card-hover: rgba(26, 22, 17, 0.8);
+    
+    /* Paper Effect - Dark Mode */
+    --app-paper-bg: #2d2419;
+    --app-paper-border: rgba(212, 165, 116, 0.2);
+    --app-paper-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    
+    /* Gradients - Dark Mode */
+    --app-gradient-primary: linear-gradient(135deg, #d4a574 0%, #a78bfa 100%);
+    --app-gradient-secondary: linear-gradient(135deg, #6ee7b7 0%, #84cc16 100%);
+    --app-gradient-surface: linear-gradient(135deg, rgba(26, 22, 17, 0.8) 0%, rgba(45, 36, 25, 0.9) 100%);
+    
+    /* Shadows - Dark Mode */
+    --app-shadow-glow: 0 0 15px rgba(212, 165, 116, 0.2);
+    --app-shadow-card: 0 4px 12px rgba(0, 0, 0, 0.3);
+    --app-shadow-nav: 0 -2px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
 .mini-app-theme {
   --ock-font-family: "Crimson Text", serif;
   --ock-border-radius: 0.5rem;

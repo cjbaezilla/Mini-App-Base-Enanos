@@ -2,11 +2,19 @@ import "./theme.css";
 import "@coinbase/onchainkit/styles.css";
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import "./mobile-fixes.css";
 import { Providers } from "./providers";
 
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f5f1e8" },
+    { media: "(prefers-color-scheme: dark)", color: "#1a1611" }
+  ],
+  colorScheme: "light dark",
 };
 
 export async function generateMetadata(): Promise<Metadata> {

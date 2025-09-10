@@ -1,0 +1,182 @@
+/* Mobile-specific color fixes and optimizations */
+
+/* Force hardware acceleration for better color rendering on mobile */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Improve color consistency across mobile browsers */
+@media screen and (max-width: 768px) {
+  /* Override complex gradients with simpler, more compatible ones */
+  .bg-gradient-to-br {
+    background: linear-gradient(135deg, var(--app-background) 0%, var(--app-background-secondary) 100%) !important;
+  }
+  
+  /* Simplify backdrop-blur effects that may not work consistently */
+  .backdrop-blur-md {
+    backdrop-filter: none !important;
+    background: rgba(255, 255, 255, 0.9) !important;
+  }
+  
+  /* Dark mode backdrop fixes */
+  @media (prefers-color-scheme: dark) {
+    .backdrop-blur-md {
+      background: rgba(26, 22, 17, 0.9) !important;
+    }
+  }
+  
+  /* Ensure text colors are more consistent */
+  .text-amber-800 {
+    color: #92400e !important;
+  }
+  
+  .text-amber-700 {
+    color: #a16207 !important;
+  }
+  
+  .text-amber-600 {
+    color: #b45309 !important;
+  }
+  
+  .text-amber-300 {
+    color: #fcd34d !important;
+  }
+  
+  .text-amber-200 {
+    color: #fde68a !important;
+  }
+  
+  /* Dark mode text fixes */
+  @media (prefers-color-scheme: dark) {
+    .text-amber-800 {
+      color: #fde68a !important;
+    }
+    
+    .text-amber-700 {
+      color: #fcd34d !important;
+    }
+    
+    .text-amber-600 {
+      color: #fbbf24 !important;
+    }
+    
+    .text-amber-300 {
+      color: #a16207 !important;
+    }
+    
+    .text-amber-200 {
+      color: #92400e !important;
+    }
+  }
+  
+  /* Simplify border colors for better mobile rendering */
+  .border-amber-300 {
+    border-color: #fcd34d !important;
+  }
+  
+  .border-amber-600 {
+    border-color: #d97706 !important;
+  }
+  
+  .border-amber-700 {
+    border-color: #b45309 !important;
+  }
+  
+  /* Dark mode border fixes */
+  @media (prefers-color-scheme: dark) {
+    .border-amber-300 {
+      border-color: #a16207 !important;
+    }
+    
+    .border-amber-600 {
+      border-color: #d97706 !important;
+    }
+    
+    .border-amber-700 {
+      border-color: #fcd34d !important;
+    }
+  }
+  
+  /* Background color fixes */
+  .bg-amber-100\/60 {
+    background-color: rgba(254, 243, 199, 0.6) !important;
+  }
+  
+  .bg-amber-800\/30 {
+    background-color: rgba(146, 64, 14, 0.3) !important;
+  }
+  
+  /* Dark mode background fixes */
+  @media (prefers-color-scheme: dark) {
+    .bg-amber-100\/60 {
+      background-color: rgba(26, 22, 17, 0.6) !important;
+    }
+    
+    .bg-amber-800\/30 {
+      background-color: rgba(253, 230, 138, 0.3) !important;
+    }
+  }
+}
+
+/* Additional mobile-specific optimizations */
+@media screen and (max-width: 480px) {
+  /* Further simplify for very small screens */
+  .shadow-lg {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  }
+  
+  /* Reduce complex gradients */
+  .bg-gradient-to-r {
+    background: var(--app-background) !important;
+  }
+  
+  /* Ensure consistent spacing */
+  .space-y-6 > * + * {
+    margin-top: 1rem !important;
+  }
+  
+  .space-y-3 > * + * {
+    margin-top: 0.5rem !important;
+  }
+}
+
+/* Fix for iOS Safari color rendering issues */
+@supports (-webkit-touch-callout: none) {
+  .bg-gradient-to-br {
+    background: var(--app-background) !important;
+  }
+  
+  .backdrop-blur-md {
+    backdrop-filter: none !important;
+    background: rgba(255, 255, 255, 0.95) !important;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .backdrop-blur-md {
+      background: rgba(26, 22, 17, 0.95) !important;
+    }
+  }
+}
+
+/* Fix for Android Chrome color rendering */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .text-amber-800 {
+    color: #92400e !important;
+  }
+  
+  .text-amber-700 {
+    color: #a16207 !important;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .text-amber-800 {
+      color: #fde68a !important;
+    }
+    
+    .text-amber-700 {
+      color: #fcd34d !important;
+    }
+  }
+}

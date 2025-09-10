@@ -343,7 +343,7 @@ export const Home: React.FC = () => {
               Enanos Club
             </h3>
             <p className="text-sm text-amber-600 dark:text-amber-400 mb-2">
-              Versión 1.5.2
+              Versión 1.6.0
             </p>
             <p className="text-amber-700 dark:text-amber-300 mb-4 leading-relaxed">
               Cada enano tiene una historia épica única, estadísticas especiales y poderes mágicos extraordinarios. 

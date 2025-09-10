@@ -20,6 +20,22 @@ const config: Config = {
         cyan: "var(--app-cyan)",
         green: "var(--app-green)",
         surface: "var(--app-surface)",
+        // Colores específicos para móviles con mejor compatibilidad
+        'mobile-bg': '#f5f1e8',
+        'mobile-bg-dark': '#1a1611',
+        'mobile-text': '#3d3526',
+        'mobile-text-dark': '#f5f1e8',
+        'mobile-accent': '#8b4513',
+        'mobile-accent-dark': '#d4a574',
+      },
+      // Mejorar compatibilidad con móviles
+      screens: {
+        'xs': '475px',
+        'sm': '640px',
+        'md': '768px',
+        'lg': '1024px',
+        'xl': '1280px',
+        '2xl': '1536px',
       },
       animation: {
         "fade-out": "1s fadeOut 3s ease-out forwards",

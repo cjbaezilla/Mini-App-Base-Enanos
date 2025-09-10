@@ -17,6 +17,10 @@ export function SocialIcons({ className = "" }: SocialIconsProps) {
     window.open('https://era.guild.xyz/enanos-club-base', '_blank');
   };
 
+  const handleOpenSeaClick = () => {
+    window.open('https://opensea.io/collection/enanos-de-leyenda', '_blank');
+  };
+
   return (
     <div className={`flex justify-center space-x-4 ${className}`}>
       {/* Twitter Icon */}
@@ -66,6 +70,27 @@ export function SocialIcons({ className = "" }: SocialIconsProps) {
             strokeLinejoin="round" 
             strokeWidth={2} 
             d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" 
+          />
+        </svg>
+      </button>
+
+      {/* OpenSea Icon */}
+      <button
+        onClick={handleOpenSeaClick}
+        className="w-10 h-10 bg-amber-100 dark:bg-amber-800/30 hover:bg-amber-200 dark:hover:bg-amber-800/50 rounded-full flex items-center justify-center border border-amber-200 dark:border-amber-700 hover:border-amber-300 dark:hover:border-amber-600 transition-all duration-200 group shadow-sm hover:shadow-md"
+        aria-label="Ver en OpenSea"
+      >
+        <svg 
+          className="w-5 h-5 text-amber-700 dark:text-amber-300 group-hover:scale-110 transition-transform duration-200" 
+          fill="none" 
+          stroke="currentColor" 
+          viewBox="0 0 24 24"
+        >
+          <path 
+            strokeLinecap="round" 
+            strokeLinejoin="round" 
+            strokeWidth={2} 
+            d="M3 12h18M5 12V8l7-4 7 4v4M5 12v8h14v-8M9 8h6M9 12h6" 
           />
         </svg>
       </button>
