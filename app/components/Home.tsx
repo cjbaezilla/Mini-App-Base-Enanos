@@ -343,12 +343,13 @@ export const Home: React.FC = () => {
               Enanos Club
             </h3>
             <p className="text-sm text-amber-600 dark:text-amber-400 mb-2">
-              Versión 1.6.0
+              Versión 2.1.11
             </p>
             <p className="text-amber-700 dark:text-amber-300 mb-4 leading-relaxed">
               Cada enano tiene una historia épica única, estadísticas especiales y poderes mágicos extraordinarios. 
               Desde herreros legendarios hasta maestros de versos infinitos que controlan la realidad misma.
             </p>
+            
             <div className="flex justify-center space-x-4 text-sm font-medium text-amber-800 dark:text-amber-200">
               <span>• Edades: 167-278 años</span>
               <span>• Maestría: 91-100</span>
