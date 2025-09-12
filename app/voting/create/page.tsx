@@ -10,9 +10,66 @@ import { Toast, useToast } from '../../components/ui/Toast';
 import { useDAOContract } from '../../../lib/hooks/useDAOContract';
 import { useAccount } from 'wagmi';
 import { useMiniKit } from '@coinbase/onchainkit/minikit';
+import { useHydration } from '../../../lib/hooks/useHydration';
+
+// Diccionario de nombres épicos de enanos
+const DWARF_FIRST_NAMES = [
+  'Thorin', 'Balin', 'Dwalin', 'Fili', 'Kili', 'Dori', 'Nori', 'Ori', 'Oin', 'Gloin',
+  'Bifur', 'Bofur', 'Bombur', 'Dain', 'Gimli', 'Gloin', 'Balin', 'Dwalin', 'Fili', 'Kili',
+  'Durin', 'Thrain', 'Thror', 'Azaghâl', 'Telchar', 'Narvi', 'Celebrimbor', 'Mîm', 'Azaghâl', 'Telchar',
+  'Gundabad', 'Erebor', 'Moria', 'Khazad-dûm', 'Nogrod', 'Belegost', 'Ironforge', 'Stormwind', 'Thunder', 'Stone',
+  'Iron', 'Steel', 'Bronze', 'Copper', 'Silver', 'Gold', 'Mithril', 'Adamant', 'Diamond', 'Ruby',
+  'Sapphire', 'Emerald', 'Onyx', 'Jade', 'Crystal', 'Quartz', 'Granite', 'Marble', 'Basalt', 'Obsidian',
+  'Flint', 'Coal', 'Tin', 'Lead', 'Zinc', 'Nickel', 'Cobalt', 'Titanium', 'Tungsten', 'Platinum',
+  'Hammer', 'Axe', 'Pick', 'Sword', 'Shield', 'Armor', 'Helm', 'Gauntlet', 'Boot', 'Belt',
+  'Forge', 'Anvil', 'Bellows', 'Tongs', 'Chisel', 'Mallet', 'Sledge', 'Drill', 'Saw', 'File',
+  'Mountain', 'Peak', 'Summit', 'Ridge', 'Crag', 'Cliff', 'Valley', 'Cavern', 'Tunnel', 'Mine',
+  'Deep', 'Dark', 'Shadow', 'Gloom', 'Frost', 'Ice', 'Snow', 'Storm', 'Thunder', 'Lightning'
+];
+
+// Diccionario de apellidos épicos de enanos
+const DWARF_LAST_NAMES = [
+  'Ironbeard', 'Stonefist', 'Goldhammer', 'Silveraxe', 'Bronzebreaker', 'Steelheart', 'Ironfoot', 'Stonehelm', 'Goldbeard', 'Silverhand',
+  'Bronzearm', 'Steeltooth', 'Ironback', 'Stonechest', 'Goldfoot', 'Silvereye', 'Bronzebrow', 'Steeljaw', 'Ironclaw', 'Stonefist',
+  'Goldheart', 'Silverbeard', 'Bronzefoot', 'Steelhelm', 'Ironarm', 'Stonehand', 'Goldtooth', 'Silverclaw', 'Bronzeback', 'Steelchest',
+  'Ironbrow', 'Stonefoot', 'Goldarm', 'Silvertooth', 'Bronzehelm', 'Steelhand', 'Ironchest', 'Stonebrow', 'Goldclaw', 'Silverfoot',
+  'Bronzearm', 'Steeltooth', 'Ironback', 'Stonechest', 'Goldfoot', 'Silvereye', 'Bronzebrow', 'Steeljaw', 'Ironclaw', 'Stonefist',
+  'Mountainborn', 'Deepdelver', 'Caverncrawler', 'Tunneldigger', 'Mineworker', 'Forgefire', 'Anvilstriker', 'Hammerwielder', 'Axebearer', 'Pickwielder',
+  'Swordmaster', 'Shieldbearer', 'Armorforger', 'Helmcreator', 'Gauntletmaker', 'Bootcraft', 'Beltweaver', 'Ringforger', 'Crownmaker', 'Thronebuilder',
+  'Kingsguard', 'Queensguard', 'Lordprotector', 'Ladydefender', 'Champion', 'Hero', 'Legend', 'Myth', 'Saga', 'Epic',
+  'Ancient', 'Elder', 'Wise', 'Cunning', 'Brave', 'Bold', 'Fierce', 'Strong', 'Mighty', 'Powerful',
+  'Noble', 'Honorable', 'Loyal', 'True', 'Faithful', 'Steadfast', 'Resolute', 'Determined', 'Persistent', 'Enduring',
+  'Thunder', 'Lightning', 'Storm', 'Tempest', 'Hurricane', 'Blizzard', 'Avalanche', 'Earthquake', 'Volcano', 'Tsunami'
+];
+
+// Función para generar nombre de enano basado en dirección
+const generateDwarfName = (address: string): string => {
+  if (!address) return 'Anónimo';
+  
+  // Convertir dirección a número para usar como seed determinístico
+  let hash = 0;
+  for (let i = 0; i < address.length; i++) {
+    const char = address.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash; // Convertir a 32bit integer
+  }
+  
+  // Usar valor absoluto para asegurar positividad
+  const seed = Math.abs(hash);
+  
+  // Seleccionar nombre y apellido basado en el seed
+  const firstNameIndex = seed % DWARF_FIRST_NAMES.length;
+  const lastNameIndex = Math.floor(seed / DWARF_FIRST_NAMES.length) % DWARF_LAST_NAMES.length;
+  
+  return `${DWARF_FIRST_NAMES[firstNameIndex]} ${DWARF_LAST_NAMES[lastNameIndex]}`;
+};
 
 export default function CreateProposalPage() {
   const [activeTab, setActiveTab] = useState('voting');
+  
+  // Hook de hidratación para evitar problemas de SSR - debe ir primero
+  const isHydrated = useHydration();
+  
   // Función para formatear fecha a DD-MM-YYYY
   const formatDateToDDMMYYYY = (date: Date): string => {
     const day = String(date.getDate()).padStart(2, '0');
@@ -63,8 +120,15 @@ export default function CreateProposalPage() {
     }
   };
 
-  // Calcular fechas por defecto
-  const getDefaultDates = () => {
+  // Calcular fechas por defecto - solo en el cliente después de la hidratación
+  const getDefaultDates = useCallback(() => {
+    if (!isHydrated) {
+      return {
+        startDate: '',
+        endDate: ''
+      };
+    }
+    
     const now = new Date();
     const startDate = new Date(now.getTime() + 2 * 60 * 60 * 1000); // 2 horas en el futuro
     const endDate = new Date(startDate.getTime() + 7 * 24 * 60 * 60 * 1000); // 7 días después
@@ -73,14 +137,14 @@ export default function CreateProposalPage() {
       startDate: formatDateToDDMMYYYY(startDate),
       endDate: formatDateToDDMMYYYY(endDate)
     };
-  };
+  }, [isHydrated]);
 
   const [formData, setFormData] = useState({
     title: '',
     description: '',
     link: '',
-    startDate: getDefaultDates().startDate,
-    endDate: getDefaultDates().endDate
+    startDate: '',
+    endDate: ''
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
   const router = useRouter();
@@ -105,7 +169,34 @@ export default function CreateProposalPage() {
   
   // Obtener información del usuario de Farcaster
   const { context } = useMiniKit();
-  const username = context?.user?.displayName || context?.user?.username || 'Usuario';
+  
+  // Generar nombre de usuario: Farcaster si está disponible, sino nombre de enano generado
+  const getUsername = useCallback(() => {
+    // No generar username hasta que esté hidratado
+    if (!isHydrated) {
+      return 'Cargando...';
+    }
+    
+    if (context?.user?.displayName || context?.user?.username) {
+      return context?.user?.displayName || context?.user?.username || 'Usuario';
+    }
+    // Si no está en Farcaster, usar nombre de enano generado basado en la dirección
+    return address ? generateDwarfName(address) : 'Anónimo';
+  }, [context?.user, address, isHydrated]);
+  
+  const username = getUsername();
+
+  // Establecer fechas por defecto cuando esté hidratado
+  useEffect(() => {
+    if (isHydrated && (!formData.startDate || !formData.endDate)) {
+      const defaultDates = getDefaultDates();
+      setFormData(prev => ({
+        ...prev,
+        startDate: defaultDates.startDate,
+        endDate: defaultDates.endDate
+      }));
+    }
+  }, [isHydrated, getDefaultDates, formData.startDate, formData.endDate]);
 
   // Función para calcular el costo estimado de gas
   const calculateGasCost = useCallback(async () => {
@@ -243,9 +334,9 @@ export default function CreateProposalPage() {
       return;
     }
 
-    // Validar que tengamos información del usuario de Farcaster
-    if (!context?.user) {
-      showError('Farcaster no autenticado', 'Debes estar autenticado con Farcaster para crear una propuesta');
+    // Validar que tengamos un nombre de usuario (Farcaster o enano generado)
+    if (!username || username === 'Anónimo') {
+      showError('Usuario no identificado', 'No se pudo identificar al usuario para crear la propuesta');
       return;
     }
 
@@ -447,9 +538,16 @@ export default function CreateProposalPage() {
                           <p className="text-sm font-medium text-amber-800 dark:text-amber-200">
                             Creando propuesta como:
                           </p>
-                          <p className="text-lg font-bold text-amber-900 dark:text-amber-100">
-                            {username}
-                          </p>
+                          <div className="text-lg font-bold text-amber-900 dark:text-amber-100">
+                            {username === 'Cargando...' ? (
+                              <span className="flex items-center">
+                                <div className="w-4 h-4 border-2 border-amber-600 border-t-transparent rounded-full animate-spin mr-2"></div>
+                                {username}
+                              </span>
+                            ) : (
+                              username
+                            )}
+                          </div>
                         </div>
                       </div>
                       <div className="text-right">
@@ -617,7 +715,7 @@ export default function CreateProposalPage() {
                 </Button>
                 <Button
                   type="submit"
-                  disabled={isSubmitting || isPending || isConfirming || !isConnected || !context?.user || !formData.title.trim() || !formData.description.trim() || !formData.link.trim() || !formData.startDate || !formData.endDate || (userVotingPower || BigInt(0)) < BigInt(10)}
+                  disabled={isSubmitting || isPending || isConfirming || !isHydrated || !isConnected || !username || username === 'Anónimo' || username === 'Cargando...' || !formData.title.trim() || !formData.description.trim() || !formData.link.trim() || !formData.startDate || !formData.endDate || (userVotingPower || BigInt(0)) < BigInt(10)}
                   className="flex-1 bg-amber-600 hover:bg-amber-700 disabled:bg-gray-400 text-white font-semibold"
                 >
                   {isSubmitting || isPending ? (
@@ -630,15 +728,20 @@ export default function CreateProposalPage() {
                       <div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin mr-2"></div>
                       Confirmando...
                     </>
+                  ) : !isHydrated ? (
+                    <>
+                      <Icon name="user" size="sm" className="mr-2" />
+                      Cargando...
+                    </>
                   ) : !isConnected ? (
                     <>
                       <Icon name="wallet" size="sm" className="mr-2" />
                       Conectar Wallet
                     </>
-                  ) : !context?.user ? (
+                  ) : !username || username === 'Anónimo' || username === 'Cargando...' ? (
                     <>
                       <Icon name="user" size="sm" className="mr-2" />
-                      Autenticar Farcaster
+                      {username === 'Cargando...' ? 'Cargando Usuario...' : 'Identificar Usuario'}
                     </>
                   ) : (userVotingPower || BigInt(0)) < BigInt(10) ? (
                     <>

@@ -9,6 +9,7 @@ import { Icon } from '../components/ui/Icon';
 import { Toast, useToast } from '../components/ui/Toast';
 import { useDAOContract } from '../../lib/hooks/useDAOContract';
 import { useAccount } from 'wagmi';
+import { useHydration } from '../../lib/hooks/useHydration';
 
 // La interfaz Proposal ahora se importa desde el hook
 
@@ -20,6 +21,7 @@ export default function VotingPage() {
   const [votingInProgress, setVotingInProgress] = useState<Record<string, boolean>>({});
   const router = useRouter();
   const { isConnected } = useAccount();
+  const isHydrated = useHydration();
   
   // Hook de toast para notificaciones
   const { toasts, showError, showWarning, removeToast } = useToast();
@@ -166,7 +168,7 @@ export default function VotingPage() {
               </p>
               
               {/* User Voting Power */}
-              {isConnected && (
+              {isHydrated && isConnected && (
                 <div className="mt-4 bg-amber-50/80 dark:bg-amber-900/50 rounded-lg p-3 border border-amber-300 dark:border-amber-600">
                   <div className="flex items-center justify-center space-x-2">
                     <div className="w-6 h-6 bg-amber-200 dark:bg-amber-800 rounded-full flex items-center justify-center">

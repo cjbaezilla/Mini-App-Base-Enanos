@@ -1,4 +1,5 @@
 import React from 'react';
+import { useHydration } from '../../../lib/hooks/useHydration';
 
 interface IconProps {
   name: string;
@@ -7,6 +8,8 @@ interface IconProps {
 }
 
 export const Icon: React.FC<IconProps> = ({ name, size = 'md', className = '' }) => {
+  const isHydrated = useHydration();
+  
   const sizeClasses = {
     sm: 'w-4 h-4',
     md: 'w-5 h-5',
@@ -243,6 +246,17 @@ export const Icon: React.FC<IconProps> = ({ name, size = 'md', className = '' })
   
   const iconElement = iconMap[name] || iconMap['home'];
   const classes = `${sizeClasses[size]} ${className}`;
+  
+  // Evitar problemas de hidratación renderizando solo en el cliente
+  if (!isHydrated) {
+    return (
+      <span className={classes}>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+        </svg>
+      </span>
+    );
+  }
   
   return (
     <span className={classes}>

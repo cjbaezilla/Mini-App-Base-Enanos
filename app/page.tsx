@@ -26,6 +26,7 @@ export default function App() {
   return (
     <div className="flex flex-col min-h-screen font-body text-foreground mini-app-theme bg-background">
       <div className="w-full max-w-md mx-auto relative flex flex-col min-h-screen">
+        
         {/* App Header */}
         <NFTHeader 
           title="Enanos Club"
